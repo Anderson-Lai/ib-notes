@@ -1,6 +1,6 @@
 ## All my notes for the IB program
 
-#### Courses taken:
+### Courses taken:
 - HL Math
 - HL Physics
 - HL Economics
