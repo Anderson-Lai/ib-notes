@@ -1,4 +1,4 @@
-### All my notes for the IB program
+## All my notes for the IB program
 
 #### Courses taken:
 - HL Math
