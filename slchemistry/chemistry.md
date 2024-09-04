@@ -20,4 +20,17 @@ Mg + NO3 -> Mg(NO3)2 (remember the brackets, NO3 is a polyatomic compound), magn
 pernitrate, nitrate, nitrite, hyponitrite (possible combinations of each polyatomic) (charges: -4, -3, -2, -1)
 if the polyatomic can not be drawn (with proper rules), it does not exist
 
+recall: hydrogen is a non-metal, thus water is a covalent compound (albeit it is one of the stronger covalent compounds)
+normal (distilled) water has a density of 1 
 
+in lattice structures - smaller is normally the metal, larger is non-metal
+H20 is stating the RATIO of elements
+the more compacted the elements are into the lattice structure, the stronger the structure
+(this concept can be used an idea to prove strength of bonds)
+dissolving a structure (compound) in water can be used to test its strength
+the more that can dissolve, the weaker the structure
+there is no real trend with melting point
+the melting point influences the strength of a structure, but it will fluctuate and certain stronger elements will have a lower melting point, 
+even when structures should be getting stronger (there are other factors that influence the strength of structures)
+
+#### A single blanket statement can not be made for groups of elements
