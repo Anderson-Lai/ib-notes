@@ -36,6 +36,20 @@ even when structures should be getting stronger (there are other factors that in
 #### A single blanket statement can not be made for groups of elements  
   
 ## sept 5, 2024  
-  
-  
+
+### Lattice Enthalpy
+the harder a compound is to make, the harder it is for it to break apart  
+lattice energy - the amount of energy needed to break apart the electrostatic attraction  
+the more electrons given, the stronger the bond  
+electrons move one at a time, after first electron leaves, the attractional force becomes stronger for the element losing electrons  
+the element gaining electrons also gains a negative charge, making the incoming electron more repelled and more difficult to be absorbed  
+
+### Aqueous Solutions
+in a higher energy state than a solid, and thus are easier to make react  
+water is a solvent in this case  
+salt would be a solute  
+
+energy is always moving, a solid being dissolved is also always being reformed; however, it is being dissolved
+at such a speed where it is not visible  
+
 
