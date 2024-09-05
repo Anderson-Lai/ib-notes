@@ -106,7 +106,7 @@ these factors cause our resources, goods, and services to be scarce
 - how
 - for whom 
 
-what do we produce first?  
+#### What do we produce first?  
 how do we make said produce or provide a service? (do we need machines, human labour, money, or labour?)  
 
 Resources Allocation - allocating resources properly to provide a good or service  
