@@ -1,4 +1,4 @@
-## sept 4, 2024 - Review +   
+# sept 4, 2024 - Review +  
   
 ### Ionic Compounds  
 positive charge and negative charge bound together. can only conduct electricity when it is NOT a stable compound.  
@@ -35,7 +35,7 @@ even when structures should be getting stronger (there are other factors that in
   
 #### A single blanket statement can not be made for groups of elements  
   
-## sept 5, 2024  
+# sept 5, 2024  
 
 ### Lattice Enthalpy
 the harder a compound is to make, the harder it is for it to break apart  
