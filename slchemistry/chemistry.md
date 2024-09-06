@@ -1,6 +1,6 @@
 # sept 4, 2024 - Review +  
   
-### Ionic Compounds  
+## Ionic Compounds  
 positive charge and negative charge bound together. can only conduct electricity when it is NOT a stable compound.  
 dissolving in water is a physical change.  
 the bond's strength comes from the electrostatic attraction. positive and negative force brings them together.  
@@ -33,18 +33,18 @@ there is no real trend with melting point
 the melting point influences the strength of a structure, but it will fluctuate and certain stronger elements will have a lower melting point,   
 even when structures should be getting stronger (there are other factors that influence the strength of structures)  
   
-#### A single blanket statement can not be made for groups of elements  
+### A single blanket statement can not be made for groups of elements  
   
 # sept 5, 2024  
 
-### Lattice Enthalpy
+## Lattice Enthalpy
 the harder a compound is to make, the harder it is for it to break apart  
 lattice energy - the amount of energy needed to break apart the electrostatic attraction  
 the more electrons given, the stronger the bond  
 electrons move one at a time, after first electron leaves, the attractional force becomes stronger for the element losing electrons  
 the element gaining electrons also gains a negative charge, making the incoming electron more repelled and more difficult to be absorbed  
 
-### Aqueous Solutions
+## Aqueous Solutions
 in a higher energy state than a solid, and thus are easier to make react  
 water is a solvent in this case  
 salt would be a solute  
