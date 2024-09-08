@@ -14,11 +14,12 @@ def get_value(name: str) -> dict:
     return {}
 
 def main():
-
-    name = input("element: ")
-    result = get_value(name)
-    formatted = json.dumps(result, indent=4)
-    print(formatted)
+    while True:
+        name = input("\nelement: ")
+        result = get_value(name)
+        formatted = json.dumps(result, indent=4)
+        print()
+        print(formatted)
     
     return 0
 
