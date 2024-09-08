@@ -11,6 +11,7 @@ def get_value(name: str) -> dict:
                     return element
     except FileNotFoundError:
         return {}
+    return {}
 
 def main():
 
