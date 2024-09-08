@@ -24,7 +24,7 @@ recall: hydrogen is a non-metal, thus water is a covalent compound (albeit it is
 normal (distilled) water has a density of 1   
   
 in lattice structures - smaller is normally the metal, larger is non-metal  
-H20 is stating the RATIO of elements  
+H2O is stating the RATIO of elements  
 the more compacted the elements are into the lattice structure, the stronger the structure  
 (this concept can be used an idea to prove strength of bonds)  
 dissolving a structure (compound) in water can be used to test its strength  
