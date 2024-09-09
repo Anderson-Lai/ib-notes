@@ -124,4 +124,27 @@ what resources do we need to produce this product?
 an economic goal is distributing goods equally (does not always happen)
 how will goods and services be distributed to the population?  
 
-# Sept 6, 2024
+# Sept 9, 2024
+
+## Opportunity Cost Production
+the expected value of the best altnerative  
+all human choices require cost and tradeoff  
+every good a nation produces faces a tradeoff of a good it can no longer produce  
+how much of each product is a nation willing to produce to maximize its resources (guns and butter)  
+
+## Making Economic Choices 
+market vs command method  
+- market (private companies making decisions)
+- command (government makes the choices and not the businesses)
+
+## Resource Allocation and Output/Input Distribution 
+3 main questions are forced by scarcity:
+- what/how much to produce 
+- how to produce (machine to labour ratio, which technologies, which materials, what skills)
+- produce for whom? (equality vs earned, should certain services/goods be distributed more evenly)
+
+#### What/How to produce -> resource Allocation
+#### Whom to produce -> distribution of output and income  
+
+## Resource Allocation 
+
