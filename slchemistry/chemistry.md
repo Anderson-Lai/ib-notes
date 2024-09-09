@@ -1,4 +1,4 @@
-# sept 4, 2024 - Review +  
+# Sept 4, 2024 - Review +  
   
 ## Ionic Compounds  
 positive charge and negative charge bound together. can only conduct electricity when it is NOT a stable compound.  
@@ -35,7 +35,7 @@ even when structures should be getting stronger (there are other factors that in
   
 ### A single blanket statement can not be made for groups of elements  
   
-# sept 5, 2024  
+# Sept 5, 2024  
 
 ## Lattice Enthalpy
 the harder a compound is to make, the harder it is for it to break apart  
@@ -51,5 +51,26 @@ salt would be a solute
 
 energy is always moving, a solid being dissolved is also always being reformed; however, it is being dissolved
 at such a speed where it is not visible  
+
+# Sept 9, 2024
+
+## Covalent Structures
+criss-cross method still remains  
+remember to add prefixes (-ide suffix still exists)  
+sign of the charges in these structures does not matter  
+there is no electrostatic attraction  
+
+reduction subscripts can occur (they share electrons in many different ways) (will not show all possible formations of said compound though)
+they need space to share the electrons (lewis structures need to be drawn)  
+
+electrons by themself in a lewis structure are not happy (if any are left, said compound can not exist)  
+this should be used to determine if a compound exists, not reducing subscripts  
+either 2, 4, or 6 electrons can be shared  
+all elements (except hydrogen) should have 8 valence electrons  
+
+one oxygen can not share to two carbons (just does not exist in chemistry)  
+if such structure (like a triangle) exists in your drawing, that compound does not exist  
+'cycles' do not exist either (an oxygen reaching across a carbon to another oxygen won't exist)  
+an atom should only be one side of another atom (O - C - O)
 
 

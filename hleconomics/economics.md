@@ -1,4 +1,4 @@
-# sept 4, 2024 - Intro to Economics  
+# Sept 4, 2024 - Intro to Economics  
   
 Economics is a social science, i.e., it uses the scientific method to learn more about human interaction and society  
   
@@ -35,7 +35,7 @@ and are becoming more scarce due to overuse and depletion
   
 services provided by the government are seemingly "free", but are produced by scarce resources, funded by tax revenues  
   
-# sept 5, 2024 - What is Economics?
+# Sept 5, 2024 - What is Economics?
 
 how to supply our wants with our limited resources?  
 how do we allocate our resources efficiently and sustainably?  
@@ -124,4 +124,4 @@ what resources do we need to produce this product?
 an economic goal is distributing goods equally (does not always happen)
 how will goods and services be distributed to the population?  
 
-# sept 6, 2024
+# Sept 6, 2024
