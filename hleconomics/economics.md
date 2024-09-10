@@ -126,7 +126,7 @@ how will goods and services be distributed to the population?
 
 # Sept 9, 2024
 
-## Opportunity Cost Production
+## Opportunity Cost and Production
 the expected value of the best altnerative  
 all human choices require cost and tradeoff  
 every good a nation produces faces a tradeoff of a good it can no longer produce  
@@ -143,8 +143,16 @@ market vs command method
 - how to produce (machine to labour ratio, which technologies, which materials, what skills)
 - produce for whom? (equality vs earned, should certain services/goods be distributed more evenly)
 
-#### What/How to produce -> resource Allocation
-#### Whom to produce -> distribution of output and income  
+**What/How to produce -> resource Allocation**  
+**Whom to produce -> distribution of output and income**  
 
 ## Resource Allocation 
+assigning available resources or factors of production to specific uses amongst altneratives  
+what is produced, and how much is produced  
+if a change in the number of goods produced is made a reallocation is required (overallocation vs underallocation)  
 
+## Distribution of Output
+how much of the produced goods do certain individuals or groups receive  
+related to **distribution of income**  
+amount people can buy is directly related to how much income they have  
+**Redistribution of income** - when social groups receive more, less, or input/output less than previously
