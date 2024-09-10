@@ -126,7 +126,7 @@ how will goods and services be distributed to the population?
 
 # Sept. 9, 2024
 
-## Opportunity Cost Production
+## Opportunity Cost and Production
 the expected value of the best altnerative  
 all human choices require cost and tradeoff  
 every good a nation produces faces a tradeoff of a good it can no longer produce  
@@ -143,8 +143,65 @@ market vs command method
 - how to produce (machine to labour ratio, which technologies, which materials, what skills)
 - produce for whom? (equality vs earned, should certain services/goods be distributed more evenly)
 
-#### What/How to produce -> resource Allocation
-#### Whom to produce -> distribution of output and income  
+**What/How to produce -> resource Allocation**  
+**Whom to produce -> distribution of output and income**  
 
 ## Resource Allocation 
+assigning available resources or factors of production to specific uses amongst altneratives  
+what is produced, and how much is produced  
+if a change in the number of goods produced is made a reallocation is required (overallocation vs underallocation)  
+
+## Distribution of Output
+how much of the produced goods do certain individuals or groups receive  
+related to **distribution of income**  
+amount people can buy is directly related to how much income they have  
+**Redistribution of income** - when social groups receive more, less, or input/output less than previously
+
+## Free Market Economy, Planned Economy, Mixed Economy 
+real world economies normally mix free market and planned economies (mixed economies)  
+
+### Resource ownership: public vs private sector
+public sector - government owned and controlled  
+private sector - owned by individuals, businesses, non-government organizations  
+
+free market economy - private sector resource ownership  
+planned economy - public sector resource ownership  
+
+### Economic decision-making  
+what and how much is produced, for whom is something produced?  
+
+free market - private sector determines the answers to these questions  
+planned economy - government determines the answers to these questions
+
+### Rationing System
+**rationing** - method used to divide something amongst interested users
+
+free market economy - **price rationing** is used to determine resource allocation and output/income distribution  
+who receives what and how much they receive is based on the prices of goods and services  
+
+planned economy - uses non-price rationing  
+results from no markets or government intervention  
+what/how much is produced, how it is produced, who will receive the output are determined by methods not related to prices in the market  
+
+**In a free market economy, househoulds and firms control the resource and product markets**  
+**A planned economy is marked by absence or limited operation of markets, the government makes all decisions on allocations and distribution of resources, goods, and services through methods that are not price rationing**  
+
+## Mixed Economy and the Mixed Market Economy
+public and private sector work together  
+government normally makes decisions on activities under its ownership (parks, defense, etc.)  
+
+however, government is not limited to just activities in its ownership  
+United States government affects private sector via minimum wage, tax collection, anti-monopolative legislations, etc.  
+
+government involvement is a response to the failure of the market mechanisms or to the demands or politically-powerful groups  
+however, the extent to which the government is invovlved varies from country to country  
+
+price rationing typically dominates over non-price rationing in mixed market economies  
+in the absence of markets (public health care, defense systems, roads), non-price rationing occurs  
+government acts as a central planner  
+resources are distributed via non-price rationing (e.g. a queue for free healthcare)  
+
+today, market-based activities have a higher popularity than central planning (less public sector involvement)  
+supply-side policies and recognition of the limitations of central planning caused this shift in the 1980's  
+
 
