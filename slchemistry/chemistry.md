@@ -1,4 +1,4 @@
-# Sept 4, 2024 - Review +  
+# Sept. 4, 2024 - Review +  
   
 ## Ionic Compounds  
 positive charge and negative charge bound together. can only conduct electricity when it is NOT a stable compound.  
@@ -35,7 +35,7 @@ even when structures should be getting stronger (there are other factors that in
   
 ### A single blanket statement can not be made for groups of elements  
   
-# Sept 5, 2024  
+# Sept. 5, 2024 - Lattice Enthalpy
 
 ## Lattice Enthalpy
 the harder a compound is to make, the harder it is for it to break apart  
@@ -52,7 +52,7 @@ salt would be a solute
 energy is always moving, a solid being dissolved is also always being reformed; however, it is being dissolved
 at such a speed where it is not visible  
 
-# Sept 9, 2024
+# Sept. 9, 2024 - Covalent Compounds
 
 ## Covalent Structures
 criss-cross method still remains  
@@ -72,5 +72,48 @@ one oxygen can not share to two carbons (just does not exist in chemistry)
 if such structure (like a triangle) exists in your drawing, that compound does not exist  
 'cycles' do not exist either (an oxygen reaching across a carbon to another oxygen won't exist)  
 an atom should only be one side of another atom (O - C - O)
+
+# Sept. 10, 2024 - Lewis Structures
+
+## Coordinate Bonds
+an already bonded group of 2 electrons (say in nitrogen), shares its pair of two electrons with another element  
+only exists for period 2 nonmetals  
+for subsequent periods, the valence electrons are farther away, and the sharing can be substituted for something else  
+a full lone pair is being shared (very, very weak bond)  
+
+only kick out electrons for elements that are "unhappy"  
+difficult to kick out electrons for "happy" elements  
+contrary to ionic compounds, harder to make != harder to break, rather, it makes the covalent compound harder to form  
+
+all atoms at the end of the drawing must have 8 total electrons, or else the compound does not exist  
+oxygen can not bind with another oxygen ever  
+a polyatomic must have the same charge across different 'variants' for it to be considered the same polyatomic  
+
+NO4 (1-) - pernitrate (does not exist)  
+NO3 (1-) - nitrate  
+NO2 (1-) - nitrite  
+NO (1-) - hyponitrite - possible, however, you do not to add the extra charge on the 'central' atom (like a metal in an ionic compound)  
+(the charge is added to the nitrogen)  
+if the charge were to put on the oxygen, a lot more bonding has to happen, making it much more unlikely to be formed than with the result with the extra electron added to the nitrogen  
+
+however, even with the added charge on the central nitrogen atom, the structure is still unlikely to form (due to the extra charge on a central atom)  
+
+**All covalent compounds follow the octet rule**  
+Exceptions:   
+- Hydrogen must only have 2 electrons  
+- Incomplete octet (take BCl3)  
+
+the most imoprtant factor is that  all existing valence electrons are paired up  
+since boron had 3 valence electrons, there only being 6 total electrson in the valence shell means it is still satisfied  
+the 3 chlorine share their electrons to make the 3 valence electrons of boron paired, thus making boron 'satisfied'  
+
+**Goal number 1: pair single electrons**
+
+- Expanded octet  
+
+for period 3-7 atoms:  
+separate lone pairs to make more bonds (SO4 2-)  
+satisfied pairs are 'broken apart' into 2 separate electrons to make more bonds  
+sulfur ends up having 12 valence electrons, which, since its valence shell is farther from the nucleus, is possible  
 
 
