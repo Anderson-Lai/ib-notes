@@ -204,4 +204,10 @@ resources are distributed via non-price rationing (e.g. a queue for free healthc
 today, market-based activities have a higher popularity than central planning (less public sector involvement)  
 supply-side policies and recognition of the limitations of central planning caused this shift in the 1980's  
 
+# Sept 10, 2024 
+
+## Positive and Normative Statements 
+Positive - a prediction or statement based on fact and observable factors  
+Normative - an opinion or belief; can not be corroborated or disproved  
+
 

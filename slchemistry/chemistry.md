@@ -116,4 +116,6 @@ separate lone pairs to make more bonds (SO4 2-)
 satisfied pairs are 'broken apart' into 2 separate electrons to make more bonds  
 sulfur ends up having 12 valence electrons, which, since its valence shell is farther from the nucleus, is possible  
 
+# Sept 11, 2024
+
 
