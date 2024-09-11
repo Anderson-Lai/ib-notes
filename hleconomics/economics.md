@@ -204,10 +204,38 @@ resources are distributed via non-price rationing (e.g. a queue for free healthc
 today, market-based activities have a higher popularity than central planning (less public sector involvement)  
 supply-side policies and recognition of the limitations of central planning caused this shift in the 1980's  
 
-# Sept 10, 2024 
+# Sept. 10, 2024 
 
 ## Positive and Normative Statements 
 Positive - a prediction or statement based on fact and observable factors  
 Normative - an opinion or belief; can not be corroborated or disproved  
+
+# Sept. 11, 2024
+
+## Production Possibilities Model
+**production possibilities frontier (ppf)** - boundary between goods and services that can be produced and those can not  
+comparing two items together  
+
+production efficiency - we cannot produce more of one good without producing less of some other good  
+points on the frontier are inefficient  
+
+areas under the frontier means we are wasting resources  
+anything in the shaded area is attainable, but resources are not being used efficiently  
+the resources are either unemployed or unallocated  
+
+**tradeoff along the PPF**  
+every choice along the PPF involved a tradeoff  
+resources are redistributed when one item is produced less to produce more of another item  
+
+## Opportunity Cost 
+PPF makes the concept of opportunity cost more tangible  
+opportunity cost of the increase in *x* is the absence / cost of not producing *y* (view an example here)[https://docs.google.com/presentation/d/1MF3c82nT7CPF4KYsdnMZpAyBjjEtVOImBhxeu7bYm_g/edit#slide=id.g151038b80da_0_722]  
+
+Ex: if more pizzas are produced, less CDs must be produced; the opportunity cost of producing *x* pizzas is *y* CDs  
+
+the PPF bows outward, it is concave (not all resources can be used as efficiently as other resources)  
+
+to grow the PPF, we must have some form of economic growth (more labour, technological development, more raw materials, more capital (machinery))  
+the curve thus would then expand, more of each product could now be produced  
 
 
