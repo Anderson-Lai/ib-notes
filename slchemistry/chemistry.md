@@ -116,6 +116,117 @@ separate lone pairs to make more bonds (SO4 2-)
 satisfied pairs are 'broken apart' into 2 separate electrons to make more bonds  
 sulfur ends up having 12 valence electrons, which, since its valence shell is farther from the nucleus, is possible  
 
-# Sept 11, 2024
+# Sept. 11, 2024 - Strength and Drawing of Structures 
 
+## Bond Length 
+the more bonds between atoms, the smaller the distance between them, thus the greater the strength  
+C=-C is stronger than C-C  
+
+however, the inverse is true for reactions  
+double and triple bonds have **delocalized electrons** (free electrons moving around)  
+this makes them easier to attack and break apart 
+the electrons are not really "stuck" together, the orbitals of the two atoms do not overlap for the second and third bonds  
+
+## Bond Order
+**Bond Order** - the number of bonds between atoms  
+C-C = bond order of 1  
+C=C = bond order of 2  
+C=-C = bond order of 3  
+
+**the higher the bond order, the stronger the compound**  
+
+Exceptions:  
+- Resonance structures (does not always exist)  
+the double bond between O-N=O can switch between left and right, making the compound **not** strong, it makes the compound weaker  
+opposed to O=N=O, the double bond has nowhere to switch, and thus is strong  
+
+**bond domains** - number of areas where there are bonds (or the number of atoms bonded)  
+**bond order** = number of bonds / bond domains (number of atom bondings)  
+the more movement between the bonds, the weaker the structure is  
+
+if movement can not occur, resonance does not exists, and thus the bonds are stuck  
+
+for large compounds (like H2CO3), do not sum up the bond order, it does not make sense  
+you would have to sum up each individual bond, say between C=O or O-H  
+for compounds like CO3 (2-), since its all bonded to one atom, and a resonance structure can exist, then calculating the bond order of the entire compound is possible  
+
+## VSEPR (valence shell electron pair repulsion) and Polarity (vs EN (Electronegativity))
+
+### Polarity
+non-polar - extremely weak  
+polar - almost as strong as ionic compounds  
+
+### Linear (electron domain and molecular geometry name)
+general formula of AX2, where A acts as a metal (the central atom)  
+the X acts as the non-metal  
+(note both are still non-metals in this case)  
+the two X's have an angle of 180 degrees between them (e.g. CO2)  
+
+determing polarity - draw dipoles (refer to paper notes) (looks like an arrow)  
+covalent compounds want to have an electrostatic attraction  
+
+Ex: CO2  
+dipole - slightly positive carbon to slightly negative oxygen  
+if the bond is strong enough, it will look like carbon is "giving" an electron to oxygen  
+it is mimicking the electrostatic attraction of ionic compounds  
+but since they go both ways for O=C=O, the dipoles **cancel out**  
+(the overall displacement is 0; the strength is the same on the left and right since it is a 180 degree angle)  
+
+therefore the compound is non-polar (a weak covalent structure since there is no mimicking of electrostatic attraction)  
+
+### Electronegativity (refer to a periodic table):  
+Ex: CO2  
+oxygen - carbon = 3.4 - 2.6 = 0.8 (this is a magnitude calculation; it can never be negative)  
+0 - 0.4 = non-polar  
+0.4 - 1.7 = polar  
+1.7+ = ionic (not true ionic, just mimicks the properties of the strength of ionic compounds)  
+
+electronegativity is not a definitive answer, the dipoles define its polarity  
+the 0.8 on the left bond cancels out the 0.8 on the right bond  
+in a singular C-O bond, the 0.8 electronegativity could be used to say the bond *could* be polar  
+electronegativity is not a definitive answer, it has a lower "priority" than the dipoles  
+
+electronegativity is used to compare and determine the **levels of strength**  
+
+polarity is not normally stated for ions, as whatever added to the strucutre can drastically change the polarity of the structure  
+
+### Trigonal Planar (electron domain and molecular geometry name)
+general formuala - AX3  
+angle between the X's is 120 degrees  
+
+dipoles *normally* go from the central atom to the outer atoms  
+the lower the EN value, the more it acts like a metal (refer to the EN values of metals)  
+
+forms a **symmetrical structure** (dipoles do not matter, they cancel out)  
+forms a non-polar structure (cancels out, difficult to see in 2D as it looks like a triangle)  
+it is *generally* non-polar, although certain factors could change that
+
+BCL2F could be polar, as it is no longer symmetrical (as opposed to BCL3)  
+
+#### Subgroup (molecular geoemtry is bent, electron domain remains the same)
+AX2E -> has a 117 degree spread  
+E is a **lone pair**  
+it is no longer symmetrical  
+
+Ex: O3  
+the lone pair from E adds repulsion, making a compound like O3 turn from linear to bent  
+since O3 is only made up of oxygen, the EN **difference** is 0, and thus it is non-polar 
+
+### Tetrahedral
+AX4 -> has a 109.5 degree spread  
+symmetrical, and therefore **non-polar**  
+
+CH4 is non-polar, but if it were changed to CH3CL, it would be polar, as it is no longer symmetrical  
+in a "pure" AX4 formula, all the dipoles are canceled out  
+the bond length has also changed, the bond length between C-H and C-Cl is different  
+
+#### Subgroup 1 (trigonal pyramidal is the molecular geometry, electron domain is still Tetrahedral)
+AX3E -> spread of 107 degrees  
+E is a lone pair  
+lone pairs sit very close to the central atom, creating a strong repulsive force  
+
+this structure is no longer symmetrical, and thus the dipoloes do not cancel out anymore  
+therefore, this is polar  
+
+draw the dipoles from positive to negative  
 
