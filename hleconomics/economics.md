@@ -229,7 +229,7 @@ resources are redistributed when one item is produced less to produce more of an
 
 ## Opportunity Cost 
 PPF makes the concept of opportunity cost more tangible  
-opportunity cost of the increase in *x* is the absence / cost of not producing *y* (view an example here)[https://docs.google.com/presentation/d/1MF3c82nT7CPF4KYsdnMZpAyBjjEtVOImBhxeu7bYm_g/edit#slide=id.g151038b80da_0_722]  
+opportunity cost of the increase in *x* is the absence / cost of not producing *y* [view an example here](https://docs.google.com/presentation/d/1MF3c82nT7CPF4KYsdnMZpAyBjjEtVOImBhxeu7bYm_g/edit#slide=id.g151038b80da_0_722)
 
 Ex: if more pizzas are produced, less CDs must be produced; the opportunity cost of producing *x* pizzas is *y* CDs  
 
