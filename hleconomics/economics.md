@@ -238,4 +238,61 @@ the PPF bows outward, it is concave (not all resources can be used as efficientl
 to grow the PPF, we must have some form of economic growth (more labour, technological development, more raw materials, more capital (machinery))  
 the curve thus would then expand, more of each product could now be produced  
 
+# Sept. 12, 2024 - Demand
+
+## The Market
+any place where buys and sellers of good and services meet together to make an exchange  
+
+competitive markets - many different buyers and sellers  
+there is not one individual seller monopolizing the market  
+
+## Demand
+**demand** - relationship between price of a good or serivce and the quantity that consumers are willing and able to buy at each price level  
+demand is the whole price spectrum of a good or service  
+
+**quantity demanded** - the specific amount of a good consumers will purchase at a specific price  
+
+**demand schedule** - a table containing the price and quantity demanded at various prices  
+can be turned into a demand graph  
+price is the y-axis, and the quantity demanded is the x-axis  
+
+demand curve is almost always downwards sloping  
+
+**law of demand** - when the price of something goes down, people buy more of it; the inverse is true  
+there is an inverse relationship between price of a good and quantity demanded  
+
+why?  
+holds because of *utility*  
+**utility** - the benefit or satisfaction a consumer gets from consuming a good or service  
+
+at a high price, consumer may perceive that the cost outweighs the benefit (utility) they recieve from the good  
+thus, the consumer will be less willing to purchase it, leading to a lower quantity demanded  
+
+at a low price, the consumer percieves the product as less of a service, and makes the good more attractive to buy  
+
+as a good is purchased more, the satisfaction is less  
+
+## Market vs Individual Demand  
+**individual demand** - demand of a product for a single consumer at various prices  
+**market demand** - sum of all the individual demands for a good at all price ranges  
+(demand of a single city, nation, etc.)  
+
+**demand is not static** (it is like a snapshot in time)  
+
+## Changes in Demand
+when something other than the price of a good changes, it affects how much the demand changes  
+a change in demand will cause a new demand curve  
+
+a demand curve shifting to the left means a higher demand; to the right signifies a lower demand
+
+price itself does not change the demand, it only changes the **quantity demanded**
+it moves you *along* the demand curve  
+
+Factors that can cause a demand curve to shift (not price, as it moves your position on the curve):  
+- number of buyers
+- income  
+- consumer preferences  
+- consumer expectations (how people anticipate future prices and income impacts; e.g. anticipating a sale)  
+- price of other products (substitutes and complements; e.g. ketchup and hotdogs)
+
 
