@@ -230,3 +230,99 @@ therefore, this is polar
 
 draw the dipoles from positive to negative  
 
+# Sept. 12, 2024 
+
+#### Subgroup 2 of Tetrahdedral (molecular geoemetry is bent, electron domain is still Tetrahedral)  
+formula = AX2E2 -> spread of 105 degrees   
+
+Ex: H2O  
+since it is not symmetrical, it is polar  
+
+## Intromalecular and Intermolecular Forces  
+**Intra** - within a molecule (EN, polarity)  
+**Inter** - between molecules (connection of molecules between each other)  
+in ionic compounds, there are lattice structures, but those do not exist in covalent compounds  
+
+factors for intermolecular strength:  
+- H-bonding  
+- dipole-dipole  
+- induced dipole  
+- London dispersion (LDF)  
+
+the more factors present, the stronger the solution  
+there will only be at most 3 out of the 4 factors present *normally*
+
+### Hydrogen bonds
+when H bonds with N, O, or F, there is added strength due to higher EN difference  
+the natural moving of hydrogen bonds in water gives water energy  
+in theory, up to 4 hydrogens can be bonded to the central oxygen in water (although it will almost never happen)  
+
+### Dipole-Dipole  
+only exists in the solid state for covalent compounds  
+only in solids will the different molecules be permanently stuck in position for the dipole force to form  
+solid particles really only vibrate and rotate  
+
+### Induced dipoles
+for liquids and gas  
+temporary force that exists because molecules are always moving  
+forces are constantly being formed and broken apart as molecules move around  
+
+this force only exists **some** of the times  
+this force still helps however  
+
+Ex: CH4 (g)  
+less likely for a different molecule's hydrogen to form an induced dipole with the central carbon due to the number of hydrogen atoms around the carbon
+and due to the speed at which gas particles move at  
+
+induced dipoles are best for liquids, as with a gas, they are less likely to form  
+
+### London Dispersion Force (LDF)  
+based on size  
+**all** covalent compounds have this force  
+
+used to compare similar structures (carbon-hydrogen structure with another carbon-hydrogen structure)  
+
+Ex: CH4 vs C2H6  
+the bigger the compound, the more likely an induced dipole there is to form  
+when molecules move around, the larger compound is more likely to form the induced dipole  
+as size increases, the LDF increases, and strength increases  
+
+thus, C2H6 is stronger as it is a larger compound, and therefore an induced dipole is more likely to form  
+
+**this force is closely related to induced dipoles**  
+
+this is not the *best* force, as all elements have a LDF to an extent  
+
+## Covalent Network Structures  
+also affect the strength of covalent compounds   
+**allotropes** - different versions of the same element but presented in different ways
+
+Ex: carbon allotropes  
+appears as diamond, graphite, amorphous carbon, and graphene  
+(all of them look differently, but they are all still carbon)  
+
+form differently due to temperature and pressure differences  
+
+diamond is the strongest as each carbon is bound to 4 other carbons, all the other variants only have 3 carbons bound to each carbon  
+the goal of these structures is to **look like** a lattice structure  
+wants to mimick the strength of ionic compounds  
+
+carbon has the highest melting point (even though it is a non-metal) because of these structures  
+
+once carbon is in a compound (and not by itself) it loses this strength, the strength comes from the network structures  
+
+Ex: SiO2  
+in actuality, each silicon in this compound binds to 4 different oxygens  
+most likely caused by the fact it is in period 3, and thus more manipulation can happen  
+SiO2 forms **network structure** with oxygen  
+
+Ex: P4  
+phosphorus also makes a covalent network structure, which increases the strength of the compound  
+
+Ex: S8  
+forms a covalent network structure, which improves the strength  
+
+these covalent network structure were found as these compounds were found naturally by themselves (white and red phosphorus)  
+these non-metals only exists on earth by themselves due to these covalent network structures  
+
+
