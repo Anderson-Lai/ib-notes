@@ -1,0 +1,85 @@
+# Sept. 12, 2024
+
+"childrens, scions of the ancient Cadmean line"  
+Thebes began through the Cadmean line  
+Cadmus killed a dragon, sowed its teeth, and armed men sprang up and fought each other until 5 people remained, and helped Cadmus build the city  
+
+Thebes' population is comprised of the descendants of Cadmus or directly from the dragon  
+**theme: civilization vs savagery**  
+
+sorrowful tone and mood, the population needs to be rescued and saved  
+
+## Devices 
+irony: "i come to see it with my eyes" (sight imagery), ironic, as Oedipus lacks insight  
+"no messenger's", ironic, as at the end of the play, it is the messenger who gives the information needed to find the culprit (himself)  
+foreshadows the end of the play (typical in a prologue)  
+Oedipus is thus not really seeing the truth, ironic, as it is the king's responsibility to do that  
+
+Pallas is the surname of Athena (allusion), goddess of power and wisdom, preserves and maintains order of the state  
+Ismenus - a small river  
+
+"look upon the city, see the storm" - pathetic fallacy  
+pathetic fallacy produces disease imagery, showing the state of the land  
+
+Oedipus is acting arrogant and like a god  
+saved Thebes once, the people come to him to ask him to save Thebes again  
+
+Oedipus does have worldly knowledge (as he solved the riddle of the Sphinx), but lacks self-knowledge  
+dramatic irony: we know that he is not the best of men for this job, but the people of Thebes nor does Oedipus know that  
+
+Oedipus is a hero because he has already acted, he does not hesistate  
+"i know too well, you all are sick, yet sick, not so sick as i" - archetype of 3 (is important)  
+ironic as he is causing the sickness, 3 means unity, completeness (in this context), or power  
+Oedipus has completed the cycle of 3  
+
+"... or I am damned" - ironic as Oedipus is already damned  
+
+Apollo represents the god of light and truth  
+Oedipus equates himself with the gods, as he believes he can see the truth as well  
+"i come to see it with my eyes", "apollo's eyes are bright" - light motif associated with Apollo  
+Oedipus believes he can see the truth as well as Apollo, he is ignorant  
+
+**motif: sight imagery**  
+**light: represent truth**  
+**darkness: hiding, lying**  
+
+just because you can see, does not mean you can see the truth (many of the priests are blind)  
+
+**paradox - "you leave me half in hope, half buried in despair"**  
+
+Creon blames Oedipus  
+Oedipus banishes himself, showing he is still loyal to the gods  
+Oedipus purges himself from the "body politic"  
+"blood for blood" - foreshadows the end (Oedipus should be killed)  
+
+"a man i never saw \[the king]" - Oedipus (ironic, as he killed the king)  
+
+Oedipus becomes the detectives and interrogates Creon  
+(ironic, as he is the murderer)  
+
+the one person Oedipus spared said a whole group attacked the previous king  
+Oedipus holds on to the fact that he was alone when he killed a man (the previous king)  
+this one piece of misinformation delays the discovery  
+the shepherd intentionally gives this piece of misinformation as he knows the murdered is Oedipus, and he does not want to be the one to take 
+down the king  
+
+no one really investigated the king's murder  
+
+foreshadows the end, where he enacts his own punishment on himself  
+
+Oedipus is heroic as he is duty-bound, vows to do anything to find the truth (has many redeeming qualities, causing the audience to pity him)  
+said he is even willing to turn his own hands on himself, but he does not believe that he is the murderer  
+
+ode goes from hopeful to a prayer for help (asking the gods for help)  
+
+## Chorus 
+voice of the community  
+appeal to the gods  
+dramatic and musical performance  
+interprets events of the play, gives a commentary  
+became the "ideal" spectators  
+reflected upon what happened, and pondered what will happen  
+
+# Sept. 12, 2024 
+
+## First Episode
