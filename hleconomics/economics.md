@@ -295,4 +295,54 @@ Factors that can cause a demand curve to shift (not price, as it moves your posi
 - consumer expectations (how people anticipate future prices and income impacts; e.g. anticipating a sale)  
 - price of other products (substitutes and complements; e.g. ketchup and hotdogs)
 
+# Sept. 13, 2024
+
+## Supply Curve
+the producers of good and services, and how price affects the quantities they produce  
+
+**supply** - explains the behavious of producers and sellers  
+supply is the relationship between the quantity of a good that producersare willing and able to provide
+
+resources and technoogy determine what is possible  
+supply reflects a decision about which technologically feasible items to produce  
+
+quantity supplied - amount of goods a producer will make at a given price  
+supply - the relationship between price and quantity  
+
+some producers are more efficient, and thus produce their products at a lower **marginal cost** (the cost of making one unit of a product)  
+firms with lower costs are willing to sell their products at a lower price  
+
+firms will price the items to the highest price that bring in the most money  
+
+**the law of supply** - there is a direct relationship between the price of a product and the quantity supplied  
+if the price of a good increases, firms will increase the quantity supplied (for more profit)  
+if the price of a good falls, firms will decrease the quantity supplied (note that demand has an *inverse* relationship)  
+
+producers are willing to supply a good only if they at least cover their marginal cost of production  
+
+**supply schedule** - a table representing how much producers are willing to sell at each price and quantity  
+
+a supply schedule turns into the supply curve (a graph)  
+
+### Vertical Supply Curve
+**fixed quantity** - the price increases but there is no time or no possibility of ever producing more (antiques, original paintings, etc.)  
+
+### Supply is not Static 
+the supply curve does not represent a permanent relationship between price and production quantities (it is a snapshot in time)  
+
+### Change in quantity supplied  
+if price rises/falls, the quantity **supplied** is changed, not the supply  
+other variables will change the *entire* supply curve either left (decrease) or right (increase)  
+
+non-price determinants of supply:
+- resource prices (raw materials)
+- taxes (indirect / tax on profit; taxes are a cost of production)
+- subsidies (payments to businesses from the government has the opposite effect of tax)  
+- future expectations
+- number of firms (as number of factories increase, so does the supply)  
+- shocks (unpredictable events; e.g. natural disasters destroying raw materials / factories)
+- technology (improving technology makes production more efficient; less waste or production at a cheaper price)  
+- price of related goods and services (same productive resources; e.g. planting more wheat in a field than corn if corn is more expensive)  
+(butter and skimmed milk are produced with the same resources, a producer will produce the cheaper one more)  
+
 

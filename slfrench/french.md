@@ -27,3 +27,4 @@ Ex: Elle a fini ses devoirs -> Elle les a finis
 
 un COI ne fait pas l'accord avec le participé passé  
 s'il y a un COD et un COI, il faut faire l'accord  
+
