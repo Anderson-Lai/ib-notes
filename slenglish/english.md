@@ -82,4 +82,60 @@ reflected upon what happened, and pondered what will happen
 
 # Sept. 12, 2024 
 
-## First Episode
+## Fate, Freedom, and the Tragic Experience
+universe does not operate by chance, someone or something is in control  
+Jocasta believes in chance (opposes the gods), and tries to impose it on Oedipus  
+
+to not believe in fate is to be an atheist (of sort)  
+
+**fatalism** - controlling forces of the world are much more mysterious and powerful than we can imagine  
+free will still exists, it is your choice how to face your own destiny  
+
+a hero is *willing to act*  
+Oedipus tries to thwart his fate, but the audience knows he has not  
+
+Oedipus' name (swollen feet) is a constant reminder of the ironic tension of the play  
+tension builds as he insists it was not him who killed the king at a road junction  
+
+Jocasta knows about the truth, and wants Oedipus to stop seeking the truth (ignorance is bliss)  
+Oedipus is innocent and naive, and does not deserve his fate  
+
+**fate punishes arbitrarily and mercilessly those who choose to confront the mystery**
+
+## Episode 1
+Oedipus plays the role of a good king, saying he would enact his punishments on himself if he finds himself an accomplice  
+Oedipus would punish himself if he were the murderer (ironic and foreshadows the end of the play)  
+
+Oedipus still believes in fate at this point (asks the gods to reveal the killer)  
+
+Oedipus' tone changes, and uses oppressive language  
+his flaw of arrogance is showing  
+
+Tiresias is a blind prophet, he knows the truth of the murderer  
+he wants to leave, and wants to spare Oedipus  
+
+Tiresias does not want to reveal the truth  
+Oedipus keeps pushing him for more information  
+
+Oedipus lacks self-knolwedge and can not see the truth  
+Oedipus blames the murder on Tiresias  
+Tiresias reveals his knowledge, and tells Oedipus that he is the murderer  
+
+Oedipus has committed patricide and incest (the worst crimes in greece)  
+Apollo invoked this fate, not Oedipus  
+
+Oedipus remembers it was Creon who insisted he find Tiresias, and believes that Creon is involved with the murder  
+Oedipus thinks Tiresias made up this story, and this is not from the gods  
+
+scene ends with Tiresias foreshadowing Oedipus' end  
+
+tragedy of character not a tragedy of fate, as it is Oedipus confronting his mystery  
+
+Tiresias highlights the dramatic irony - he is blind but he can see the truth  
+Oedipus' knowledge can not help him as he is devoid of self-knolwedge  
+
+people in Plato's 'cave' rather live in darkness and in lies than confront reality and the truth  
+(Oedipus cannot see the truth of himself)  
+
+Tiresias revelas aspects of Oedipus' character that have not yet ben revealed (arrogance)  
+
