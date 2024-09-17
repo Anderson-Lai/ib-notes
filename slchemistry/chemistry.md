@@ -325,4 +325,22 @@ forms a covalent network structure, which improves the strength
 these covalent network structure were found as these compounds were found naturally by themselves (white and red phosphorus)  
 these non-metals only exists on earth by themselves due to these covalent network structures  
 
+# Sept. 17, 2024 
+
+weak interacts with weak -> non-polar dissolves / interacts with non-polar, polar interacts with polar  
+non-polar and polar will majority of the time, not interact or react  
+
+## Oxidation State vs Charge
+**oxidation state can equal to the charge or represent a different electron movement**  
+
+Ex:  
+oxidataion state: +2, charge: 2+  
+
+Ex: Fe3O4  
+charge can not explain how there are 3 iron atoms  
+use the *assumed* charge of oxygen (2-, not the observed 3- here), to calculate the oxidation states of iron and oxygen in this compound  
+
+oxidation states should lign up with the charge as often as possible  
+
+for the hydrogen peroxide family, oxygen *may* have a oxidation state of -1  
 
