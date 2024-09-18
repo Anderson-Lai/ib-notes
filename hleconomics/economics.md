@@ -345,4 +345,15 @@ non-price determinants of supply:
 - price of related goods and services (same productive resources; e.g. planting more wheat in a field than corn if corn is more expensive)  
 (butter and skimmed milk are produced with the same resources, a producer will produce the cheaper one more)  
 
+# Sept. 17, 2024
+
+## Substitution and Income effect 
+related to demand, and can be used to explain the inverse relationship between price and quantity demanded  
+
+**substitute effect** - when the price of an item decreases, a consumer is more likely to substitute (buy more) of a product  
+**income effect** - when a consumer's purchasing power increases, such as when the price of an item falls (the consumer can now
+buy more of the same item with the same amount of money), the consumer is more likely to buy more of said product
+
+the inverse is true for both of these effects  
+this can be used alongside the **law of diminishing marginal utility**  
 

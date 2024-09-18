@@ -334,7 +334,7 @@ non-polar and polar will majority of the time, not interact or react
 **oxidation state can equal to the charge or represent a different electron movement**  
 
 Ex:  
-oxidataion state: +2, charge: 2+  
+oxidation state: +2, charge: 2+  
 
 Ex: Fe3O4  
 charge can not explain how there are 3 iron atoms  
@@ -343,6 +343,11 @@ use the *assumed* charge of oxygen (2-, not the observed 3- here), to calculate 
 oxidation states should lign up with the charge as often as possible  
 
 for the hydrogen peroxide family, oxygen *may* have a oxidation state of -1  
+
+oxidation state tells us how many electrons an atom has "gained" or "lost" in a compound (even in covalent compounds)  
+say carbon has an oxidation state of +2 in a covalent compound  
+when carbon bonded with a different atom, even though they are sharing electrons, carbon "lost" more electrons than it gained in
+that sharing of electrons, i.e. it "lost" 2 electrons
 
 hydrogen is normally +1, unless it is bound to a group 1 metal, then it is a -1 charge  
 oxygen is normally -2, unless it is part of a hydroxide (bound to a group 1 metal), then it becomes a -1 charge  
