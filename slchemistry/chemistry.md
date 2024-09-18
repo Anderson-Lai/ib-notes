@@ -344,3 +344,65 @@ oxidation states should lign up with the charge as often as possible
 
 for the hydrogen peroxide family, oxygen *may* have a oxidation state of -1  
 
+hydrogen is normally +1, unless it is bound to a group 1 metal, then it is a -1 charge  
+oxygen is normally -2, unless it is part of a hydroxide (bound to a group 1 metal), then it becomes a -1 charge  
+
+**when oxygen is bound to a halogen, in the chemical formula, write the halogen first**  
+e.g. (F2O not OF2)  
+
+# Sept. 18, 2024  
+
+## Metallic Bonding and Strength
+
+**alloy** - two metals mixed together  
+not ionic or molecular, it is their own type  
+metals must be liquids to form an alloy  
+
+not all metals can mix together (like oil and water)  
+alloys can be very weak, or very strong  
+metals are normally strong, so weak alloys are normally never made  
+
+steel (very strong alloy, iron corrodes too fast, and steel corrodes slower)  
+carbon is very strong (highest melting point on the periodic table), and can be used in alloys  
+
+strength comes from a smaller atomic radius  
+elements nearing the end of a period get their shells more and more compressed (more protons get added, stronger attractional force)  
+the smaller radius, the stronger  
+
+the higher the cation charge, the stronger a metal  
+transition metals can have very high positive charge  
+free electrons (delocalized electrons) can form easiesr  
+all metals want to **lose** electrons  
+
+in an alloy, both metals want to release their electrons, creating delocalized electrons  
+once cooled, the atoms are now *more* positive  
+the free electrons are now attracted to the positive atoms  
+the atoms and electrons do not want to bind, but they are attracted (recall the octet rule, everything wants to look like a noble gas)  
+
+a **sea** of delocalized electrons is formed  
+the cations and sea of delocalized electrons attract  
+this forms a **layered system** (similar to a lattice structure)  
+
+alloys are said to be malleable and have a high melting / boiling point  
+they are mostly conductive in a solid or molten state  
+
+as alloys are heated up, they start losing properties and become weaker and weaker  
+
+factors for strength:  
+- small atomic radius (normally stays higher up on the periodic table)  
+- high cation charge (transition metals have a higher charge)  
+
+## Bond Continuum (Bond Triangle)  
+last way of looking at strength between ionic, polar, nonpolar, molecular compounds  
+used with electronegativity values  
+
+it is used to determine a compound's **properties**, not its type  
+
+calculate the delta x (electronegativity) of the compound  
+subtract the smaller number from the bigger number (electronegativity of a compound is found in the data booklet)  
+
+then average out the electronegativity of the compound  
+
+average is the x-axis  
+delta x is the y-axis  
+
