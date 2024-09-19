@@ -139,3 +139,36 @@ people in Plato's 'cave' rather live in darkness and in lies than confront reali
 
 Tiresias revelas aspects of Oedipus' character that have not yet ben revealed (arrogance)  
 
+# Sept. 19, 2024
+
+## Second Choral Ode 
+chorus suggests that man could deny fate  
+Sophocles debated this throughout the play  
+
+can man thwart the gods and fate?  
+"But oh among men where is there proof  
+That a prophet can know  
+More than me, a man?" (page 28)  
+
+chorus echos the thought of innocence until proven guilty  
+Oedipus wants to find out the truth, but the truth will bite him  
+Oedipus is true to himself in that sense, and wants to discover the guilty person  
+Oedipus is courageous enough that if he is the killer, he is willing to accept that and the punishment it entails  
+
+## Mount Kithairon
+looming image ever present in Oedipus' rational search for self-identity
+dangerous climb to a place of disclosure  
+is a dramatic metaphor that represents it is impossible for man to be like a god  
+
+## Episode 2 
+Oedipus curses Creon of plotting against him  
+Oedipus' hubris (execessive pride) is highlighted as he wants to kill Creon  
+Oedipus thinks Creon is speaking through Tiresias, and that Creon is the real killer  
+
+Jocasta is a catalyst, and is leading Oedipus away from the truth  
+tells Oedipus to ignore Tiresias, and says the gods have no reverence  
+Jocasta believes in chacne (not fate)  
+Jocasta is derailing Oedipus from discovering the truth  
+
+
+
