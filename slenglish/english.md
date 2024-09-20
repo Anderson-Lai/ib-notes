@@ -170,5 +170,101 @@ tells Oedipus to ignore Tiresias, and says the gods have no reverence
 Jocasta believes in chacne (not fate)  
 Jocasta is derailing Oedipus from discovering the truth  
 
+# Sept. 20, 2024 
+
+## Episode 2 (cont.)
+a catalyst precipitates change, leading Oedipus away from his path of self discovery  
+Jocasta tells Oedipus that her son had "his ankles riveted together" (page 40), ironic, as Oedipus' name means swollen foot
+Jocasta tells Oedipus Laius was murdered by a group of people, not one person  
+told Oedipus that her son (Oedipus), is dead, as he was left on Mount Kithairon when he was 3 days old  
+
+*ironic*, as Jocasta does not know she is talking to his son  
+Jocasta does not want Oedipus to find the truth, wants someone else to find the truth  
+Jocasta her "killing" of Oedipus thwarted fate, and thus they no longer need to believe in fate  
+
+Jocasta uses the number **3** constantly  
+crossway of 3, abandoned her son when he was 3 days old, etc.  
+Oedipus becomes the archetype of the number 3 -> becomes the archetype of the tragic man  
+
+**the number 3 means completeness, closure, unity, and spiritual awareness**, 3 is used throughout this play  
+
+Oedipus does not believe what Jocasta tells him, he is a believer in fate  
+Oedipus begins to fear that he did kill Laius  
+
+Oedipus admits his self-ignorance, as he relizes all the facts begin to line up  
+
+the shepherd, the only person who survived Laius' murder, asks Jocasta to leave the moment he sees Oedipus  
+knew it would unravel Oedipus' life, and did not want to be the one to do that  
+the shepherd was lying, as he was the one who told Jocasta it was a band of brigands  
+
+Oedipus wants the shepherd to come  
+
+Oedipus' adopted parents never told him he was adopted, but the whole town knew  
+Oedipus leaves Corinth to avoid his fate as given by the Oracle of Delphi, as he still believes his adopted parents are his real parents  
+Oedipus begins to realise that Laius is his *real* father  
+
+a reversal of actions leads to revelation, creating a united plot (textbook, "perfect", Greek tragedy)  
+
+Oedipus is being very rational even in a time of despair  
+he is holding on to the fact that the shepherd said a *band* of people killing Laius, not one person (Oedipus)  
+
+## Third Chorale Ode 
+the chorus announces the world is controlled by fate, and the chorus says a man can not triumph over the gods  
+ironic, as Oedipus has just began to agree with Jocasta's belief in chance  
+however, the chorus states that if man can thwart fate, the gods are not in control  
+shows Sophocles' debate between whether man has control over his own destiny  
+
+Jocasta defies the gods, but prays to them  
+she now appeals to them for help, as she realizes Oedipus is the killer of Laius  
+Jocasta already knows the truth, and that the shepherd is a liar  
+
+Jocasta is now aware of the truth  
+
+a messenger tells Jocasta that the King of Corinth (who she believes is Oedipus' real father) has died  
+Jocasta goes back to defying fate, and believes in chance once again  
+Jocasta believes this is good news  
+
+Oedipus thinks his real father (Polybus), has died  
+Oedipus agrees with Jocasta, and stops believing in fate  
+Oedipus keeps switching between believing and defying fate  
+shows Sophocles' debate whether or not man should be controlled by fate  
+
+Jocasta does know the truth, but wants to live in ignorance  
+
+Oedipus is still concerned that although Laius has been killed, the second part of the prophecy says he will mary his mother  
+in those times, marying your mother as a ruler was a "good" thing, as the mother was viewed as the "mother of the nation"  
+Jocasta reminds Oedipus of that to try to calm him down, ironic, as he is acting like his mother  
+
+the messenger tells Oedipus that Polybus is not his real father  
+messenger tells Oedipus that he delivered Oedipus to Polybus as a gift  
+messenger tells Oedipus that he was discovered at Mount Kithairon  
+
+Mount Kithairon is used to display the dramatic irony  
+
+Jocasta runs away and has gone pale  
+she has realized the truth  
+
+Jocasta hides her face in her hands, she is ashamed  
+juxtaposition of truth and deception  
+
+Jocasta knows the truth, but is trying to stop the truth from coming out  
+Oedipus insists to find the truth  
+
+Jocasta is shackling herself to Oedipus to keep him in the cave (so that he does not see the truth and stays in a 'cave' of delusion)  
+Oedipus wants to stay true to himself  
+Jocasta tells Oedipus to deceive himself  
+shows **Plato's cave allegory**  
+
+moons -> constantly changes (different phases)  
+Oedipus compares himself to a moon, he is constanlty switching between the phases of accepting the truth  
+
+Oedipus experiences:
+- fame, yet shame
+- sight, but blindness; Oedipus can not see the full truth
+- his intellect is his greatest strength, yet causes his downfall
+- ignorance and insight  
+
+Jocasta is the only person who sees the full truth right now  
+she can not bear to accept the truth, and thus goes to hang herself  
 
 
