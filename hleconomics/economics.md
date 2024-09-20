@@ -460,3 +460,23 @@ this is then used to create economic policies
 
 **circular economy** - rather than creating products then throwing them out, we repurpose or repair those items to achieve sustainable development  
 
+## Non-Price Determinants of Demand 
+- income in case of normal goods -> if income increases, demand increases 
+- income in case of inferior goods -> if income increases, demand decreases 
+- preferences -> if preference for an item increases, demand increases 
+- substitude goods (coca cola and pepsi) -> if price of good X decreases, demand for good Y decreases 
+- complementary goods (computers and computer software) -> if price of good X decreases, demand for Y increases 
+- number of consumers -> if consumers of a good increase, the demand for said good increases  
+
+## Non-Price Determinants of Supply 
+- cost of factors of production -> if a factor of production (labour, land, capital, etc.) increases in price, supply decreases
+- technology -> as technology improves, supply increases as production is more efficient  
+- competitive supply (corn and wheat) -> as the price of X decreases, the supply of Y increases (as Y is now more profitable relative to X), 
+and vice versa
+- joint supply (butter and skimmed milk) -> one can not be produced without the other, as price increases for X, supply for Y increases  
+(removing cream from milk to turn into butter makes skimmed milk as a result)
+- firm price expectations -> if a firm expects prices to rise, supply decreases 
+- taxes -> as taxes increase (a cost of production), supply decreases 
+- subsidies -> as subsidies increase, supply increases 
+- number of firms -> as number of firms increase (number of producers), supply increases 
+- shocks (war, weather, etc.) -> most probably a decrease in supply
