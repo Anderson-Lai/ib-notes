@@ -480,3 +480,50 @@ and vice versa
 - subsidies -> as subsidies increase, supply increases 
 - number of firms -> as number of firms increase (number of producers), supply increases 
 - shocks (war, weather, etc.) -> most probably a decrease in supply
+
+# Sept. 20, 2024 - Understand the world through the use of models  
+
+## The Circular Flow Income Model
+assume our economy is a closed economy (no international trade)  
+income is flowing only around our economy  
+
+demonstrates how income flows around the economy  
+the only decision markets are households and firms  
+linked through product and resources markets  
+
+firms buy factors of production in the resource markets  
+households make up the resource markets  
+firms then produce goods, which goes into the product markets  
+households then buy from the product markets, giving money back to the firms  
+
+households sell their factors of production to firms, they receive payments (**income of households**) (wages, rent payments, etc.)  
+payments that households make to buy goods and services are **household expenditures**   
+
+payments that firms make to buy factors of production are **cost of production** and payments they receive is their **revenue**  
+
+firms -> households -> firms  
+
+## Leakages and Injections
+in the real world, there is very few closed economies  
+some factors that cause money to leak out of the economy and factors that inject money into the eocnomy  
+
+**Leakages** - non-consumption uses of income that reduce the flow of money in the economy  
+**Injections** - money that comes into the economy that stimulate economic activity  
+
+an economy aims to have an equal amount of leaks and injections  
+all leakages will eventually be injected back into the economy in some way  
+
+Leakages occur due to:  
+- savings -> households do not spend every single penny that they make, the households are not spending all the money that firms pay them  
+- taxes -> money is not immediately given back to households  
+- imports -> spending on foreign goods and services takes money out of the domestic economy, lowering domestic demand  
+
+all these factors disrupt the circular flow income model  
+
+Injections occur due to:  
+- investments -> expenditures by firms on capital goods boost production and create jobs, money and more jobs are entering the economy  
+- government spending -> spending on public infrastructure and services stimulates demands in the economy by making us more efficient in 
+resource consumption  
+- exports -> sales of domestically produced goods and services to foreign buyers brings money into the domestic economy  
+
+

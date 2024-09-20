@@ -10,6 +10,7 @@ def get_value(name: str) -> dict:
                 if (element["name"].lower() == cleaned or element["symbol"].lower() == cleaned):
                     return element
     except FileNotFoundError:
+        print("periodic-table.json was not found")
         return {}
     return {}
 
@@ -20,8 +21,6 @@ def main():
         formatted = json.dumps(result, indent=4)
         print()
         print(formatted)
-    
-    return 0
 
 if __name__ == "__main__":
     main()
