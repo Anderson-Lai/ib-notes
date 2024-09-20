@@ -357,3 +357,106 @@ buy more of the same item with the same amount of money), the consumer is more l
 the inverse is true for both of these effects  
 this can be used alongside the **law of diminishing marginal utility**  
 
+# Sept. 19, 2024
+
+moral vs natural philosophy  
+moral - events and phenomena in the social world (economics)   
+natural - events and phenomena in the natural world  
+
+Adam Smith was the first to try to explain the economy in a systematic way  
+
+## Adam Smith - Father of Economics 
+wrote The Wealth of Nations  
+mostly borrowed ideas of his time  
+tried to explain how an economy can hold itself together and grow  
+
+wanted to explain how an economic system without government control could prosper (was in a time where repressive government were under attack)  
+if everyone does the best for oneself -> greatest good for society  
+
+leads to competition  
+keeps people's self-interest in check  
+
+the **invisible hand**  
+decisions that lead to the self-regulation of the market due to self-interest  
+
+also known as the **laissez faire** economy (free market without government intervention)  
+
+Adam Smith acknowledged the government should provide national defence, security and justice, and public infrastructure  
+all this is financed through taxation  
+
+believed competeition would cause monopolies to not arise  
+
+allowed for *specialization* and *absolute advanage*  
+absolute advantage - a country should produce that which it can produce the most efficiently  
+if all countries traded amongst each other, and used absolute advantage, all would benefit  
+
+## Classical Economics  
+concerned with growth of the economy and distribution of income  
+
+**Jeremy Bentham** promoted **utilitarianism**, a philosophy of ethics  
+an action is right if it promotes the most happniess for the largest number of people  
+
+**John Stuart Mill** furthered the idea of utilitarianism; the most important factor is happiness  
+
+concerned with what gave products its *value*  
+original **labour theory of value** - value comes from the amount of labour put in to cerate the product
+
+two main factors:  
+- utility, the pleausre from consuming something  
+- the cost of consuming one more unit of the good (**marignal utility**)  
+
+## Say's Law 
+in ordinary circumstances, unemployment would not arise for long periods of time as the economy would keep
+producing as much as is required to keep workers fully employed  
+
+that being - **supply creates its own demand**  
+a firm creating products provides workers enough money to buy products  
+
+when the Great Depression came, general economics split into micro and macroeconomics to explain unemployment (economics was whole at this point)  
+
+## Karl Marx 
+based off the *labour theory of value*  
+noticed **surplus value**  
+surplus value - the excess profit firm owners make based off the price the product was sold and the wages the owners paid to get said product  
+
+believed capitalism was unstable  
+firm owners want to maximize profit, and would keep trying to find machines to automate the production process  
+would lead to unemployment and poor working conditions  
+
+his insights are still useful today (recurrence of crises, growing job insecurities, unemployment due to rapid techonlogical change)  
+had influence on social sciences (sociology, anthropology, political science, etc.)  
+
+## John Maynard Keynes
+wages were sticky (meaning difficult to fall), and thus so were prices  
+if wages fell, workers would have less to spend  
+spending would go down, but prices would not as wages were sticky  
+thus, the economic system could not on its own go back to full employment  
+
+argued government would have to intervene by increasing government spending  
+building more schools, roads, etc. would help unemployment (concept of a ***multiplier***)  
+
+argued government intervention is needed to avoid prolonged recessions and high unemployment  
+
+lead to the development of macroeconomics  
+
+## Monetarism and New Classical Economics 
+Milton Friedman emphasized the role of money in the economy  
+change in the money supply affects output in the short-term, and prices levels in the long-term  
+
+Robert Lucas emphasized the importance of individuals and their 'rational expectations' of inflation and government policy (new classical economics)  
+
+these two different principles share a unifying principle - *the role of markets in bringing the economy back to a situation where
+there is full employment without any government intervention*  
+
+argued government intervention *causes* sticky prices and wages due to trade unions, minimum wage laws, etc.  
+supply and demand would fix the markets on their own and achieve high levels of output and full employment  
+
+rejects Keynesian economics and returns back to laissez-faire, giving the term *new classical*  
+
+## Behavioural Economics 
+argues the humand mind works in ways that are not rational  
+experiments and evidence are used to create an economic theory, not a theory being created first, then it being used to explain human behaviour
+this is then used to create economic policies  
+
+**circular economy** - rather than creating products then throwing them out, we repurpose or repair those items to achieve sustainable development  
+
