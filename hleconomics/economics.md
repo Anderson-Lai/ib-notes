@@ -526,4 +526,20 @@ Injections occur due to:
 resource consumption  
 - exports -> sales of domestically produced goods and services to foreign buyers brings money into the domestic economy  
 
+## Three pairs of leakges and injections
+pairs:
+- financial markets
+- governments 
+- other countries 
 
+### Financial Markets 
+households save money they gain, leaking money from the economy  
+firms invest in products / capital from their savings, injecting money into the economy  
+
+### Governments
+governments tax people and firms, leaking money from the economy  
+governments start public projects to build infrastructure and to provide more goods, injecting money into the economy  
+
+### Other Countries
+households / firms buy goods from other countries, leaking money from the economy  
+other countries purchase domestic goods, increasing demand and injecting money into the domestic economy  
