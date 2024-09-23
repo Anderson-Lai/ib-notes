@@ -267,4 +267,88 @@ Oedipus experiences:
 Jocasta is the only person who sees the full truth right now  
 she can not bear to accept the truth, and thus goes to hang herself  
 
+# Sept. 23, 2024 
+
+## Episode 4
+"Lost! Ah lost! At last it's blazing clear.  
+Light of my days, go dark. I want to gaze no more.  
+My birth all sprung revealed from those it never should,  
+Myself entwined with those I never could.  
+And I the killer of those I never would." - Oedipus sees the truth  
+page (67)  
+
+foreshadows Oedipus will gouge out his eyes  
+
+reversal of actions leads -> revelation -> unity of plot (there are a bunch of greek words for this)  
+Oedipus realizes he has committed patricide and incest  
+
+## Episode 5 
+page 70 - the denoument  
+shows Oedipus' punishment  
+
+in Greek culture, to see meant to see only false appearances (lacked insight)  
+to be blind, it meant to see the truth and have prophetic vision  
+
+Oedipus realized he lacked insight, wanted to be blind to have prophetic vision to "see" the truth  
+metaphorical death of Oedipus  
+Oedipus banishes himself, but does not kill himself  
+to live a life of suffering, and to not be able to see his family, is his "death"  
+
+"rips from off her dress  
+the golden brooches she was wearing,  
+Holds them up and rams the pins right through his eyes.  
+'Wicked, Wicked eyes!' he gasps,  
+'You shall not see me nor my crime,'  
+not see my present shame.  
+Go dark for all time blind  
+to what you never should hvae seen, and blind  
+to the love this heart has cried to see." (page 70)  
+
+"Oh, the pity and the horror" - catharsis  
+the chorus is the audience now  
+
+Oedipus joins the chorus  
+shows his fall from greatness  
+uses lots of dark imagery to show his descent  
+
+Oedipus echoes that fate can not be avoided  
+this is the answer to Sophocles' debate  
+
+"Friends, it was Apollo, spirit of Apollo.  
+He made this evil fructify." - Oedipus' reversal back to believing in fate  
+(page 73)  
+
+Oedipus reverts back to believing in fate after somewhat believing in chance because of Jocasta  
+
+"Yes, rot that man's unlocking my feet from biting fetters.  
+Unloosing me from murder to lock me in a blood-love.  
+Had I only died then, I should not now be leaving  
+All I love and mine so sadly shattered." - pity for Oedipus  
+(page 73)  
+
+Oedipus shows courage even after all this  
+willing to live a "living death" for the sake of "prophetic vision" from being blind  
+
+Oedipus wants to be banished to the hills of Mount Kithairon  
+ironic, as his "living death" will be where his death was supposed to be  
+
+asks Creon to take care of his daughters  
+
+Oedipus admits he lived in blindness, and lacked self-knowledge  
+Oedipus wants his daughters to live in modesty (opposite of his arrogance)  
+
+Creon tells Oedipus all that he had was wordly knowledge, and no self-konwledge  
+"Stop this striving to be master of all.  
+The mastery you had in life has been your fall." (page 80)  
+
+Oedipus strived for the wrong thing, only worldly knowledge and no self-knowledge  
+
+Oedipus had wordly knowledge, and was on a pedestal, but fell from the pedestal as he lacked self-knowledge  
+chorus warns the audience about fate and fortune  
+you do not know your happiness until your death and you can look back  
+
+Oedipus' overconfidence, lack of self-knowledge, and arrogance leads to his fate  
+you can be forgiven for a bad fate, but not for flaws  
+thus, this play is the a tragedy of character  
+
 
