@@ -589,14 +589,14 @@ all firms use inputs (resources, factors of production) to produce outputs
 
 short run vs long run (time periods)  
 
-**short run** - costs of resources are relatively flexible, and can be adjusted quickly  
-maximum capacity is *fixed* because of a shortage of at least one resource  
-ability to produce is limited  
+**short run** - costs of resources and inputs are relatively flexible, and can be adjusted quickly  
+maximum capacity is *fixed* because of a shortage of at least one resource (a **limiting factor**, normally a factor or production or a fixed cost)    
+thus, the ability to produce is limited  
 
 Ex: a factory can increase production by running machinery longer or adding shifts, but it cannot buy new machines immediately
 due to fixed capital costs
 
-factories are a fixed, capital resource that can not quickly be adjusted  
+factories are a fixed, capital resource that can not quickly be adjusted (it is a *fixed cost*)  
 
 **long run** - all costs are variable (nothing is fixed)  
 costs and resources can all be adjusted  
