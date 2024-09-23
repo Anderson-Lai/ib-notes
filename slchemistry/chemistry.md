@@ -411,3 +411,54 @@ then average out the electronegativity of the compound
 average is the x-axis  
 delta x is the y-axis  
 
+# Sept. 23, 2024 
+
+## Organic Nomenclature
+naming system based on number of carbons:  
+1 - meth  
+2 - eth  
+3 - prop  
+4 - but  
+5 - pent  
+6 - hex  
+7 - hept  
+8 - oct  
+9 - non  
+10 - dec  
+
+functional groups cause a change to the suffix
+
+### Alkane 
+suffix is -ane  
+**only single bonded carbons + hydrogens**  
+Ex: CH4  
+
+when naming, we look for the longest possible chain  
+if something sits outside the longest chain, it is considered to be a side chain  
+
+side chains have a suffix of '-yl'  
+we must also provide a number for the location it is in  
+must be the lowest position number   
+
+if there are multiple side chains, they get written in alphabetical order - still with lowest position number for all of them  
+
+maximize the length of the carbon chain  
+the chain can bend, but not backtrack  
+
+if there are multiple side chains that are of the same functional group, use covalent compound nomenclature to number the side chains  
+Ex: 2,3-dimethyl hexane  
+
+### Side Chain Isomers
+in a side chain, when carbons attach to a 'centeral' carbon, not in a 'chain'  
+
+propyl:  
+- isopropyl  
+
+butyl:  
+- t-butyl  
+- isobutyl 
+- sec-butyl  
+
+in the case of something like 6-isobutyl-4-t-butyl, sort alphabetically by prefix (this example is correct)  
+
+
