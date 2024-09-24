@@ -61,3 +61,13 @@ alors, ceux verbes utilisent être et avoir pour le passé composé
 
 si le verbe a un objet, c'est un verbe transitif  
 
+les verbes:  
+- monter  
+- descendre 
+- entrer 
+- rentrer
+- sortir
+- retourner 
+- passer
+
+
