@@ -54,6 +54,10 @@ fluorine - fluoro
 bromine - bromo  
 iodine - iodo  
 
+## Special Prefixes 
+cyclo - carbon chain "loop around"  
+this prefix **does** count to alphabetical ordering
+
 ## Special Compounds 
 cyclohex-1,3,5-triene is known as **benzene**  
 benzene as a side chain is called **phenyl**  
