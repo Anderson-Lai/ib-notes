@@ -301,7 +301,7 @@ Holds them up and rams the pins right through his eyes.
 'You shall not see me nor my crime,'  
 not see my present shame.  
 Go dark for all time blind  
-to what you never should hvae seen, and blind  
+to what you never should have seen, and blind  
 to the love this heart has cried to see." (page 70)  
 
 "Oh, the pity and the horror" - catharsis  
