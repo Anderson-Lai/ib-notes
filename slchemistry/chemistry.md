@@ -449,7 +449,7 @@ if there are multiple side chains that are of the same functional group, use cov
 Ex: 2,3-dimethyl hexane  
 
 ### Side Chain Isomers
-in a side chain, when carbons attach to a 'centeral' carbon, not in a 'chain'  
+in a side chain, when carbons attach to a 'central' carbon, not in a 'chain'  
 
 propyl:  
 - isopropyl  
@@ -460,5 +460,38 @@ butyl:
 - sec-butyl  
 
 in the case of something like 6-isobutyl-4-t-butyl, sort alphabetically by prefix (this example is correct)  
+
+# Sept. 24, 2024 
+
+## Cyclic Alkanes
+has a prefix **cyclo-**  
+can be on the parent or side chain  
+*does* count toward alphabetical naming  
+
+a chain can not connect to a side chain to have one long chain  
+although it does not break any rules, a cyclic chain is its **own** structure  
+
+## Halogens as Side Chains
+- f -> fluoro 
+- cl -> chloro  
+- br -> bromo  
+- i -> iodo
+
+## Alkenes
+**suffix of parent chain is -ene**  
+has at least 1 double bond between carbons  
+number priority is now given to the double bond location not the side chains  
+
+cyclohex-1,3,5-triene is also known as **benzene**    
+however, in a side chian, it is known as **phenyl**    
+this is the one exception where you can draw a line group  
+
+for benzne, numbering takes priority based on size  
+
+## Alkynes
+**suffix is now -yne**  
+has at least 1 triple bond  
+priority: alkyne > alkene > alkane  
+therefore, triple bond must have lowest possible number location  
 
 
