@@ -28,4 +28,36 @@ Ex: Elle a fini ses devoirs -> Elle les a finis
 un COI ne fait pas l'accord avec le participé passé  
 s'il y a un COD et un COI, il faut faire l'accord  
 
+# Sept. 24, 2024 - Le Passé Composé avec Être
+
+D - descendre    
+R - rentrer  
+
+M - monter  
+R - retourner  
+S - sortir  
+
+P - passer  
+
+V - venir   
+A - arriver   
+N - naître  
+D - devenir   
+E - entrer   
+R - revenir   
+T - tomber  
+R - rester  
+A - aller   
+M - mourir   
+P - partir  
+
+les verbes qui prennet être, il faut toujours faire les accords avec le sujet  
+
+## Les verbes transitifs et intransitifs  
+les verbs intransitifs ont un complément circumstanciel  
+
+il y a des verbes qui peuvent être transitifs et aussi intransitifs  
+alors, ceux verbes utilisent être et avoir pour le passé composé  
+
+si le verbe a un objet, c'est un verbe transitif  
 
