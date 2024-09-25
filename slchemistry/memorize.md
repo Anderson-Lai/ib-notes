@@ -60,7 +60,8 @@ this prefix **does** count to alphabetical ordering
 
 ## Special Suffixes 
 for small compounds that do not include a number, add an 'an' before the suffix  
-aldehyde - an -> anal  
+alcohol - ol -> anol  
+aldehyde - al -> anal  
 ketone - one -> anone  
 
 ## Special Compounds 
