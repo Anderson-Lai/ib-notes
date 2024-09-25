@@ -18,7 +18,7 @@
 
 ## Trigonal Planar 
 120 degrees  
-bent -> 117 degrees  
+bent -> 117 degrees, has 1 lone pair  
 
 ## Tetrahedral 
 109.5 degrees  
@@ -58,11 +58,30 @@ iodine - iodo
 cyclo - carbon chain "loop around"  
 this prefix **does** count to alphabetical ordering
 
+## Special Suffixes 
+for small compounds that do not include a number, add an 'an' before the suffix  
+aldehyde - an -> anal  
+ketone - one -> anone  
+
 ## Special Compounds 
 cyclohex-1,3,5-triene is known as **benzene**  
 benzene as a side chain is called **phenyl**  
 
+benzene + 1 OH = phenol  
+benzene + 2 or more OH = benzene-1,2,...-[prefix]ol  
+
+## Functional Group Priority
+carboxylic acid > ester > amid > aldehyde > ketone > ether > alcohol > amine > alkyne > alkene > alkane  
+
 ## Functional Group Suffixes
-alkane - 'ane'  
-alkene - 'ene'  
-alkyne - 'yne'  
+alkane - 'ane' has a single carbon bond   
+alkene - 'ene' has a double carbon bond  
+alkyne - 'yne' has a triple carbon bond   
+alcohol - 'ol' has a OH (hydroxide)   
+ether - side chain has the suffix 'oxy' has a ~C-O-C~  
+aldehyde - 'anal' comes first in the parent chain has a H-C=O at the beginning of the compound  
+ketone - 'one' has a C=O in the **middle** of the compound  
+
+
+
+

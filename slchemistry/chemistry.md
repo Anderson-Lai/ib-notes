@@ -494,4 +494,45 @@ has at least 1 triple bond
 priority: alkyne > alkene > alkane  
 therefore, triple bond must have lowest possible number location  
 
+# Sept. 25, 2024  
+
+priority:   
+carboxylic acid > ester > amid > aldehyde > ketone > ether > alcohol > amine > alkyne > alkene > alkane  
+
+## Alcohol
+suffx is **ol**  
+contains an OH (hydroxide)  
+
+keep the *ane* from alkane (there will always be single bonds), drop the *e*, and add the *ol*  
+
+benzene + 1 OH = phenol  
+benzene + 2 or more OH = benzene-1,2,...-[prefix]ol  
+
+## Ether
+suffix of the **side chain** is **oxy**  
+contains a ~C-O-C~  
+
+choosing the side or parent chain depends on the length of the carbon chain attached to the oxygen  
+the longer chain will be the parent  
+#1 carbon is always the carbon touching the oxygen  
+
+## Aldehyde
+suffixes changes to **al**  
+this is always #1 in terms of position so no # is needed in the name  
+therefore the ending will always be -anal  
+contains H-C=O  
+
+simiar to alcohol, take the *ane* from alkane, drop the e, append 'al'  
+
+## Ketone 
+also contains C=O but somewhere in the middle of the carbon chain  
+suffix is **one**  
+
+number for location is needed for larger compounds  
+
+suffix is *anone* for small compounds  
+
+prefer to not add the number than add the number  
+should only be possible for prop and but  
+
 
