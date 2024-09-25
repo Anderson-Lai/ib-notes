@@ -510,7 +510,7 @@ benzene + 2 or more OH = benzene-1,2,...-[prefix]ol
 
 ## Ether
 suffix of the **side chain** is **oxy**  
-contains a ~C-O-C~  
+contains a \~C-O-C~  
 
 choosing the side or parent chain depends on the length of the carbon chain attached to the oxygen  
 the longer chain will be the parent  

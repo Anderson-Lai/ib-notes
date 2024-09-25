@@ -79,10 +79,8 @@ alkane - 'ane' has a single carbon bond
 alkene - 'ene' has a double carbon bond  
 alkyne - 'yne' has a triple carbon bond   
 alcohol - 'ol' has a OH (hydroxide)   
-ether - side chain has the suffix 'oxy' has a ~C-O-C~  
+ether - side chain has the suffix 'oxy' has a \~C-O-C~  
 aldehyde - 'anal' comes first in the parent chain has a H-C=O at the beginning of the compound  
 ketone - 'one' has a C=O in the **middle** of the compound  
-
-
 
 

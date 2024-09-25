@@ -625,4 +625,79 @@ marginal product (MP) decreases as variable inputs increase so long as other inp
 
 Ex: if there are 8 workers and 6 machines, any additional workers (increases in variable inputs) will have a marginal product (MP) of 0  
 
+# Sept. 25, 2024 
+
+## Market Equilibrium
+the buyer must agree to buy at a price, and the seller to sell the product at the same price  
+they must agree for the transaction to occur  
+
+**market equilibrium** - when buyers and sellers agree to a price  
+
+the *invisible hand* guides the market  
+the market will eventually balance itself out, the buyers and sellers will come to an agreement in a competitive market  
+
+equilibrium is a situation in which opposing forces balance each other.  
+**equilibrium price** - quantity demanded == quantity supplied  
+**equilibrium quantity** - the quantity bought and sold at the equilibrium price (where supply and demand intersect)  
+
+## Surplus 
+at higher prices, a surplus occurs  
+suppliers will want to produce more than buyers will consume  
+
+the suppliers want to profit at the higher price, and thus will produce more  
+however, the consumer is not willing to purchase that product at that price (at least not at the quantity that is being supplied)  
+
+## Shortage
+at low prices, buyers are willing to buy more than suppliers are willing to supply  
+
+suppliers do not want to produce / supply this product as they are making less of a profit  
+
+## PPC
+as wants and needs changes, the production point on the PPC moves  
+the interaction between buyers and suppliers move where the society is on the PPC  
+
+at equilibrium, the buyers and sellers' choices are satisfied and in balance  
+this is the **market mechanism**, known as the *invisible hand*  
+
+firms that produce product determine how they will produce products based off what resources and technologies are available to them  
+
+## Price Signals and Incentives
+as signals prices communicate info to the decision makers  
+as incentives prices motivate decision makers to respond to the information  
+
+is it possible for market equilibrium to not be achieved (be in surplus or shortage)?  
+in the short term, *yes*, that is possible due to constant fluctuations  
+
+surplus -> equilibrium, buyers will buy less  
+shortage -> equilibrium, sellers will produce more  
+
+## Surplus to Equilibrium
+as surplus builds up, producers will be left with too much good that can not be sold - **surplus inventory**  
+suppliers will then drive the price down to get rid of the product  
+
+## Price Adjustments
+prices below equilibrium -> a shortage forces the price to go up  
+prices above the equilibrium -> a surplus forces prices to go down  
+
+## Shortage to Equilibrium
+prices are too low  
+suppliers see a chance to make a profit, and raise the price of the product  
+hope to deter some consumers from buying the product  
+the supply can not currently meet the demand  
+
+**supply and demand will often change due to a changing economic climate**  
+
+as price goes up, the demand decrease, and producers will produce more -> equilibrium  
+
+## Changes in Demand 
+an increase in demand shifts the demand curve to the right  
+this also shifts the equilibrium price  
+looking at the original equilibrium, there is now a shortage (prices will go up to reach equilibrium)  
+
+## Changes in Supply 
+if supply shifts to the right, a surplus at the original price will occur  
+prices will fall, and thus quantity demanded will increase  
+
+## Double Shifts
+when both curves shift, either the price or the quantity will be indeterminate  
 
