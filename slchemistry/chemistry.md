@@ -497,7 +497,7 @@ therefore, triple bond must have lowest possible number location
 # Sept. 25, 2024  
 
 priority:   
-carboxylic acid > ester > amid > aldehyde > ketone > ether > alcohol > amine > alkyne > alkene > alkane  
+carboxylic acid > ester > amide > aldehyde > ketone > ether > alcohol > amine > alkyne > alkene > alkane  
 
 ## Alcohol
 suffx is **ol**  
@@ -534,5 +534,41 @@ suffix is *anone* for small compounds
 
 prefer to not add the number than add the number  
 should only be possible for prop and but  
+
+# Sept. 26, 2024 
+
+## Carboxylic acids  
+always at the start of carbon chains (similar to aldehydes)  
+therefore always in #1 position -> does not need number in name  
+suffix changes to **-oic acid**  
+
+contains a O=C-OH  
+
+## Esters 
+parent chain is attached to the C=O  
+side chain is always attached to the oxygen   
+suffix is **-oate**  
+
+contains a O-C=O  
+
+#1 carbon is always touching the oxygen  
+
+## Amine
+contains a nitrogen attached to the hydrogen or carbon groups  
+longest carbon chain is the parent chain  
+the other carbon chains attached to the nitrogen are side chains and get an N placed before the name  
+suffix is **amine**  
+
+#1 carbon is the carbon touching the nitrogen  
+
+## Amide
+N-C=O  
+
+carbon chain attached to C=O is te parent chain  
+all other carbon chains are side chains  
+suffix is amide  
+
+#1 carbon is the carbon touching the nitrogen  
+
 
 

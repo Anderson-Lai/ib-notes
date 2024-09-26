@@ -72,7 +72,7 @@ benzene + 1 OH = phenol
 benzene + 2 or more OH = benzene-1,2,...-[prefix]ol  
 
 ## Functional Group Priority
-carboxylic acid > ester > amid > aldehyde > ketone > ether > alcohol > amine > alkyne > alkene > alkane  
+carboxylic acid > ester > amide > aldehyde > ketone > ether > alcohol > amine > alkyne > alkene > alkane  
 
 ## Functional Group Suffixes
 alkane - 'ane' has a single carbon bond   
