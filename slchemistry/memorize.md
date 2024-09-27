@@ -1,4 +1,4 @@
-# Covlaent Prefixes
+# Covalent Prefixes
 
 1 - mono  
 2 - di  
@@ -24,6 +24,13 @@ bent -> 117 degrees, has 1 lone pair
 109.5 degrees  
 trigonal pyramidal -> 107 degrees  
 bent -> 105 degrees  
+
+# Intermolecular Forces
+
+hydrogen bonds - hydrogen from one compound forms dipoles with N, O, or F  
+dipole-dipole - dipoles between different compounds in a solid  
+induced-dipole - temporary dipoles between compounds in a liquid / gas  
+London dispersion force (LDF) - attraction between temporary dipoles (very similar to induced-dipoles)  
 
 # Organic Nomenclature  
 
@@ -82,5 +89,8 @@ alcohol - 'ol' has a OH (hydroxide)
 ether - side chain has the suffix 'oxy' has a \~C-O-C~  
 aldehyde - 'anal' comes first in the parent chain has a H-C=O at the beginning of the compound  
 ketone - 'one' has a C=O in the **middle** of the compound  
-
+carboxylic acid - 'oic' has OH-C=O at the start of compound  
+ester - 'oate' has O-C=O, parent chain starts with the C=O carbon  
+amide - 'amide' has a N-C=O, parent chain starts with the C=O carbon  
+amine - 'amine' has N-C, parent chain is the longest carbon chain  
 
