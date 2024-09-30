@@ -737,6 +737,7 @@ social welfare is also maximized (well-being of society)
 P intercept - the point on the P axis that is met by a curve  
 Q intercept - the point on the Q axis that is met by a curve  
 
+## Formulas
 **consumer surplus** = ((P intercept of demand curve - equilibrium price) \* equilibrium demand) / 2  
 **producer surplus** = ((P intercept of supply curve - equilibrium price) \* equilibrium demand) / 2  
 social surplus = consumer surplus + producer surplus  
@@ -746,6 +747,7 @@ there may not always be a P intercept
 
 A = ((a + b) \* c) / 2 (area of trapezoid)  
 
+## Government Intervention
 **when looking at market efficiency, there should be no government intervention**  
 efficiency is only possible in highly unrealistic conditions  
 market failrues are an important justification for government intervention  
