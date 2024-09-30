@@ -70,4 +70,34 @@ les verbes:
 - retourner 
 - passer
 
+# Sept. 30, 2024
+
+## Les Verbes Pronominaux
+les verbes réfléchis sont les verbes où le sujet fait et reçoit la même action  
+les verbes réciproques sont les verbes où l'action est fait entre deux où plusieurs personnes  
+
+les verbes pronominaux sont l'autre groupe de verbes qui utilisent être comme verbe auxiliare  
+
+### Les Accords 
+on fait un accord si l'object direct se trouve avant le verbe  
+l'accord est fait avec le pronom, pas le sujet  
+
+Ex:  
+Elle s'est lavée  
+
+on ne fait pas un accord si l'object direct se trouve après le verbe  
+
+Ex:  
+Elle s'est lavé les mains  
+Les amis se sont écrit les lettres  
+
+on ne fait pas un naccord s'il y a un object indrect avant ou après le verbe  
+
+Ex:  
+Elles se sont téléphoné  
+
+le pronom réfléchi peut être un COD ou un COI  
+si c'est un COI, fais un accord, sinon, ne fais pas un accord  
+
+
 
