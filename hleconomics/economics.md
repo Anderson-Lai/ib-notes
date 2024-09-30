@@ -738,8 +738,8 @@ P intercept - the point on the P axis that is met by a curve
 Q intercept - the point on the Q axis that is met by a curve  
 
 ## Formulas
-**consumer surplus** = ((P intercept of demand curve - equilibrium price) \* equilibrium demand) / 2  
-**producer surplus** = ((P intercept of supply curve - equilibrium price) \* equilibrium demand) / 2  
+**consumer surplus** = ((P intercept of demand curve - equilibrium price) \* equilibrium quantity) / 2  
+**producer surplus** = ((P intercept of supply curve - equilibrium price) \* equilibrium quantity) / 2  
 social surplus = consumer surplus + producer surplus  
 
 ## Area of Trapezium
