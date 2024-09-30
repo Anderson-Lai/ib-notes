@@ -701,3 +701,55 @@ prices will fall, and thus quantity demanded will increase
 ## Double Shifts
 when both curves shift, either the price or the quantity will be indeterminate  
 
+# Sept. 30, 2024  
+
+**signals** tells economic agents make decisions by conveying the current state of the market or economy  
+**incentives** are something that motivates individuals or firms to behave in a particular way by altering the costs and benefits
+associated with a choice  
+
+**rationing** - a way of distributing or allocating goods and services among consumers or households  
+pricing rationing - those that are willing and able to pay the price at that price will recieve the good / service  
+non-price rationing - first come first serve  
+
+**efficiency** - making the best use of resources  
+**allocative efficiency** - producing the combination of goods most wanted by society  
+**productive efficiency** - producing goods using the fewest possible resources, at the lowest cost  
+
+**economic efficiency** - efficient producers must produce the right combination of resources for the economy  
+
+## Consumer surplus
+the highest price to pay for a good minus the price actually paid  
+area between demand curve and equilibrium price  
+
+## Producer surplus
+the price received for selling their good inus the lowest price they are willing to accept to produce that good  
+the lowest price a firm is willing to accept represents the cost of producing an extra unit of the good (marginal cost)  
+
+## Competitive Market Equilibrium  
+the sum of the consumer and producer surplus is known as a **social or community surplus**  
+this value is maximized at market equilibrium  
+
+market equilibrium is when marginal benefit (demand curve) = marginal cost (supply curve)  
+social surplus is maximized  
+allocative efficiency is achieved  
+social welfare is also maximized (well-being of society)  
+
+P intercept - the point on the P axis that is met by a curve  
+Q intercept - the point on the Q axis that is met by a curve  
+
+**consumer surplus** = ((P intercept of D curve - P of consumers) \* quantity purchased) / 2  
+**producer surplus** = ((P of producers - P of S curve) \* quantity sold) / 2  
+social surplus = consumer surplus + producer surplus  
+
+## Area of Trapezium
+there may not always be a P intercept  
+
+A = ((a + b) \* c) / 2 (area of trapezoid)  
+
+**when looking at market efficiency, there should be no government intervention**  
+efficiency is only possible in highly unrealistic conditions  
+market failrues are an important justification for government intervention  
+
+competitive markets can not sufficiently answer *whom* to produce for  
+
+
