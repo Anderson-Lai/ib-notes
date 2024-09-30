@@ -737,8 +737,8 @@ social welfare is also maximized (well-being of society)
 P intercept - the point on the P axis that is met by a curve  
 Q intercept - the point on the Q axis that is met by a curve  
 
-**consumer surplus** = ((P intercept of demand curve - equilibrium price) \* quantity purchased) / 2  
-**producer surplus** = ((P intercept of supply curve - equilibrium price) \* quantity sold) / 2  
+**consumer surplus** = ((P intercept of demand curve - equilibrium price) \* equilibrium demand) / 2  
+**producer surplus** = ((P intercept of supply curve - equilibrium price) \* equilibrium demand) / 2  
 social surplus = consumer surplus + producer surplus  
 
 ## Area of Trapezium
