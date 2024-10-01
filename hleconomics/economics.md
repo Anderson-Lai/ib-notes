@@ -739,7 +739,7 @@ Q intercept - the point on the Q axis that is met by a curve
 
 ## Formulas
 **consumer surplus** = ((P intercept of demand curve - equilibrium price) \* equilibrium quantity) / 2  
-**producer surplus** = ((P intercept of supply curve - equilibrium price) \* equilibrium quantity) / 2  
+**producer surplus** = ((equilibrium price - P intercept of supply curve) \* equilibrium quantity) / 2  
 social surplus = consumer surplus + producer surplus  
 
 ## Area of Trapezium
@@ -753,5 +753,7 @@ efficiency is only possible in highly unrealistic conditions
 market failrues are an important justification for government intervention  
 
 competitive markets can not sufficiently answer *whom* to produce for  
+
+# Oct. 1, 2024
 
 
