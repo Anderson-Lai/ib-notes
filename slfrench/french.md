@@ -89,11 +89,11 @@ on ne fait pas un accord si l'object direct se trouve après le verbe
 
 Ex:  
 Elle s'est lavé les mains  
-Les amis se sont écrit les lettres  
 
-on ne fait pas un naccord s'il y a un object indrect avant ou après le verbe  
+on ne fait pas un accord s'il y a un object indirect avant ou après le verbe  
 
 Ex:  
+Les amis se sont écrit les lettres  
 Elles se sont téléphoné  
 
 le pronom réfléchi peut être un COD ou un COI  
