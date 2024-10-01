@@ -570,5 +570,43 @@ suffix is amide
 
 #1 carbon is the carbon touching the nitrogen  
 
+# Oct. 1, 2024 - Types of Reactions
+
+## Synthesis
+A + B -> AB  
+Na + Cl2 / 2 -> NaCl  
+
+PCl3 + Cl2 -> PCl5  
+must be the same element for it to be synthesis and not single-displacement  
+
+synthesis - produces one compound  
+
+SiCl4 + Cl2 -> no RxN  
+although silicon is in period 3 and can have an expanded octet, there is no space for the new chlorines  
+
+**non-metal oxides + water -> acids**  
+N2O3 + H2O -> 2HNO2 (ternary acid, there are three elements)  
+
+**metal oxides + water -> base** (metal + hydroxide)  
+MgO + H2O -> Mg(OH)2  
+
+## Decomposition
+AB -> A + B  
+NaCl -> Na + 1/2 Cl2  
+
+**metal nitrate -> metal nitrite + oxygen gas**  
+Ca(NO3)2 -> Ca(NO2)2 + O2  
+
+**metal carbonate -> metal oxide + carbon dioxide**  
+Al2(CO3)3 -> AlO3 + CO2  
+
+**metal bicarbonate -> metal oxide + water + carbon dioxide**  
+2NaHCO3 -> Na2O + H2O + 2CO2  
+
+**metal hydroxide -> metal oxide + water**  
+2LiOH -> Li2O + H2O  
+
+**metal chlorate -> metal chloride + oxygen gas**  
+Be(ClO3)2 -> BeCl2 + 3/2 O2  
 
 
