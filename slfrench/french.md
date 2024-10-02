@@ -97,7 +97,6 @@ Les amis se sont écrit les lettres
 Elles se sont téléphoné  
 
 le pronom réfléchi peut être un COD ou un COI  
-si c'est un COI, fais un accord, sinon, ne fais pas un accord  
-
+si c'est un COD et c'est avant le verbe auxiliaire, fais un accord, sinon, ne fais pas un accord  
 
 
