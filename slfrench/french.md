@@ -99,4 +99,53 @@ Elles se sont téléphoné
 le pronom réfléchi peut être un COD ou un COI  
 si c'est un COD et c'est avant le verbe auxiliaire, fais un accord, sinon, ne fais pas un accord  
 
+# Oct. 2, 2024 - L'imparfait
+
+pris radical de present de nous, ajoute la termination  
+terminations:  
+- ais 
+- ais 
+- ait 
+- ions 
+- iez 
+- aient  
+
+il y a seulement un verbe qui est irrégulier à l'imparfait  
+- étais  
+- étais 
+- était 
+- étions
+- étiez
+- étaient  
+
+il y a des changements autographiques pour verbes commes manger, commencer, etc.  
+mais, n'ajoute pas les changements pour **nous et vous**, parce que le 'i' est une voyelle molle (soft)  
+
+pour étudier, il y a une double 'i' pour nous et vous  
+nous *étudiions*, vous *étudiiez*  
+
+l'imparfait est utilisé pour les actions souvent qui n'ont pas une termination définitif  
+
+## Les Emplois 
+L'imparfait est utilisé pour décrire la progression ou la répétition régulière d'une action au passé.  
+
+la description:  
+- la météo
+- la scène 
+- l'état mental
+- les personnes
+- etc.
+
+décrire des actions habituelles:  
+Ex: le samedi, tu faisais la grasse matinée.  
+Autrefois, nous marchions au parc.  
+
+décrire deux actions qui sont en progrès au même temps:  
+Ex: Elle se reposait pendant que les enfants dormaient.  
+Nous étudiions pendant que nous écoutions la radio.  
+
+une action qui durait longtemps (could have ended, but also could still be happening):  
+Ex: Nouse nagions depuis cinq ans.  
+Toi et ta famille, vous voyagiez chaque été.  
+
 
