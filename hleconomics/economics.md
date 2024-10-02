@@ -757,3 +757,78 @@ competitive markets can not sufficiently answer *whom* to produce for
 # Oct. 1, 2024
 
 
+
+# Oct. 2, 2024 - Elasticity
+
+elasticity of demand and supply  
+
+## Elasticity of Demand
+**elastic** - how much something can stretch or change in response to another variable  
+
+**Price Elasticity of Demand (PED)** - the measure of change in quantity demanded and the change in its price  
+PED is calculated *along* the demand curve  
+
+price inelastic - a change in price causes a smaller % change in demand  
+price elastic - a change in price causes a bigger % change in demand  
+
+### Elastic Goods
+goods with very elastic demand tend to be non-necessary goods (designer shoes, luxury handbags, etc.)  
+
+### Inelastic Goods
+goods with **no easy substitutes** (insulin, gasoline, etc.)  
+**when price increases, demand stays relatively steady**  
+there are no other options, consumers need to buy the same amount  
+
+an increase in price would ahve less of an effect on the consumption of staple foods than it would have on luxury foods (rice vs apple pie)  
+
+### Why PED Matters
+it is important to understand price elasticity to know how the relationship between the price of a good influence its demand  
+if the quantity demanded changes a lot when prices changes a little, a product is said to be *elastic*  
+when there is a small change in quantity demanded when prices changes a lot, a product is said to be *inelastic*  
+
+PED = percentage change in quantity demanded / percentage change in price  
+
+price elasticity is usually **negative**  
+it is a common practice to use the **absolute value** instead  
+done to avoid confusion when making comparisons between different values of PED  
+
+the final value is the **coefficient of elasticity**  
+
+results:  
+- PED = 0 -> consumers pay no attention to price (insulin); represented by a **veritcal line**  
+- 0 < PED < 1 -> inelastic price; consumers are not *too* sensitive to price (gasoline)  
+- PED = 1 -> (**unit elastic**) demand is neither elastic nor inelastic; prices change by x%, quantity demanded changes by x%  
+- PED > 1 -> elastic demand; consumers are *very* sensitive to changes in prcie (luxury items)  
+- PED is infinite -> consumers will not buy the product if the price changes *slightly*; represented by a **horizontal line**  
+
+elastic / inelastic should only be used to refer to a portion of a demand curve  
+elasticity changes along the position of the demand curve  
+
+### Determinants of PED
+S: available substitutes -> more elastic  
+P: proportion of income spent -> more elastic 
+L: luxuries and necessities -> necessities are inelastic  
+A: habit forming or addictive -> inelastic  
+T: time to adjust -> goods are easier to purchase in the long run  
+
+can not be compared based on the slope of the curve, the calculations must be done due to different scales  
+PED's can only be compared if they intersect at some point  
+
+### Total Revenue
+each section of the demand curve has a different PED  
+**total revenue** - price \* quantity (at a certain point on the demand curve)  
+
+inelastic - total revenue moved in same direction as the price  
+elastic - total revenue moved in the opposite direction as price  
+unit elastic - total revenue did not change  
+
+**profit** = total revenue - total cost  
+a firm aims to maximize *profit* not revenue  
+as revenue rises, cost may rise faster  
+
+## Primary Commodities vs Manufactured Products  
+**primary commodities** - goods arising directly from the use of natural resources; normally inelastic (foods and oils)  
+**manufactured products** - goods produced by labour usually working together with capital and raw materials; more elastic
+as there are substitutes (computers and cars)  
+
+
