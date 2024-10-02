@@ -609,4 +609,26 @@ Al2(CO3)3 -> AlO3 + CO2
 **metal chlorate -> metal chloride + oxygen gas**  
 Be(ClO3)2 -> BeCl2 + 3/2 O2  
 
+# Oct. 2, 2024
+
+## Single Displacement
+If A is a metal  
+A + BC -> AC + B  
+
+need to refer to an activity series to verify that A can displace B  
+Ex: Li + FeCl3 -> 3LiCl + Fe  
+Ex: Zn + NaF -> No RxN  
+Ex: Al + 3H2O (HOH) -> Al(OH)3 + 3/2 H2 (experimentally, nothing happens -> needs more energy than room temperature water)  
+
+If A is a nonmetal  
+A + BC -> BA + C  
+
+If A and C are halogens we use the activity series of halogens; shown on periodic table  
+F > Cl > Br > I  
+
+Ex: N2 + 6LiCl -> 2Li3N + 3Cl2  
+F2 + 2NaBr -> 2NaF + Br2  
+I2 + MgCl2 -> No RxN  
+
+
 
