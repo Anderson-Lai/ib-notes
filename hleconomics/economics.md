@@ -756,7 +756,204 @@ competitive markets can not sufficiently answer *whom* to produce for
 
 # Oct. 1, 2024
 
+economic theories are based of the assumption of **rational economic decision-making**  
+individuals aim to maximize ssatisfaction  
 
+## Rational Consumer Choice
+consumers make decisions according to their tastes  
+3 assumptions:  
+- consumer is able to rank goods according to preference (*completeness* assumption)  
+- preferences among alternative choices are consistent (*transitivity* assumption)  
+- consumer prefers more than less (*non-satiation* assumption)  
+
+assumes consumers have **perfect information** (sees the full picture about altneratives)  
+assumes consumers will try to maximize their *utility*  
+
+## Behavioural Economics
+criticizes consumer rationality and utility maximization  
+
+### Biases
+**bias (cognitive bias)** - systematic errors in thinking or evaluating  
+
+types of biases:  
+
+#### Rules of thumb
+simplifies consumer choices rather than making complicated decisions  
+
+1 cup of coffee has 80mg of caffeine, etc.  
+
+#### Anchoring
+using irrelevant information to make decisions, most often due to it being the first piece of information seen  
+
+buying pants at $100 after seeing another pair at $150 thinking its a bargain, when a pair could have been bought at $50  
+
+#### Framing
+deals with how choices are presented to the consumer  
+
+80% lean beef vs 20% fat beef  
+faded jeans at a boutique store vs at a discount store  
+
+#### Availability
+people tend to rely on information that is more readily available, partly due to people remembering recents events and information 
+more than past events and information  
+
+after seeing advertisements on the superiority of brand 2, a consumer may be more likely to select brand 2 than brand 1  
+
+biases lead to the belief there is a more accurate way to describe consumer behaviour:  
+
+### Bounded Rationality
+consumers are rational within limits, maximizing utility is a costly process  
+rationality is limited by a consumer's information, the costliness to obtain information, and the ability to process large amounts of information  
+
+consumers seek **satisfice** (seeking a satisfactory outcome over the optimal outcome)  
+
+### Bounded Self-Control
+people do not have the self-control to always make rational decisions
+
+### Bounded Selfishness
+people are only selfish within limits  
+people do not always act in their best self-interest  
+
+### Imperfect Information
+consumers do not have access to complete information on prices, products, quality, etc.  
+thus, it is impossible to maximize utility, as *perfect knowledge* was an initial assumption  
+
+behavioural economics is not based on assumptions on human behaviour, rather experiments that try to observe how people behave and react  
+
+### Nudge Theory
+**nudge** - a method designed to influence consumers' choices in a predictable way, without offering
+financial incentives or imposing sanctions, and without limiting choice  
+
+Ex:  
+in the United Kingdoms, tax payments of late taxpayers increased by 15% when told most people in their area had already paid their taxes  
+
+behavioural economics has been more successful in finance  
+
+### Choice Architecture
+based on the idea that consumers are influcned by how options are presented to them  
+
+**framing** is an important part of choice architecture  
+framing defines the context in which choices are presented to decision-makers  
+
+different types of choices:  
+
+#### Default Choice
+choice made when the consumers does not do anything  
+made by habit or lack of interest in taking a deliberate action  
+
+#### Restricted Choice
+choice that is limited by the government or other authority  
+
+Ex:  
+speed limits, voting age, etc.  
+
+argued that people have too many choices available, and not enough information to make good choices  
+choice architecture can take advantage of restrictions to encourage people to make choices with socially desirable outcomes  
+
+#### Mandated Choice
+choice between altneratives that is compulsory by the government or authority (a required choice)  
+it is a free choice, but is is mandatory to make that free choice  
+
+nudges often affects consumers on a sub-conscious level; it is manipulative  
+
+choice architecture takes advantage of the incomplete information available to the consumer, and 
+selectively provides information (such as through framing) to encourage consumers to act in a particular way  
+thus, it is argued that there should be transparency and open discussion of nudges used for economic policy  
+
+### Evaluating Behaviour Economics
+advantages:  
+- simple and low-cost way to influence people's behaviour to act in socially desireable ways  
+- has shown success, implying choice architecture and nudging have numerous possible applications in areas that are yet unexplored  
+- offers consumers and citizens freedom of choice without restricting or forcing them to do anything  
+- may overcome the theory of consumer behaviour, due to the irrationality of actual consumer behaviour  
+- policies are based on psychology, which have been tested over many years  
+- policies are developed through trials, allowing for trial-and-error methods to achieve desired results  
+
+disadvantages:  
+- it is not based on any understanding of human behaviour, and thus can not lead to a systematic and unifying theory on human
+behaviour with general applicability
+- the unsystematic approach may not be valid over time or across different income groups, social groups, or cultures -> reduces
+applicability of policies being devloped over time and in different people groups
+- using psychological principles to manipulate consumers to act in ways not necessarily in their best interests  
+- behavioural policies may be used as substitutes to necessary but politically costly economic policies, such as taxes on
+socially harmful goods
+- traditional economic policies may be more effective
+- could be a new form of government regulation camouflaged under the guise of freedom and choice -> more dangerous than conventional
+government control as people may not be aware of its existence and its effects on their choices
+- choice architecture and nudging may affect people's choices, but these choices may not be a reflection of their true preferences
+
+## Firm Business Objectives
+standard economic theory of the firm assumes **rational producer behaviour**  
+firms want to maximize profit  
+
+profit maximization involves determing the level of output to produce the maximum profit  
+
+profit = revenue - cost  
+
+profit maximization may not always be the overriding objective of firms  
+
+self-interested behaviour of firms often leads to negative consequences for society  
+Ex:  
+underpaying child labour, polluting the environment, etc.  
+
+however, these consequences can lead to a negative image by society, lowering profits, or lead to government regulation, also lowering profits  
+thus, firms must display **corporate social responsibility**, such as:  
+- avoiding polluting activities  
+- supporting human rights, such as avoiding child labour and investing in countries with politically oppressive regimes  
+- art and athletics sponsorships  
+- donations to charities  
+
+whilst ethical behaviour may lower costs and increase expected profits, unethical behaviour may lead to boycotts
+and customer avoidance, lowering total profits  
+
+studies that try to measure how behaviouru correlates to profits have been inconclusive, but majority of firms do not want to take this risk  
+
+### Market Share 
+percentage of total sales in a market that is earned by a single firm  
+high market share indicates popularity amongst buyers  
+
+implies a high **economies of scale**, allowing firms to increase its profitability  
+
+market share is important as it allows comparisons of how well a firm is doing to its competitors  
+
+maintaining market share -> growing at the same rate as overall market  
+growing market share -> doing well in comparison to competitors  
+falling market share -> not doing as well in competitors in terms of sales of its products  
+
+firms may try to lower its prices, introduce new or innovative products into the market, or use advertising to increase market share  
+each carry a risk of lowering profits  
+lowered profits may be acceptable if the firm remains profitable and continues to earn a satisfactory level of profits  
+
+### Growth Maximization
+another possible objective instead of maximizing profits  
+
+why?  
+- growing firm can achieve economies of scale and lower its average costs  
+- can diversify production of different products and markets and reduce its dependence on a single product or market  
+- greater market power and increased ability fo influence prices, again potentially increasing its profitability  
+- reduces its risks as it is less affect in a economic downturn (recession) and less likely to be taken over (bought) by another firm  
+- reconciles interests of both owners and managers (profit maximization favours owners whereas revenue maximization favours managers)  
+
+### Revenue Maximization
+firm managers may be more interseted in maximizing revenue and sales rather than profit  
+this is due to:  
+- sales can be identified and measured more easily than profits in the short term, whcih can be used to motivate employees  
+- rewards for managers and employees are often linked to increased sales rather than increased profits  
+- it is often assumed revenue from more sales will increase more rapidly than cost, causing profit to also increase  
+- increased sales give rise to feelings of success, whereas decreased sales create feelings of failure  
+
+### Satisficing 
+a firm will typically not only try to maximize one goal (profits, market share, etc.)  
+rather, a firm is composed of separate groups, each with its own objectives that may overlap or conflict  
+
+prevents a firm from pursuing any kind of maximizing behaviour  
+firms thus establish processes where they can compromise, which results in the pursuit of many objectives that are placed in a hierarchy  
+this behaviour is known as **satisficing**  
+
+**satisficing** - firms try to achieve a satisfactory level of profits together with satisfactory results for many 
+more objectives, rather than the optimal or 'best' results for any one objective  
+Ex:  
+a firm does not solely maximize profits but also growth and revenue as well  
 
 # Oct. 2, 2024 - Elasticity
 
