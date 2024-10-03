@@ -630,5 +630,31 @@ Ex: N2 + 6LiCl -> 2Li3N + 3Cl2
 F2 + 2NaBr -> 2NaF + Br2  
 I2 + MgCl2 -> No RxN  
 
+# Oct. 3, 2024 
+
+## Double Displacement
+AB + CD -> AD + CB  
+
+if NH4OH is ever produced, it will decompose to NH3 + H2O (very weak compound, and can not exist in that compound)  
+if H2CO3 is produced, it will become CO2 + H2O  
+
+## Combustion
+organic compound + oxygen gas  
+complete combustion has excess oxygen + produces only CO2 and H2O  
+if the organic compound contains nitrogen it also produces NO2  
+
+incomplete combustion has limited oxygen + produces a variety of possible products:  
+- CO2
+- H2O
+- CO
+- C 
+- H2 
+
+complete combustion burns clean, producing white smoke  
+incomplete combustion produces black / grey smoke  
+
+elements + oxygen that yield energy can be both synthesis *and* combustion  
+
+when balancing, assume complete combustion, as incomplete combustion yields random products  
 
 
