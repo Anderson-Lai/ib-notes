@@ -1028,4 +1028,73 @@ as revenue rises, cost may rise faster
 **manufactured products** - goods produced by labour usually working together with capital and raw materials; more elastic
 as there are substitutes (computers and cars)  
 
+# Oct. 3, 2024
+
+## Income Elasticity of Demand (YED)  
+measures how the quantity demanded of a good or service changes in response to a chnage in consumer income  
+used to determine if a good is a normal or inferior good  
+
+provides info of demand given a change in income and the size of the change  
+
+**YED** = % change in quantity demanded / % change in income  
+
+YED can be both positive and negative  
+positive number -> normal good at that income level (income increases, demand increases)  
+negative number -> inferior good at that income level  
+
+types of positive YED:
+- 0 < YED < 1 -> income inelastic demand (necessities)  
+- YED > 1 -> normal goods that are **luxuries** (income elastic demand)  
+- YED < 0 -> inferior good, demand and income are inversely proportional (ex: taking the bus, second-hand clothes, etc.)  
+
+YED < 1 (necessities):    
+a percentange increase in income has a smaller percentage increase in quantity demanded  
+income **inelastic** demand  
+
+YED > 1 (luxuries):  
+income **elastic** demand  
+a percentage increase in income = a larger percentage increase in quantity demanded  
+the percentage of income spent on these items *increases faster* than income  
+
+more travel, luxury cars, etc.  
+
+### Engel Curve
+a good turns from a normal good to an inferior good  
+for normal goods, the slope is positive  
+for inferior goods, the slop is negative  
+at YED = 0, the slops is undefined  
+
+### YED Implications for Producers and the Economy
+as countries experience economic growth, goods with an income elastic demand will grow  
+if society's income has grown by 3%, income spent on travel may be 4%  
+
+for necessities (income inelastic demand), such as clothes and foods, growth may be at 2%  
+
+the higher then YED for a good or service, the greater the expansion in the market  
+the lower the YED, the smaller the expansion  
+
+producers interested in producing in an expanding market may want to know their product's YED  
+
+in a recession, luxuries are hit the hardest, whereas necessities (with low YEDs), have a smaller drop in sales  
+
+### Economic Sectors
+primary sector - primary products  
+manufacturing sectors - cars  
+services sectors - travel, banking, insurance  
+
+as the economy grows, the size of these 3 sectors will grow in different ways  
+
+agricultural products grow slowly than the growth in income (YED < 1)  
+manufactured goods grow faster than economic growth (YED > 1)  
+
+synthetic goods have a higher percentage of income spent on them as income rises (YED > 1)  
+
+many services have a higher YED, so the percentage demand for these is much larger  
+
+economies in less developed countries usually have a large primary sector due to the important of agriculture,
+while manufactured goods or services are less important  
+
+
+
+
 
