@@ -97,10 +97,7 @@ amine - 'amine' has N-C, parent chain is the longest carbon chain
 # Reactions
 
 ## Synthesis
-A + B -> AB  
-Na + Cl2 / 2 -> NaCl  
-
-PCl3 + Cl2 -> PCl5  
+A + B -> AB
 must be the same element for it to be synthesis and not single-displacement  
 
 synthesis - produces one compound  
@@ -116,7 +113,6 @@ MgO + H2O -> Mg(OH)2
 
 ## Decomposition
 AB -> A + B  
-NaCl -> Na + 1/2 Cl2  
 
 **metal nitrate -> metal nitrite + oxygen gas**  
 Ca(NO3)2 -> Ca(NO2)2 + O2  
@@ -138,9 +134,6 @@ If A is a metal
 A + BC -> AC + B  
 
 need to refer to an activity series to verify that A can displace B  
-Ex: Li + FeCl3 -> 3LiCl + Fe  
-Ex: Zn + NaF -> No RxN  
-Ex: Al + 3H2O (HOH) -> Al(OH)3 + 3/2 H2 (experimentally, nothing happens -> needs more energy than room temperature water)  
 
 If A is a nonmetal  
 A + BC -> BA + C  
@@ -148,15 +141,11 @@ A + BC -> BA + C
 If A and C are halogens we use the activity series of halogens; shown on periodic table  
 F > Cl > Br > I  
 
-Ex: N2 + 6LiCl -> 2Li3N + 3Cl2  
-F2 + 2NaBr -> 2NaF + Br2  
-I2 + MgCl2 -> No RxN  
-
 ## Double Displacement
 AB + CD -> AD + CB  
 
-if NH4OH is ever produced, it will decompose to NH3 + H2O (very weak compound, and can not exist in that compound)  
-if H2CO3 is produced, it will become CO2 + H2O  
+NH4OH -> NH3 + H2O  
+H2CO3 -> CO2 + H2O  
 
 ## Combustion
 organic compound + oxygen gas  
