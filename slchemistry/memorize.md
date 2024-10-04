@@ -11,6 +11,24 @@
 9 - nona  
 10 - deca  
 
+# Polyatomic Ions
+
+NO3 (1-) - nitrate  
+CO3 (2-) - carbonate  
+SO4 (2-) - sulfate  
+PO4 (3-) - phosphate  
+SCN (1-) - thiocyanate  
+ClO3 (1-) - chlorate  
+CrO4 (1-) - chromate  
+NH4 (1+) - ammonium  
+OH (1-) - hydroxide  
+O2 (2-) - peroxide  
+CN (1-) - cyanide  
+HCO3 (1-) - bicarbonate or hydrogen carbonate  
+MnO4 (1-) - permanganate    
+C2H3O2 (1-) - acetate  
+Cr2O7 (2-) - dichromate  
+
 # Bond Angles
 
 ## Linear 
