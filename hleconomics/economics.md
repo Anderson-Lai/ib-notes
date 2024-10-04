@@ -1094,7 +1094,42 @@ many services have a higher YED, so the percentage demand for these is much larg
 economies in less developed countries usually have a large primary sector due to the important of agriculture,
 while manufactured goods or services are less important  
 
+# Oct. 4, 2024
 
+## Price Elasticity of Supply
+measures how much the quantity supplied of a good responds to a change in its price  
 
+**elasticity of supply** = % change in quantity supplied / % change in price  
+
+PES < 1 - inelastic supply  
+quantity supplied does not change much when price changes  
+difficult and expensive to increase production  
+
+Ex: supply of gold  
+
+PES > 1 - elastic supply  
+large response in the change in quantity supplied when price rises  
+easy and inexpensive to increase production  
+
+Ex: snow-shoveling services  
+
+PES = 0 - perfectly inelastic supply  
+quantity supplied does not respond to change in price (antiques)  
+
+PES = infinity - perfectly elastic supply  
+producers are willing to supply an unlimited good at a price but nothing below that price  
+
+PES = 1 - unit elastic supply  
+percentage quantity supplied is identical to percentage change in price  
+
+Ex:  
+price increases by 10% -> quantity supplied will also increase by 10%  
+
+### Factors Influencing Elasticy of Supply 
+- availability of additional resources -> the more resources, the more elastic  
+- mobility of resources -> the easier to shift resources, the more elastic  
+- spare (unused) capacity of firms -> the more idle equipment, the more elasitc  
+- ability to store stock -> the more that can be stored, the more elastic  
+- time production takes -> the shorter the time produciton takes, the more elastic  
 
 
