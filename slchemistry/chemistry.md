@@ -563,7 +563,7 @@ suffix is **amine**
 ## Amide
 N-C=O  
 
-carbon chain attached to C=O is te parent chain  
+carbon chain attached to C=O is the parent chain  
 all other carbon chains are side chains  
 suffix is amide  
 
