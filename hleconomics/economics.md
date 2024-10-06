@@ -1131,5 +1131,6 @@ price increases by 10% -> quantity supplied will also increase by 10%
 - spare (unused) capacity of firms -> the more idle equipment, the more elasitc  
 - ability to store stock -> the more that can be stored, the more elastic  
 - time production takes -> the shorter the time produciton takes, the more elastic  
+- rate at which costs increase -> the slower the rate at which costs increase, the more elastic  
 
 
