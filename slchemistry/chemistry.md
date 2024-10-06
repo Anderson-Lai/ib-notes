@@ -358,7 +358,6 @@ e.g. (F2O not OF2)
 # Sept. 18, 2024  
 
 ## Metallic Bonding and Strength
-
 **alloy** - two metals mixed together  
 not ionic or molecular, it is their own type  
 metals must be liquids to form an alloy  
