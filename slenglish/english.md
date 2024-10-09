@@ -395,4 +395,4 @@ she has no body to gesture with
 no one wants to listen to her as she is dead  
 an audience must be willing to listen  
 
-
+penelope is trying to challenge an audience from Homer that has been passed through the generations orally
