@@ -148,4 +148,20 @@ une action qui durait longtemps (could have ended, but also could still be happe
 Ex: Nouse nagions depuis cinq ans.  
 Toi et ta famille, vous voyagiez chaque été.  
 
+# Oct. 9, 2024 - Le Passé Composé Contre L'Imparfait
+
+Le passé composé:  
+- les actions qui ont commencé et terminé  
+- une action qui se passe une fois  
+- l'action qui interrompe (the verb that interrupts a verb in progress (this verb is in imparfait))  
+
+L'imparfait:  
+- les actions continuent  
+- une action habituelle  
+- la cause pour le résultat (cause for why something has happened, the result is a singular action that happened once -> passé composé)    
+Ex: Je mangeais une banane et après quelques heures je ne me suis pas senti bien.  
+
+
+
+
 
