@@ -351,4 +351,48 @@ Oedipus' overconfidence, lack of self-knowledge, and arrogance leads to his fate
 you can be forgiven for a bad fate, but not for flaws  
 thus, this play is the a tragedy of character  
 
+# Oct. 9, 2024 - Penelopiad
+
+a story about divisions is itself divided  
+the maids interrupt penelope's narrative  
+
+is penelope a reliable narrator?  
+
+mythical vs mundane  
+ancient vs modern  
+public vs hidden  
+spoken vs silenced  
+
+## Mundane vs Mythical
+drunken crew vs fighting cyclops  
+
+maids are the classical chorus  
+maids are also like a modern variety show  
+
+tension between mundane and mythical  
+penelope does not know which story is true  
+
+## Ancient vs Modern
+contrasting descriptions of Helen  
+
+ancient - semi-divine, "perfect" Greek wife  
+modern - questions divinity, "stuck-up"  
+
+the myth is so powerful it retains it power in modern language  
+penelope speaks the myth in modern language to make her seem approachable  
+
+most of penelope's stories are not her own, they are about Odysseus  
+
+does not know why her father tried to drown her  
+story is told literally, but penelope can not fill in the entire story as even she does not know the truth  
+tries to make her father's actions intelligible by guessing  
+makes her human and approachable  
+
+penelope is much more like a memoir than the classic epic  
+
+she has no mouth to speak from, and no one across the River Styx wants to listen to her  
+she has no body to gesture with  
+no one wants to listen to her as she is dead  
+an audience must be willing to listen  
+
 
