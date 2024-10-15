@@ -656,4 +656,62 @@ elements + oxygen that yield energy can be both synthesis *and* combustion
 
 when balancing, assume complete combustion, as incomplete combustion yields random products  
 
+# Oct. 15, 2024 - Unit 2: Matter + Energy
+
+## Matter
+solid, liquid, gas, plasma  
+
+gas *ionizes* into plasma (generally requires a large amount of energy)  
+plasma *recombines (recombination)* into a gas  
+
+the enthalpy of a system increases in this order: solid -> liquid -> gas -> plasma  
+
+lowering the energy of a solid even more yields a **bose-einstein state**, particles are nearly (or at) a standstill  
+
+temperature (kelvin) = temperature (celsius) + 273  
+
+**exothermic** - the system itself (although energy is being put in) increases in energy (kinetic energy / temperature goes up; solid -> liquid)  
+**endothermic** - the system itself decreases in energy (kinetic energy / temperature goes down; gas -> liquid)  
+
+## Pure Substances vs Mixtures
+pure substances - atoms and compounds  
+tap water is *not* a pure substances, yet H2O is  
+
+salt water is a **homogenous mixture** (a solution)   
+a **heterogenous mixture** is where you can see two distinct *phases*, e.g. sand in water  
+
+## Atomic Theory and Subatomic Particles
+protons, neutrons, electrons  
+**atoms can not be created or destroyed; the energy is just transformed**  
+
+neutrons have the same number of positive and negative charges (thus making them neutral)  
+
+nucleus size stays the same, but as you descend the periodic table, more positive charges are shoved into the nucleus, all of which repel each other  
+this causes the elements further down the periodic table to be more unstable, radioactive, etc.  
+
+neutrons help mitigate some of the positive charges via **induction** (the positive proton attracts the negative side of the neutron)  
+
+### Isotopes
+neutrons are responsible for forming isotopes  
+every element on the periodic table is an **average** of all the isotopes of the element  
+
+atoms are constantly being bombarded with energy  
+atoms must do something with that energy  
+it uses the *other* subatomic particles to transform the energy into neutrons  
+
+if too many neutrons get formed, the nucleus gets "overwhelemed" and is "destroyed" as it is too unstable and the energy is fully transferred outward  
+produces a **radioisotope**  
+(Ex: uranium in a nuclear power plant)  
+
+the atom can not handle that many neutrons forever  
+
+Ex:  
+- C-14 -> used for bone decay carbon dating
+- Co-60 -> used to kill bacteria in food
+- Tech-99 -> used for diagnosing cancer
+- 1H proton -> primarily makes H2
+- 2H deuterium -> used as a coolant, fuel in nuclear fusion, drugs / medical tracing
+- 3H tritium -> nuclear weapons (hydrogen bombs)
+
+
 
