@@ -390,9 +390,24 @@ makes her human and approachable
 
 penelope is much more like a memoir than the classic epic  
 
+## Spoken vs Silenced
 she has no mouth to speak from, and no one across the River Styx wants to listen to her  
 she has no body to gesture with  
 no one wants to listen to her as she is dead  
 an audience must be willing to listen  
 
 penelope is trying to challenge an audience from Homer that has been passed through the generations orally
+
+# Oct. 15, 2024
+
+## Spoken vs Silenced
+revision of her story from death  
+
+odyssues is much older and portrayed as a father  
+how can penelope know she can trust odysseus as he has all the power in their relationship  
+
+## Truth and Silence
+maids speak amongst themselves that they could have killed Telemachus as a child  
+maids spend a long time on the **boat imagery** (where they were hanged)  
+
+
