@@ -713,5 +713,30 @@ Ex:
 - 2H deuterium -> used as a coolant, fuel in nuclear fusion, drugs / medical tracing
 - 3H tritium -> nuclear weapons (hydrogen bombs)
 
+# Oct. 16, 2024 
+
+Refer to uploaded picture on % abudance for isotopes, probability, and relative weight (A)  
+
+## Energy
+continuum spectrum - all visible light  
+emission line spectrum - what frequencies of light a particle reflects  
+absorption line spectrum - the frequences of light a particle absorbs  
+
+continuum spectrum = emission line spectrum ^ absorption line spectrum  
+``` c
+assert(INT32_MAX == (continuum spectrum = emission line spectrum ^ absorption line spectrum));  
+```
+
+all elements have all the oribtals, though they might not need them (hydrogen has at least 7 orbitals)  
+
+when an atom receives energy, an electron can get **excited** and jump energy levels (creates the *absorption* spectrum)  
+the electron can not stay in this high energy state, and will eventually move back down (creates the *emission* spectrum)  
+
+all atoms have a **unique** line spectrum  
+
+every electron is unique  
+one electron jumping energy levels requires different energy than a different electron (as they will be in different energy levels)  
+two electrons of the same energy level can not both jump at the same time due to the electrostatic attraction of the nucleus  
+
 
 
