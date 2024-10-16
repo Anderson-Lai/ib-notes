@@ -410,4 +410,35 @@ how can penelope know she can trust odysseus as he has all the power in their re
 maids speak amongst themselves that they could have killed Telemachus as a child  
 maids spend a long time on the **boat imagery** (where they were hanged)  
 
+## Symbols
+Boat is a metaphor for the journey of yourself  
+how sturdy is the boat?  
+what dangers do we face in the water?  
+do we hvae help to repair it when the boat gets damanged?  
+
+the maids symbolic overthrow of a matriarchal society by a patriarchal society  
+maids are both a symbol and real people  
+
+## Themes
+falsehoods (truth and deception) - can you trust the narrator to give all the information?  
+storytelling - the person holding power changes depending on the narrator  
+
+class, womanhood (gender), and violence - depending on class / gender you may be oppressed or there may be violence against you  
+
+antiquity and the modernity and progress of women (patriarchy and feminism) - women don't "own" the narrative  
+
+Christianity vs Greek gods - addition of Christian hell imagery into Greek hell  
+repentance and sin (free choice) vs a prescribed destiny (Greek theology)  
+
+the maids' death - the patriarchy is overthrowing the female-focused goddess cults, 12 maids + Penelope for the 13 lunar months; Odysseus' return
+symbolizes the male-centric religion hijacked the women-centric religion (Artemis and the moon), however, this interpretation causes the maids to 
+be treated as objects instead of real people  
+
+water - associated with womanhood / motherhood  
+
+boat imagery - journey of life, Artemis, the moon traveling across the sky  
+
+## Story
+Penelope goes to the field of asphodel, where neither the good nor evil reside (connection back to falsehoods / storytelling theme)  
+
 
