@@ -738,5 +738,59 @@ every electron is unique
 one electron jumping energy levels requires different energy than a different electron (as they will be in different energy levels)  
 two electrons of the same energy level can not both jump at the same time due to the electrostatic attraction of the nucleus  
 
+# Oct. 17, 2024 
 
+## Schrodinger's Atomic Model
+electron can be anywhere  
+there are certain areas where the electron is more **likely** to be  
 
+the protons in the nucleus can move around  
+makes electrons have a non-circular orbit  
+
+only when an electron goes back down to shell **2** can it be seen, to shell 1 it releases too much energy, and it is outside the 
+visible wavelength (it is ultraviolet)  
+
+the **Balmer series** is the series describing a jump back to shell 2  
+a drop to shell 3 yields infrared light (invisible)  
+
+when an atom drops energy levels, even if a shell is already full, it can drop to that shell (although it is more difficult than normal)  
+the electron will correct itself after  
+the electron can drop down to any shell  
+
+## Calculations for Energy
+E = hf (energy = planck's constant * frequency)  
+c = f * lambda (speed of light = frequency * wavelength)  
+
+frequency is used more in physics, wavelength is more used in chemistry  
+
+energy is in **joules**  
+
+**refer to physical notes for both Rydberg equations**  
+
+if an particle emits a colour, look to the opposite of the colour wheel to see what colour the particle absorbed  
+
+## Electron Configuration
+4 sublevels of energy can exist in each energy level  
+
+S - 1 orientation, maximum 2 electrons  
+P - 3 orientations, maximum 2 electron in each for a total of 6 (Px, Py, Pz)   
+D - 5 orientations, max of 2 electron in each for a total of 10  
+F - 7 orientations, max of 2 electrons for a total of 14  
+
+a sublevel must be filled before moving on to the next sublevel  
+
+the electrons travel in pair along the orientation  
+one electron spins leftward, the other spins rightward, as they still want to repel each other  
+
+each electron has a magnetic field  
+the fields are stronger than the negative charge  
+as they spin in different directions, they create opposite magnetic fields, which attract  
+
+H - 1s^1  
+1 - the period  
+s - the electron sublevel  
+^1 - the number of electrons in the sublevel  
+
+Li - 1s^(2)2s^1  
+
+follow the arrows on the SPDF chart  
