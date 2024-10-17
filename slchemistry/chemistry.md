@@ -661,6 +661,9 @@ when balancing, assume complete combustion, as incomplete combustion yields rand
 ## Matter
 solid, liquid, gas, plasma  
 
+a solid undergoes *sublimation* to become a gas  
+a gas undergoes *deposition* to become a solid  
+
 gas *ionizes* into plasma (generally requires a large amount of energy)  
 plasma *recombines (recombination)* into a gas  
 
