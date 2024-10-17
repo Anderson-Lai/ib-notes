@@ -676,6 +676,10 @@ temperature (kelvin) = temperature (celsius) + 273
 **exothermic** - the system itself (although energy is being put in) increases in energy (kinetic energy / temperature goes up; solid -> liquid)  
 **endothermic** - the system itself decreases in energy (kinetic energy / temperature goes down; gas -> liquid)  
 
+**filtration** - a physical process where a liquid containing suspended solid particles is passed through a fine 
+screen to separate the solid from the liquid  
+**distillation** - a method to separate liquids by heating them up to a gas and separating them due to the two liquids' different boiling points  
+
 ## Pure Substances vs Mixtures
 pure substances - atoms and compounds  
 tap water is *not* a pure substances, yet H2O is  
