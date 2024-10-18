@@ -375,7 +375,7 @@ the smaller radius, the stronger
 
 the higher the cation charge, the stronger a metal  
 transition metals can have very high positive charge  
-free electrons (delocalized electrons) can form easiesr  
+free electrons (delocalized electrons) can form easily  
 all metals want to **lose** electrons  
 
 in an alloy, both metals want to release their electrons, creating delocalized electrons  
@@ -801,3 +801,46 @@ s - the electron sublevel
 Li - 1s^(2)2s^1  
 
 follow the arrows on the SPDF chart  
+
+# Oct. 18, 2024
+
+SPDF has exceptions for the group Chromium (Cr) and Copper (Cu) is in  
+electrons are more easier to manipulate for these elements due to **electron shielding**  
+the atoms can be presented in a more stable way (only **one** electron is being displaced to improve stability)  
+
+in the sublevels, electrons do not pair unless they have to
+
+for chromium d^4 has one electron in each orientation (except the fifth one)  
+thus, one electron from 4s^2 comes "down" to make d^5 (more stable than d^4 as all the orientations at least have one electron)  
+
+for Vanadium, ending in 4s^2 3d^3, no electrons are moved as only **one** electron can move to create more stability due to the
+increasing difficulty to move more and more electrons  
+
+## Ions 
+always "attack" the valence electrons  
+
+period 3 element are happy with 8 electrons in its valence shell as there are no transition metals, thus the **d** sublevel will never be reached  
+if the d sublevel is never even reached, filling the p sublevel satisfies the element  
+
+for transition metals, always attack the s sublevel first  
+
+as chromium approches a charge of 6+, chromium is said to have covalent properties  
+more energy creates more neutrons, making it closer to a radioisotope, and thus making it lose its strength  
+
+## Orbital Level Diagrams
+refer to phyiscal notes  
+
+## Periodic Trends
+**ionization energy** - the amount of energy needed to remove an electron in its gas state  
+**electron affinity** - energy needed to add an electron in an atom in its gas state  
+first electron gained is an **exothermic** release, second electron is an **endothermic** release  
+a negative energy means that the addition of the electron was so "easy" that there was left-over energy to form an *exothermic* release  
+
+when an electron is lost, it comes with its ionization energy  
+this energy is used to add the electron to another element (its *electron affinity*)  
+if the ionization energy > electron affinity of the other element, the electron affinity of the other element is **negative**  
+
+the higher the ionization energy, the harder to remove an electron  
+the higher the elctron affinity, the easier it is to gain an electron  
+
+
