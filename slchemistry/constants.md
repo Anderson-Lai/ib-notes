@@ -5,10 +5,15 @@ where E = energy, h = **planck's constant**, ƛ = wavelength
 
 h = 6.63 \* 10^(-34) J\*s
 
+multiplying by avogrado's number gets the **ionization energy** for the first electron loss of an element  
+final unit will be in J / mol  
+
 ## Frequency and Wavelength
 c = fƛ  
 
 thus, E = (hc)/ƛ  
+
+Note: wavelength is given in m / nm and frequency is in hertz (hz)  
 
 ## Rydberg Equations
 E = -R (1/nf^2 - 1/ni^2)  
