@@ -843,4 +843,20 @@ if the ionization energy > electron affinity of the other element, the electron 
 the higher the ionization energy, the harder to remove an electron  
 the higher the elctron affinity, the easier it is to gain an electron  
 
+# Oct. 22, 2024
+
+**atomic radius** - the larger the atom, the more *shielding* occurs, which makes the valence electron more and more reactive  
+
+Ex: why is phosphorus' ionization energy higher than sulphur?  
+P - ...3p3  
+S - ...3p4  
+
+- a half filled orientation is the next best altnerative to a fully-filled orientation  
+- S has 4 electrons in p, it "wants" to go to 3 electrons to be half filled  
+- the slight repulsion in one of the orientations make it easier for S to lose an electron  
+
+why does sulphur have a higher melting point?  
+
+- S8 vs P4 - higher LDF for S  
+- S has an extra proton, increase attraction, which lowers atomic radius, increasing strength (it has a better **effective nuclear charge**)  
 
