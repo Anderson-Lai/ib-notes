@@ -1194,3 +1194,46 @@ welfare loss is given by the area of triangles **b + d** (refer to physical note
 derive all formulas using triangle and trapezoid area formulas, or refer to physical notes  
 A (triangle) = (bh) / 2  
 A (trapezoid / trapezium) = h/2 \* (b1 + b2)  
+
+# Oct. 24, 2024
+
+## Price Floors
+**price floor** - a legal minimum price usually set above the equilibrium price; prevents prices from being too low  
+
+benefits producers by allowing them to make more profits  
+benefits workers, in the case of minimum wage  
+
+Ex:  
+alcohol has a price floor to minimize over consumption  
+
+Pros:  
+- businesses make more money and get higher profit margins
+- for minimum wage, workers get more money  
+
+Cons:  
+- businesses may overproduce (surplus)  
+- government may have to buy this surplus and dispose of it off the market (agriculture)  
+- for minimum wage, workers may have a tough time finding work (finding a job is higher in demand)  
+may lead to a black market for employment  
+
+farmer incomes are often unstable or too low in some countries  
+government may add a price floor above the equilibrium price, known as **price supports**  
+
+### How do Governments Dispose of Surpluses?
+- store it (but will raise prices due to storage costs)
+- sell abroad (but lower the price as those abroad may not want to buy it at such a high price -> government will lose money)
+- aid developing countries (no benefit)  
+
+governments do not benefit when getting rid of surpluses  
+
+### Consequences for the Economy
+negative welfare impacts  
+producer surplus increases, but consumer surplus decreases  
+
+consumers - worse off, higher price for goods  
+producers - better off, higher price and produces more since the government buys their surplus  
+workers - better off, employment increases due to the great production of goods  
+government - worse off, has to purchase excess supply  
+other countries - worse off, misallocation of resources  
+
+
