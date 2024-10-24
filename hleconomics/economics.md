@@ -75,7 +75,7 @@ scaricty arises from limited money, time, and energy
 economics is the study of the choices leading to the best use of scarce resources to fulfill unlimited human wants and needs  
 
 for society, all economic resources are scarce  
-these resources come from human soceity and nature  
+these resources come from human society and nature  
 
 economic development is often achieved at the expense of the environment and natural resources  
 overuse of these practices lead is unsustainable  
@@ -1132,5 +1132,63 @@ price increases by 10% -> quantity supplied will also increase by 10%
 - ability to store stock -> the more that can be stored, the more elastic  
 - time production takes -> the shorter the time produciton takes, the more elastic  
 - rate at which costs increase -> the slower the rate at which costs increase, the more elastic  
+
+# Oct. 23, 2024 - Government Intervention
+
+## Why Do Governments Intervene?
+- earn revenue (indirect taxes)
+- provide support to firms (subsidies)
+- support households with low incomes
+- influence production level of firms 
+- influence consumption of households and consumers (**merit vs. demerit goods**)
+- correct market failure (allocative efficiency)
+- promote *equity* in the market system 
+
+## How Do Governments Intervene?
+- price controls (**price ceilings and price floors**)
+- indirect taxes 
+- subsidies
+- direct provision of services 
+- command and control regulation and legislation 
+- consumer nudge 
+
+## Price Controls
+**price controls** - the minimum or maximum price set by the government (or private organizations) so that prices are 
+*unable* to adjust to equilibrium levels as determined by supply and demand  
+
+**market-clearing price** - a price where there is no shortages or surplus (Qd = Qs)  
+market disequilibrium causes this  
+
+## Price Ceilings
+the government establishes a **legal maximum price**  
+the legal price charged by sellers can not be higher than the legal maximum price  
+
+### Benefits
+- price falls, making the good more **affordable**  
+- slows inflation, when prices rise much faster than wages in society
+
+### Consequences
+- underallocation of resources to the good (allocative inefficiency)
+- shortages (price set is under the equilibrium, thus goods are "too easy" to get)
+- non-price rationing 
+- underground / parallel markets 
+- negative welfare impacts (shortages, reduced quality, black markets -> make the consumer / producer experience worse)
+
+Ex: rent control  
+max price on rent set by government, demand rises, tenants illegally charge more (black market)  
+
+### Consequences for the Economy and Stakeholders
+refer to slideshow
+
+consumers able to buy at the lower price are better off, but some are unsatisfied as there is not enough of the good to satisfy demand  
+producers are worse off as they are now selling a smaller quantity at a lower price, lowering revenue (loss of producer surplus)
+some workers are fired due to less output, workers are worse off  
+government does not gain or lose money, but main gain popularity amongst those consumers who benefited  
+
+### Calculating Effects Of Price Ceilings
+**expenditure** - how much money is spent  
+change is always calculated as **intial - final**  
+
+welfare loss is given by the area of triangles **b + d** (refer to physical notes)  
 
 

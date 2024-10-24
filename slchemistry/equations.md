@@ -1,7 +1,7 @@
 ## Energy
-E = hƛ  
+E = hf  
 
-where E = energy, h = **planck's constant**, ƛ = wavelength  
+where E = energy, h = **planck's constant**, f = frequency   
 
 h = 6.63 \* 10^(-34) J\*s
 
