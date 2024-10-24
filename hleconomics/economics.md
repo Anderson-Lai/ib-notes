@@ -1191,4 +1191,6 @@ change is always calculated as **intial - final**
 
 welfare loss is given by the area of triangles **b + d** (refer to physical notes)  
 
-
+derive all formulas using triangle and trapezoid area formulas, or refer to physical notes  
+A (triangle) = (bh) / 2  
+A (trapezoid / trapezium) = h/2 \* (b1 + b2)  
