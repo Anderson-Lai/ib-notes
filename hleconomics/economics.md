@@ -1187,7 +1187,7 @@ government does not gain or lose money, but main gain popularity amongst those c
 
 ### Calculating Effects Of Price Ceilings
 **expenditure** - how much money is spent  
-change is always calculated as **intial - final**  
+change is always calculated as **final - initial**  
 
 welfare loss is given by the area of triangles **b + d** (refer to physical notes)  
 
