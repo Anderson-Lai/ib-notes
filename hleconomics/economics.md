@@ -1006,7 +1006,7 @@ S: available substitutes -> more elastic
 P: proportion of income spent -> more elastic 
 L: luxuries and necessities -> necessities are inelastic  
 A: habit forming or addictive -> inelastic  
-T: time to adjust -> goods are easier to purchase in the long run  
+T: time to adjust / length of time -> over time, goods become more elastic, as it becomes easier to buy **other** goods (substitutes)  
 
 can not be compared based on the slope of the curve, the calculations must be done due to different scales  
 PED's can only be compared if they intersect at some point  
