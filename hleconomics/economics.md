@@ -1236,4 +1236,42 @@ workers - better off, employment increases due to the great production of goods
 government - worse off, has to purchase excess supply  
 other countries - worse off, misallocation of resources  
 
+# Oct. 28, 2024 - Minimum Wage
+
+minimum wage is a variation of a floor price  
+how does this affect the labour force?  
+
+many countries have minimum wage laws  
+
+guarantees an adequate income for low income, low skilled workers  
+aims to provide workers with a livable wage  
+
+is set **above** the equilibrium wage to ensure workers earn enough to meet basic living standards  
+
+## Impact of Minimum Wages on Markets
+Supply and Demand:  
+D = the quantity of labour firms are willing and able to hire  
+S = the quantity of labour that workers supply at each wage  
+
+## Consequences on the Economy 
+causes a labour surplus and unemployment  
+more people want to work at the minimum wage than there are jobs available (workers are more enticed)  
+
+firms hire less as hiring becomes more expensive  
+firms rather higher less workers with more skills (which may cost more than minimum wage) to complete a task  
+
+- illegal immigrants may immigrate and get paid below minimum wage
+- misallocation of labour resources - low skilled workers are hired less (higher-skilled workers are hired more instead as they contribute 
+more to the firmś output)  
+- misallocation in product markets - increased cost in labour can disrupt the production of pricing of products
+(less unskilled workers = less production)  
+
+### Welfare Impacts  
+the area between market equilibrium and quantity demanded is lost  
+
+### Stakeholder Impacts 
+- firms - worse off, higher costs of production 
+- workers - gain / lose (some gain higher wages from their employers even if they are above minimum wage, but some workers lose due to higher
+unemployment)  
+- consumers - worse off, increased price of labour = decreased supply of products = higher price of products available  
 
