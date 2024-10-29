@@ -1275,3 +1275,4 @@ the area between market equilibrium and quantity demanded is lost
 unemployment)  
 - consumers - worse off, increased price of labour = decreased supply of products = higher price of products available  
 
+
