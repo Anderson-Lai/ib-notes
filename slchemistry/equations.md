@@ -45,8 +45,13 @@ multiplying by this constant makes a mole of hydrogen to have a mass of 1 gram (
 
 Ex:  
 an atom of hydrogen weighs \~1 amu (atomic mass units)  
+atomic mass units is a **relative mass**  
+
 multiplying by Avogrado's gives the weight of a mole of hydrogen in amu  (\~6.022 \* 10^23 amu)  
-since this is difficult to work with, it is multipled by 1.66 * 10^(-24) g / amu to *convert* amu to grams  
+
+since this is difficult to work with, it is multipled by 1.66 * 10^(-24) g / amu to *convert* amu to grams 
+(this converts the **relative mass** to the **actual mass** since the unit is grams, an "actual" scale)  
+
 the resulting mass of a mole of hydrogen is \~1 g / mol (this is the **actual** mass)  
 
 ## Mole Equation
