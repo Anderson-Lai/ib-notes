@@ -845,7 +845,7 @@ the higher the elctron affinity, the easier it is to gain an electron
 
 # Oct. 22, 2024
 
-**atomic radius** - the larger the atom, the more *shielding* occurs, which makes the valence electron more and more reactive  
+**atomic radius** - the larger thple atom, the more *shielding* occurs, which makes the valence electron more and more reactive  
 
 Ex: why is phosphorus' ionization energy higher than sulphur?  
 P - ...3p3  
@@ -859,4 +859,44 @@ why does sulphur have a higher melting point?
 
 - S8 vs P4 - higher LDF for S  
 - S has an extra proton, increase attraction, which lowers atomic radius, increasing strength (it has a better **effective nuclear charge**)  
+
+# Oct. 29, 2024 - Unit 3 - Stoichiometry
+
+## Moles 
+mole represents the amount of particles  
+each mole has 6.02 \* 10^23 particles  
+
+unit for Avogrado's constant is N\_a (n subscript a) that best represents the type of particle  
+elements -> atoms / mol  
+ionic compounds -> formula units / mol   
+covalent compounds -> molecules / mol  
+ions -> ions / mol  
+
+**n = N / N_a**  
+n = moles (measured in mol)  
+N = # of entities (measured by type of particle)   
+N\_a = Avogrado's number (a constant)  
+
+finds the number of particles in a given number of moles (or the other way around)  
+
+**note: constants never interfere with the significant digits of the final answer**  
+
+## Relative Atomic Mass
+multiplying a mole of atoms by 1.66 \* 10^(-24) gives the relative atomic mass in **grams**  
+
+relative atomic mass is used to make math easier  
+
+## Molar mass 
+total mass of all elements present in a compound  
+
+Ex: MgCl2  
+M (molar mass) = 1Mg + 2Cl  
+M = 24.31 \* 2(35.45)  
+M = 95.21 g / mol  
+
+n (moles) = m (mass in grams) / M (molar mass in g / mol)  
+
+molar mass is treated as a **constant** in the equation (therefore it does not affect s.f. of the final answer)  
+
+
 

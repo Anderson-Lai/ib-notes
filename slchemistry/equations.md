@@ -39,6 +39,12 @@ Convert a single particle to mole
 A = 6.022 \* 10^(23) particle / mol  
 
 ## Relative vs Actual Mass
-All masses on the periodic table are divided by **1.66 * 10^(-24) g** to make math easier  
+All masses on the periodic table are multiplied by **1.66 * 10^(-24) g** to make math easier  
 
-dividing by this constant makes hydrogen's mass 1 (as opposed to an extremely small number; note that this is *one atom* of hydrogen)  
+multiplying by this constant makes a mole of hydrogen to have a mass of 1 gram (as opposed to an extremely small number; note that this is *one mole* of hydrogen)  
+
+## Mole Equation
+**n = N / N_a**  
+n = moles (measured in mol)  
+N = # of entities (measured by type of particle)   
+N\_a = Avogrado's number (a constant)  
