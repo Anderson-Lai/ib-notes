@@ -43,8 +43,24 @@ All masses on the periodic table are multiplied by **1.66 * 10^(-24) g** to make
 
 multiplying by this constant makes a mole of hydrogen to have a mass of 1 gram (as opposed to an extremely small number; note that this is *one mole* of hydrogen)  
 
+Ex:  
+an atom of hydrogen weighs \~1 amu (atomic mass units)  
+multiplying by Avogrado's gives the weight of a mole of hydrogen in amu  (\~6.022 \* 10^23 amu)  
+since this is difficult to work with, it is multipled by 1.66 * 10^(-24) g / amu to *convert* amu to grams  
+the resulting mass of a mole of hydrogen is \~1 g / mol (this is the **actual** mass)  
+
 ## Mole Equation
 **n = N / N_a**  
 n = moles (measured in mol)  
 N = # of entities (measured by type of particle)   
 N\_a = Avogrado's number (a constant)  
+
+## Molar Mass
+Ex: MgCl2  
+M (molar mass) = 1Mg + 2Cl  
+M = 24.31 \* 2(35.45)  
+M = 95.21 g / mol  
+
+n (moles) = m (mass in grams) / M (molar mass in g / mol)  
+
+molar mass is treated as a **constant** in the equation (therefore it does not affect s.f. of the final answer)  
