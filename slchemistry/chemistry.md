@@ -898,5 +898,28 @@ n (moles) = m (mass in grams) / M (molar mass in g / mol)
 
 molar mass is treated as a **constant** in the equation (therefore it does not affect s.f. of the final answer)  
 
+# Oct. 31, 2024 
 
+## Empirical vs Molecular  
+a compound in lowest terms (does **not** not have to be an actual compound)  
 
+a molecular formula is a multiple of an empirical formula (**does** exist as a real compound)  
+
+### Empirical to Molecular Formula
+x = (mass) / (molar mass of empirical formula)  
+
+x is the factor to multiply all the subscripts to get the molecular formula  
+
+x is always a whole number  
+*if* there it is a real number, find the lowest factor to multiply it by to get a whole number (these are subscripts of atoms,
+they can't be not whole numbers)  
+
+## Hydrates
+ionic compounds with water as part of the chemical formula  
+separated by a \*, similar to a multiplication sign  
+
+stored in water to reduce reactivity with air and improve lifetime of the compound  
+
+**anhydrous** - the compound without the water  
+
+**refer to physical notes for example problems and better explanations**  
