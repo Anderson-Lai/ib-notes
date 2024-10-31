@@ -908,7 +908,7 @@ a molecular formula is a multiple of an empirical formula (**does** exist as a r
 ### Empirical to Molecular Formula
 x = (mass) / (molar mass of empirical formula)  
 
-x is the factor to multiply all the subscripts to get the molecular formula  
+x is the factor to multiply all the subscripts by to get the molecular formula  
 
 x is always a whole number  
 *if* there it is a real number, find the lowest factor to multiply it by to get a whole number (these are subscripts of atoms,
