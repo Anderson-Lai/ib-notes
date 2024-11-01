@@ -923,3 +923,47 @@ stored in water to reduce reactivity with air and improve lifetime of the compou
 **anhydrous** - the compound without the water  
 
 **refer to physical notes for example problems and better explanations**  
+
+# Nov. 1, 2024 
+
+## Molar Concentrations
+**solute** - ionic compound  
+**solvent** - most of the time, water  
+
+c (concentration) = n / v  
+
+c is in mol / dm^3 (dm^3 is the same as litres)  
+
+1ml = 1cm^3  
+1dm^3 = 1000cm^3 (10^3)  
+1dm^3 = 1000ml  
+1dm^3 = 1L  
+
+mol / dm^3 is also shown as M  
+
+n = moles  
+v = volume (dm^3)  
+
+[] = concentration  
+
+## Dilutions
+decrease the concentration of the solute  
+
+C1V1 = C2V2  
+C1 is considered a stock solution (initial solution) it is from the producer  
+
+solutions made by us would still be C1, but not a stock solution as the solution is *uncertain*  
+
+V2 is the final volume  
+
+**always use the lowest given sig figs for the final answer**  
+
+### Small Concentrations
+parts per million / billion  
+ppm or ppb  
+
+ppm = mg (solute) / kg (total)  or mg / dm^3  
+
+general formula = solute / total where total is in a unit 1,000,000 (for ppm) times bigger than the solute  
+
+
