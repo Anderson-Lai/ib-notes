@@ -78,3 +78,38 @@ x is the factor to multiply all the subscripts by to get the molecular formula
 x is always a whole number  
 *if* there it is a real number, find the lowest factor to multiply it by to get a whole number (these are subscripts of atoms,
 they can't be not whole numbers)  
+
+## Molar Concentration 
+c (concentration) = n / v  
+
+c is in mol / dm^3 (dm^3 is the same as litres)  
+
+1ml = 1cm^3  
+1dm^3 = 1000cm^3 (10^3)  
+1dm^3 = 1000ml  
+1dm^3 = 1L  
+
+mol / dm^3 is also shown as M  
+
+n = moles  
+v = volume (dm^3)  
+
+[] = concentration  
+
+## Dilutions
+C1V1 = C2V2  
+C1 is considered a stock solution (initial solution) it is from the producer  
+
+solutions made by us would still be C1, but not a stock solution as the solution is *uncertain*  
+
+C1 is initial concentration  
+V1 is initial volume  
+C2 is final concentration  
+V2 is the final volume  
+
+V2 - V1 is the amount of solvent (most of time water) added  
+
+## PPM and PPB
+ppm = mg (solute) / kg (total)  or mg / dm^3  
+
+general formula = solute / total where total is in a unit 1,000,000 (for ppm) or 1,000,000,000 (for ppb) times bigger than the solute  
