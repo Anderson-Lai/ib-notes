@@ -60,6 +60,8 @@ n = moles (measured in mol)
 N = # of entities (measured by type of particle)   
 N\_a = Avogrado's number (a constant)  
 
+**note: amount of substance = number of moles**  
+
 ## Molar Mass
 Ex: MgCl2  
 M (molar mass) = 1Mg + 2Cl  

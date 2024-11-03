@@ -879,6 +879,8 @@ N\_a = Avogrado's number (a constant)
 
 finds the number of particles in a given number of moles (or the other way around)  
 
+**note: amount of substance = number of moles**  
+
 **note: constants never interfere with the significant digits of the final answer**  
 
 ## Relative Atomic Mass
