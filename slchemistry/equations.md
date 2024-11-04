@@ -115,3 +115,40 @@ V2 - V1 is the amount of solvent (most of time water) added
 ppm = mg (solute) / kg (total)  or mg / dm^3  
 
 general formula = solute / total where total is in a unit 1,000,000 (for ppm) or 1,000,000,000 (for ppb) times bigger than the solute  
+
+## Molar Volume
+n = V (volume) / v (molar volume)  
+
+v is a constant at STP  
+v = 22.7 dm^3 / mol  
+
+## Boyles Law
+P is inversely proportional to V (assume temperature and moles are constant)  
+
+P1V1 = P2V2  
+
+## Charles Law
+V is proportional to T (assuming pressure and moles are constant)  
+
+V1/T1 = V2/T2  
+
+## Guy - Lussac's Law
+P is proportional to T (assuming volume and moles are constant)  
+
+P1/T1 = P2/T2  
+
+## Combined Gas Law 
+assuming moles is constant  
+
+P1V1 / T1 = P2V2 / T2  
+
+## Ideal Gas Law 
+pV = nRT  
+
+R is a gas constant = 8.31 J/(K (kelvin) \* mol)  
+p is pressure in kPa  
+T is pressured in Kelvin
+V is volume in dm^3  
+n is moles in moles  
+
+if all the units match, they can be safely canceled out  

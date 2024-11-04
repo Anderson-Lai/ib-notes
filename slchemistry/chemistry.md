@@ -964,8 +964,72 @@ V2 is the final volume
 parts per million / billion  
 ppm or ppb  
 
-ppm = mg (solute) / kg (total)  or mg / dm^3  
+ppm = mg (solute) / kg (total) or mg / dm^3  
 
 general formula = solute / total where total is in a unit 1,000,000 (for ppm) times bigger than the solute  
+
+# Nov. 4, 2024 - Gases
+
+## Avogrado's Law 
+equal volumes of all gases (when measured at the same temperature and pressure) contain equal amount of particles  
+
+therefore, volume is proportional to moles only for reactions that all reactants and products are in the gas phase  
+
+## Standards
+STP - standard temperature and pressure at 0 degrees celsius (273 kelvin)  
+pressure = 100kPa  
+used more commonly in gas calculations  
+
+SATP - standard ambient temperature pressure at 25 degrees celsius (298 kelvin)  
+pressure = 100kPa  
+SATP is used as a laboratory standard  
+
+1 atm = 101.325 kPa = 14.7 psi = 760 mm Hg  
+
+## Assumptions
+- gas particles are in constant motion (which is an impossible assumption)  
+- individual gas particles are considered point masses (no volume and takes up no space); real gas occupies a volume under high pressure  
+- gas particles do not exert attractive or repulsive forces on each other  
+- gas particles interact in elastic collisions (equal energy before and after)  
+
+these assumptions are made as their effects on calculations are **negligible**  
+these assumptions create an **ideal gas** (ideal conditions)  
+
+## Molar Volume
+n = V (volume) / v (molar volume)  
+
+v is a constant at STP  
+v = 22.7 dm^3 / mol  
+
+## Boyles Law
+P is inversely proportional to V (assume temperature and moles are constant)  
+
+P1V1 = P2V2  
+
+## Charles Law
+V is proportional to T (assuming pressure and moles are constant)  
+
+V1/T1 = V2/T2  
+
+## Guy - Lussac's Law
+P is proportional to T (assuming volume and moles are constant)  
+
+P1/T1 = P2/T2  
+
+## Combined Gas Law 
+assuming moles is constant  
+
+P1V1 / T1 = P2V2 / T2  
+
+## Ideal Gas Law 
+pV = nRT  
+
+R is a gas constant = 8.31 J/(K (kelvin) \* mol)  
+p is pressure in kPa  
+T is pressured in Kelvin
+V is volume in dm^3  
+n is moles in moles  
+
+if all the units match, they can be safely canceled out  
 
 
