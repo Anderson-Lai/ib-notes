@@ -1275,4 +1275,31 @@ the area between market equilibrium and quantity demanded is lost
 unemployment)  
 - consumers - worse off, increased price of labour = decreased supply of products = higher price of products available  
 
+# Nov. 4, 2024 
+
+**indirect taxes** are paid by consumers to the government, but the tax is partly paid for by consumers, hence indirect  
+
+2 types of indirect tax:  
+- **excise taxes** - taxes imposed on particular goods such as gas, cigarettes, etc. (the opposite of a **subsidy**)  
+harmful goods may have excise taxes to reduce consumption, such as alcohol or cigarettes  
+- taxes on all (or most) goods and services, such as value added tax (HST)  
+
+## Why do Governments Impose Indirect Taxes?
+R - source of government revenue   
+A - improve allocaiton of resources by correcting market imperfections  
+I - redistribute income (ensure the wealthy contribute more to government income)  
+D - discourage consumption of harmful goods  
+
+## Types of Indirect Taxes
+- specific taxes - fixed amount of tax per unit (ex: $5 per pack of cigarettes)  
+- ad valorem taxes ("according to the value") - a fixed percentage of the price of the good or service, tax increases as the price of the
+product increases (ex: property tax)  
+
+## Consequences for Stakeholders
+- consumers - worse off, increase in price of goods and decrease in quantity they buy  
+- producers - worse off, fall in price they receive and fall in quantity of output they sell -> fall in revenue  
+- government - better off, earns revenue off of taxes  
+- workers - worse off, lower output of goods -> less workers needed to produce the quantity of goods -> unemployement  
+- society as a whole - worse off, underallocation of resources to the production of goods, loss of welfare and social surplus  
+
 
