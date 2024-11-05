@@ -16,7 +16,7 @@ thus, E = (hc)/ƛ
 Note: wavelength is given in m / nm and frequency is in hertz (hz)  
 
 ## Rydberg Equations
-E = -R (1/nf^2 - 1/ni^2)  
+E = R (1/nf^2 - 1/ni^2)  
 1/ƛ = R (1/nf^2 - 1/ni^2)  
 
 ### Equation 1:
