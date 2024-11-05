@@ -1286,7 +1286,7 @@ harmful goods may have excise taxes to reduce consumption, such as alcohol or ci
 
 ## Why do Governments Impose Indirect Taxes?
 R - source of government revenue   
-A - improve allocaiton of resources by correcting market imperfections  
+A - improve allocaiton of resources by correcting market imperfections and negative externalities  
 I - redistribute income (ensure the wealthy contribute more to government income)  
 D - discourage consumption of harmful goods  
 
@@ -1301,5 +1301,38 @@ product increases (ex: property tax)
 - government - better off, earns revenue off of taxes  
 - workers - worse off, lower output of goods -> less workers needed to produce the quantity of goods -> unemployement  
 - society as a whole - worse off, underallocation of resources to the production of goods, loss of welfare and social surplus  
+
+# Nov. 5, 2024 - Subsidies
+
+**subsidy** - assistance provided by the government to individuals or groups (firms, consumers, etc.)  
+can be a cash payment or other forms of assistance (low-interest / interest-free loans, tax relief, etc.)  
+
+change allocation of resources as they affect prices (signals and incentives)  
+
+subsidy to firms increases the price received by producers, thus causing firms to produce more and charge less  
+results in **greater** production and consumption than in the free market  
+
+## Why do Governments Grant Subsidies?
+- gives subsidies to producers they would like to support by increasing a firm's revenue (ex: farmers)  
+- makes certain goods (necessities) affordable to low income earners  
+- encourage production and consumption of products that are believed to be desirable to consumers (ex: education and vaccinations)  
+- support growth of a particular industry in the economy (ex: solar industry)  
+- encourage exports (makes goods easier to produce and sell abroad, boosting exports)  
+- improve allocation of resources by correcting positive externalities (when produciton of a good causes benefit to a third party)  
+
+## Controversy
+subsidies may achieve objectives that are not consistent with other objectives  
+
+Ex:  
+subsidies to fossil fuels contradicts sustainable development goals and conflicts with susbisides meant to promote alternative energy  
+
+## Consequences for Stakeholders
+- consumers - better off, fall in price and increase in quantity purchased  
+- producers - better off, receive higher prices and produce larger quantities -> increase in revenue  
+- government - worse off, the government pays the subsidy, is a burden on the budget  
+- workers - better off, producers increase output, firms are more likely to hire more workers  
+- foreign producers - worse off, unable to compete with lower price of the subsidized domestic goods  
+- society as a whole - worse off, overallocation of resources to the production of the product  
+
 
 
