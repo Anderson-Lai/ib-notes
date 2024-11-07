@@ -908,7 +908,7 @@ a compound in lowest terms (does **not** not have to be an actual compound)
 a molecular formula is a multiple of an empirical formula (**does** exist as a real compound)  
 
 ### Empirical to Molecular Formula
-x = (mass) / (molar mass of empirical formula)  
+x = (molar mass of empirical) / (molar mass of empirical formula)  
 
 x is the factor to multiply all the subscripts by to get the molecular formula  
 
