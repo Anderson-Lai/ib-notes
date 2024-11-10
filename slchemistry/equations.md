@@ -152,3 +152,15 @@ V is volume in dm^3
 n is moles in moles  
 
 if all the units match, they can be safely canceled out  
+
+## Percentage Yield
+used to calculate how much of a precipitate or gas has been formed on the product side  
+if mole ratios are needed, remember to use the coefficient of the **limiting factor**  
+
+percentage yield = (experimental yield / theoretical yield) \* 100  
+
+## Reaction Statistics
+remaining = have - need  
+
+used = have - remaining  
+used = need  

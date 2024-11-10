@@ -1032,4 +1032,59 @@ n is moles in moles
 
 if all the units match, they can be safely canceled out  
 
+# Nov. 7, 2024
 
+## Mole Ratios
+ensure the chemical equation is balanced  
+the coefficient of a compound of either a reactant or product can be put in a ratio with another compound to determine the number of moles  
+
+states do not matter, unlike Avogrado's law, which dictates the states of both compounds must be gaseous  
+
+**note: Avogrado's law is a subset of mole ratios**  
+
+## Limiting and Excess
+for this course (11 sl chemistry), this will only be computed with 2 reactants  
+using mole ratios, determine the quantity ***needed*** of the reactants  
+
+two values should arise, those are your **needed** values  
+
+now, compute the actual mass of the two reactants (which may be given)  
+these values are the values you **have**  
+
+the compound where the **have** value is less than the **needed** value is the limiting factor  
+this compound is used up first in reactions, and thus more of the product can not be produced, as this compound is fully used up  
+
+therefore, **product amounts are dependent on the limiting reactant**  
+
+when solving for precipitates / number of moles of a product, always use the **limiting factor**
+
+Ex:  
+2A + 3B -> ..., where A is given as 1 mol, and B is 2 mol  
+
+solving the quantity of B **needed**:  
+A / B = 2/3 (coefficients of A and B) = 1/x (moles of A and B)  
+x = 3/2 mol of B **needed**  
+
+solving the quantity of A **needed**:  
+A / B = 2/3 = x/2  
+x = 4/3 mol of A **needed**  
+
+thus, the **needed** quantity of A is 4/3 mol, and for B, it is 3/2 mol  
+since there is only 1 mol available (refer back to the question) of A, A is the **limiting factor**  
+
+## Titration Reactions
+often used for acid / base reactions  
+
+goal is to find the concentration of an acid / base  
+also tries to monitor for an **equivalence point**  
+
+equivalence point - where the properties of the acid + base have reached an *equilibrium*   
+can be found using a pH probe or chemical indicators  
+
+## Percentage Yield
+used to calculate how much of a precipitate or gas has been formed on the product side  
+if mole ratios are needed, remember to use the coefficient of the **limiting factor**  
+
+percentage yield = (experimental yield / theoretical yield) \* 100  
+
+remaining = have - need  
