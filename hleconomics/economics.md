@@ -1334,5 +1334,30 @@ subsidies to fossil fuels contradicts sustainable development goals and conflict
 - foreign producers - worse off, unable to compete with lower price of the subsidized domestic goods  
 - society as a whole - worse off, overallocation of resources to the production of the product  
 
+# Nov. 11, 2024 - Market Failures and Socially Undesirable Outcomes
 
+**common pool resources (CPR)** - resources not owned by anyone, they do not have a price and are available to use without 
+payment or other restrictions (ex: clean air, clean water, etc.)  
+
+CPR differs from other resources as it is both **rivalrous and *non*-excludable**  
+
+a private good has two characteristics:  
+**rivalrous** - one person's use of the resource reduces its availability for others  
+**excludable** - it is possible to exclude people from using the good  
+**non-excludable** - it is not possible to exclude someone from using a good or resource  
+
+CPR can easily be overused, leading to environmental degredation and depletion  
+therefore, policy makers need to be concerned about how much is being used  
+
+restrictions may then be imposed on CPR  
+
+**externality** - an indirect effect of an economic activity that affects third parties who are not directly involved in the activity  
+
+**sustainability** - the use of resources in ways that do not result in fewer or lower quality for future generations  
+
+**constant average yield** - each unit of input produces the same amount of output consistently, regardless of the level of input used  
+**decreasing average yield** - each unit of input produces less amount of output (there is still a gain in output)  
+**absolutely decreasing yield** - each unit of input proucess less output  
+
+**maximum sustainable yield** - the boundary between the decreasing average yield and the absolutely decreasing yield  
 
