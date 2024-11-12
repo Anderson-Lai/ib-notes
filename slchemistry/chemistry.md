@@ -1168,7 +1168,7 @@ max to average or average to min
 ### Deriving Uncertainty 
 finding the uncertainty of tools that are not given (such as a stopwatch)  
 
-sum = sqrt( ((sum (x\_i (number in dataset) - x (average)) ^ 2) / (n (total number of measurements) - 1) )    
+sum = sqrt( ((sum(i = 1 to n) (x\_i (number in dataset) - x (average)) ^ 2) / (n (total number of measurements) - 1) )    
 
 (max - min) / average is acceptable on a test instead of standard deviation  
 
