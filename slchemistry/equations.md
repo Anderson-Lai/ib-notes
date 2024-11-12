@@ -164,3 +164,13 @@ remaining = have - need
 
 used = have - remaining  
 used = need  
+
+## Atom Economy
+brief look at **green chemistry**  
+green chemistry - running a reaciton to limit waste or increase desired yield to reduce the use of toxic chemicals  
+
+atom economy = (molar mass of desired product) / (total molar mass of products or reactants) \* 100  
+
+a balanced chemical reaction is needed as the **coefficients** will be used as well  
+
+actual result is -(10 - 15)% due to real-world factors, inefficient reactions, etc.  

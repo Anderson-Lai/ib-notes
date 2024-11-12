@@ -1088,3 +1088,88 @@ if mole ratios are needed, remember to use the coefficient of the **limiting fac
 percentage yield = (experimental yield / theoretical yield) \* 100  
 
 remaining = have - need  
+
+# Nov. 12, 2024
+
+## Atom Economy
+brief look at **green chemistry**  
+green chemistry - running a reaciton to limit waste or increase desired yield to reduce the use of toxic chemicals  
+
+atom economy = (molar mass of desired product) / (total molar mass of products or reactants) \* 100  
+
+a balanced chemical reaction is needed as the **coefficients** will be used as well  
+
+actual result is -(10 - 15)% due to real-world factors, inefficient reactions, etc.  
+
+only time coefficients are used with molar mass  
+coefficients are normally only used for mole ratios  
+
+## Significant Digit Rules
+all numbers between 1-9 are significant  
+
+all zero's between or after the numbers 1-9 are significant  
+
+exceptions:  
+if the number does not have a decimal at the end the zero's after the numbers 1-9 do not count  
+Ex:  
+100 -> 1 s.f.  
+100\. -> 3 s.f.  
+
+all zero's before numbers 1-9 do not count  
+
+constants do not affect significant digits in the final answer  
+
+if rounding with 5:  
+- if the number before is odd, round up, if it is even, round down  
+- this is only for number digits exactly on a 5 (ex: 3.452 -> 3.5; 3.45000 -> 3.4)  
+
+### Addition / Subtraction
+final answer is based on lowest number of decimal places in the original question, **not** s.f.  
+only applies for formulas **only** using addition and subtraction  
+
+### Multiplication / Division
+final must have the lowest **significant digits** based on the original question, **not** decimal places  
+takes priority over the addition / subtraction rule if both are present in a formula  
+
+## Error
+**note: errors propagate**  
+
+2 types:  
+- systematic (determinate error) - due to poor experimental design, procedure, or machine; may be out of your control; will always exist;
+can't be reduced, but can be fixed (e.g. choosing a better tool)
+- random error (indeterminate error) - due to uncontrolled variables in measurements, normally through human error; can be reduced;
+always present, but can be reduced by repeating trials
+
+**accuracy** - how close the measured value is to the true / accepted value  
+**precision** - when multiple trials result in similar results, refers to data  
+
+random errors should **never** be included in a lab report, only systematic errors should be included  
+
+## Uncertainty
++- some value compared to the measured value  
+
+in addition / subtraction, always **add** the uncertanties  
+answer is always in lowest decimal places of the **uncertainty** (even for multiplication and division)  
+
+**absolute uncertainty** - literal decimal numbers in the uncertainty  
+**relative uncertainty** - percentages in the uncertainty  
+
+for multiplication / division, turn the uncertainty into relative uncertainty by dividing the uncertainty by the measured value  
+then add up the percentages (relative uncertainties)  
+
+for all final answers, uncertainties should be in **absolute** not relative  
+
+### Averages
+averages come from the same tool, and thus the uncertainties do not need to be averaged  
+
+if the average is the median, and the distance to the max and min are the same, the uncertainty becomes the difference between
+max to average or average to min  
+
+### Deriving Uncertainty 
+finding the uncertainty of tools that are not given (such as a stopwatch)  
+
+sum = sqrt( ((sum (x\_i (number in dataset) - x (average)) ^ 2) / (n (total number of measurements) - 1) )    
+
+(max - min) / average is acceptable on a test instead of standard deviation  
+
+
