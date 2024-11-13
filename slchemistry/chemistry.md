@@ -1031,6 +1031,7 @@ V is volume in dm^3
 n is moles in moles  
 
 if all the units match, they can be safely canceled out  
+**note: kPa \* dm^3 = J**  
 
 # Nov. 7, 2024
 
