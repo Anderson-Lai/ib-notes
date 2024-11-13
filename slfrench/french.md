@@ -161,7 +161,11 @@ L'imparfait:
 - la cause pour le résultat (cause for why something has happened, the result is a singular action that happened once -> passé composé)    
 Ex: Je mangeais une banane et après quelques heures je ne me suis pas senti bien.  
 
+# Nov. 13, 2024 - Le Plus-Que Parfait
 
+le plus-que parfait est utilisé pour décrire des actions qui s'est passé avant une autre action  
+donc, le plus-que parfait est plus dans le passé que le passé composé  
 
+l'imparfait n'a pas un temps (there is no "set" time where the imparfait takes place)  
 
-
+si vous voulez exprimer une action en imparfait qui est plus dans le passé qu'ne autre action en imparfait, les deux verbes seront en **imparfait**  

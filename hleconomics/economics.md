@@ -1361,3 +1361,47 @@ restrictions may then be imposed on CPR
 
 **maximum sustainable yield** - the boundary between the decreasing average yield and the absolutely decreasing yield  
 
+# Nov. 13, 2024 - Market Failure and Externalities: Diverging Private and Social Benefits and Costs
+
+in a free and competitive market, allocative efficiency is when MB = MC  
+however, this is almost never met in the real world  
+
+**market failure** - the failure of the market to allocative resources efficiently  
+caused when people acting purely in their own self-interest  
+leads to outcomes that aren't efficient and could be improved to benefit society as a whole  
+
+economists are often concerned with the cause and possible means of correction for market failures  
+however, government policy interventions (taxes, subsidies, regulations, bailouts, etc.) may lead to 
+allocative inefficiency, called **government failure**  
+
+## Externalities
+an **externality** occurs when the actions of consumers or producers create unintended positive or negative side effects
+that impact others (third parties) who are not part of those actions and whose interests were **not** considered  
+
+positive externality - external benefit to society (**external spillover benefit**)  
+negative externality - external costs to society (**external spillover cost**)  
+
+Ex: positive externality  
+high-rise buildings around the roger's stadium can look into the stadium for free  
+
+Ex: negative externality  
+air pollution from a factory affecting the residential areas around it  
+
+types of externalities:  
+- negative production externalities
+- positive production externalities  
+- negative consumptions externalities  
+- positive consumptions externalities  
+
+## Marginal Benefits And Costs
+- marginal private cost (MPC) - cost to producers for producing one more unit of a good  
+- marginal social cost (MSC) - cost to society of producing one more unit of a good  
+- marginal private benefit (MPB) - benefit to consumers for consuming one more unit of a good
+- marginal social benefit (MSB) - benefit to society for consuming one more unit of good  
+
+**social optimum** - refers to the **best** situation from the pont of view of **allocative efficiency**  
+**socially optimum** output - Q value at the social optimum  
+
+however, when there is an externality, MSB and MSC will differ from MPB and MPC  
+marginal cost is a result of **opportunity cost**  
+
