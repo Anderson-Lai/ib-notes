@@ -1405,3 +1405,46 @@ types of externalities:
 however, when there is an externality, MSB and MSC will differ from MPB and MPC  
 marginal cost is a result of **opportunity cost**  
 
+# Nov. 18, 2024 - Negative Production Externalities
+
+**negative externalities** - negative effects created by producers to third parties  
+ex: environmental pollution  
+
+creates a **spillover cost** - additional costs that spill over onto society  
+the **marginal social cost** refers to the cost of producing that good and the cost onto society  
+
+the market does not care for these externalities, thus in a good with a negative externality, there is an overallocation of resources  
+harm to society is caused, thus a loss in **welfare**  
+
+## Policies to Correct Negative Production Externalities
+none of these policies are perfect  
+governments may impose an **indirect tax** to increase the MPC  
+
+### Carbon Tax
+a tax on greenhouse gas emissions (per unit tax on the emissions of fossil fuels by carbon emitted; more carbon emitted => higher the tax)  
+incentivizes firms to switch to less polluting energy sources  
+
+### Tradeable Permits
+permits to pollute that can be bought and traded in the market  
+
+government grants each firm a particular number of permits to produce a particular level of pollutants over a given period of time  
+permits to pollute are determined by supply and demand  
+
+the supply is **perfectly inelastic**  
+
+the total pollution that is permitted based on the pollution permits must be less than the amount of pollution with no permits  
+
+as the economy grows and the firms increase their output level, demand is likely to increase  
+similar to taxes on emissions in that they provide *incentives* to switch to less polluting resources  
+
+if a firm finds a way to reduce emissions, it can sell its permit  
+
+### Government Based Policies
+government rely on the "command" approach where the government uses its authority to enact legislation in the public's interest to prevent
+or reduce the effects of production externalities  
+
+ex: capping the amount of pollution a factories may produce  
+
+goals of government policies is to move the **MPC curve to the MSC curve**  
+
+
