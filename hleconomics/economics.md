@@ -1447,4 +1447,46 @@ ex: capping the amount of pollution a factories may produce
 
 goals of government policies is to move the **MPC curve to the MSC curve**  
 
+# Nov. 20, 2024 - Negative Consumption Externalities
+
+**negative consumption externality** - external costs created by consumers (ex: smoking in public, heaing homes / driving cars using fossil fuels)  
+when there is a consumption externality, the **marginal private benefit does not reflect the social benefits**  
+
+the distance between the MPB and MSB is the external cost  
+loss of welfare due to overallocation of resources  
+
+## Demerit Goods
+**demerit goods** - goods that are considered undesirable for consumers, but which are overprovided by the market (ex: cigarettes)  
+consumers buy "too many" of these products as they are ignorant or simply do not care  
+
+## Correcting Negative Consumption Externalities
+
+### Market Based Policies
+imposing indirect taxes  
+if the tax equals the external cost, the output decreases to the optimal quantity  
+
+### Government Legislation and Regulation
+can be used to limit consumer activities that impose costs on third parties  
+Ex:  
+- restrictions of where people can smoke
+- age restrictions for sellers  
+
+MPB shifts to MSB (lowered demand)  
+this would eliminate the externality  
+
+### Education and Awareness-Creation
+a part of government legislation and regulation  
+
+awareness of the product's effects can be used to try to persuade consumers to buy fewer goods with negative externalities  
+ex: showing the effects of smoking on the cigarette packages  
+
+lowers demand, shifting the MPB to MSB  
+the original distance between MPB and MSB is the external cost  
+
+## Nudges
+**nudges** - a form of behavioural economics involving the design of methods to influence consumers' behaviour  
+
+similar to educating consumers, encourages consumers to rely less on goods with negative externalities  
+Ex: placing unhealthy foods at he back of the store  
+
 
