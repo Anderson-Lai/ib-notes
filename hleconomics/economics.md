@@ -1489,4 +1489,29 @@ the original distance between MPB and MSB is the external cost
 similar to educating consumers, encourages consumers to rely less on goods with negative externalities  
 Ex: placing unhealthy foods at he back of the store  
 
+# Nov. 22, 2024 - Positive Externalities
+
+## Positive Production Externalities
+**positive externalities of production** - external benefits created by producers  
+Ex:  
+a technology being developed by a firm becomes widespread (firm and all of society benefits)  
+
+MSC curve is lower than the MPC curve  
+this creates an **underallocation** of resources toward the good => too little is being produced  
+
+this creates a welfare loss (the difference between the MSB and MSC curves for the amount of output that is underproduced relative
+to the social optimum)  
+external benefits for society are lost because not enough of the good is produced  
+
+## Correcting Positive Production Externalities
+
+### Direct Government Provision
+government directly produces this good or service with their own funds  
+Ex:  
+government engages in resesarch and development in pharmaceuticals  
+
+### Subsidies
+government provides a subsidy to incentivize higher production  
+pushes the MPC curve to the MSC curve  
+
 
