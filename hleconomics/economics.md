@@ -1514,4 +1514,66 @@ government engages in resesarch and development in pharmaceuticals
 government provides a subsidy to incentivize higher production  
 pushes the MPC curve to the MSC curve  
 
+# Nov. 25, 2024 - Positive Consumption Externalities
+
+a consumer consuming a good creates a positive, external benefits   
+Ex:  
+- consumption of education (better educated workfore => reduce unemployment, less crime)    
+- consumption of health care (healthier population, higher standard of living, not spreading disease to the rest of society, etc.)    
+
+MSB thus lies **above** the MPB  
+the distance between the curves is the **external benefit**  
+
+social optimal quantity thus increases  
+therefore, there is an underallocation of resources, and too little of the product is being produced  
+
+Ex:  
+vaccinations - people only consider MPC and MPB, but not considering the benefit to society (herd immunity)  
+too few people are thus getting vaccinated  
+
+for positive externalities, the welfare loss triangle points to the right, in negative externalities, the
+welfare loss triangle points to the left  
+
+## Merit Goods
+goods and services that are desirable to consumers but are under-provided and under-consumed by the market  
+
+under-consumption is caused by:  
+- good may have positive exteranlities (too little produced by the market)  
+- low levels of income and poverty  
+- consumer ignorance  
+
+## Correcting Positive Consumption Externalities
+
+### Legislation
+can be used to promote larger consumption of goods (ex: mandatory education in ontario until 16)  
+MPB ideally shifts to MSB (an increase in demand)  
+
+### Advertising
+used to educate the public (increase awareness)  
+persuades consumers to buy more of a good with a positive externality (ex: using a sports facility)  
+
+increases demand => MPB shifts to MSB  
+
+### Nudges
+similar effect to educaiton and awareness creation  
+
+ex: creating a bicycle lane to "nudge" consumers to bike more  
+aims to shift MPB to MSB  
+
+### Direct Government Provision
+ex: providing healthcare and education  
+
+the government itself will produce the goods and service itself  
+shifts the supply curve to the right (**increase in supply**)  
+
+increased supply => decreases prices => incentivizes consumers to consumer more of the good with a positive consumption externality  
+**allocative efficiency** is achieved  
+
+### Subsidies
+similar to direct government provision as it **increases supply**  
+supply shifts to the right  
+
+if the subsidies is equal to the external benefit, **allocative efficiency** is achieved  
+
+
 
