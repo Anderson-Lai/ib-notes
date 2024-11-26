@@ -1575,5 +1575,31 @@ supply shifts to the right
 
 if the subsidies is equal to the external benefit, **allocative efficiency** is achieved  
 
+# Nov. 26, 2024
+
+## Market Faiure and Public Goods
+public goods have two characteristics:   
+- non-rivalrous   
+- non-excludable  
+
+Ex: police force, national defense, fire protection, non-toll roads  
+
+**free-rider problem** - when people can enjoy goods without paying for them (non-excludability)  
+is a type of **market failure** (firms do not produce this product because they do not benefit,
+thus firms *underallocate* resources to producing this good)   
+
+**quasi-public goods** - neither a public nor private good (non-rivalrous but excludable or vice versa)  
+Ex: toll roads, museum entrance fee (excludable, but non-rivalrous)  
+
+**government** must decide *what* is produced and at *what quantity*  
+may contract out to the private sector with **advantages / disadvantages**  
+
+## Asymmetric Information
+**asymmetric information** - when buyers and sellers **do not** have **equal** access to information  
+
+two problems because of asymmetric information:  
+- **adverse selection** - when one party in a transaction has more information about the quality of the product being sold than the other party  
+- **moral hazard** - when one party takes risks, but does not face the full cost of these risks because the full cost are borne by the other party
+(ex: risks on buying a product, but the consumer does not know the risks)  
 
 
