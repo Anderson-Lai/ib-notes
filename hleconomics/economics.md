@@ -1594,6 +1594,29 @@ Ex: toll roads, museum entrance fee (excludable, but non-rivalrous)
 **government** must decide *what* is produced and at *what quantity*  
 may contract out to the private sector with **advantages / disadvantages**  
 
+### Contracting Out
+governments may decide to contract out to the private sector to provide public goods instead of producing the goods themselves  
+
+**benefits**:  
+- competitive tendering => allows government to choose the vendor with the lowest price possible  
+- specific details and specifications => possibly higher quality  
+- broader range of skills and technology in the private firm  
+- private firm may be more flexible and innovative than the government  
+overall, contracting out may be cheaper and may provide higher quality  
+
+**drawbacks**:  
+- government becomes less accountable for the goods it provides  
+- government loses control over the services it contracts out  
+- contracting out may be **more expensive** than producing the service internally  
+- quality may be reduced due to firms trying to cut costs  
+- there exists the risk of entering a poor contracts leading to higher costs and lower quality  
+- contracting out requires constant government supervision, which adds to costs  
+overall, contracting out may lead to higher costs and lower quality  
+
+thus, it is difficult to **generalize the effectiveness of contracting out**  
+
+contracting out does not address **which goods to produce and how much to produce**  
+
 ## Asymmetric Information
 **asymmetric information** - when buyers and sellers **do not** have **equal** access to information  
 
@@ -1601,5 +1624,39 @@ two problems because of asymmetric information:
 - **adverse selection** - when one party in a transaction has more information about the quality of the product being sold than the other party  
 - **moral hazard** - when one party takes risks, but does not face the full cost of these risks because the full cost are borne by the other party
 (ex: risks on buying a product, but the consumer does not know the risks)  
+
+# Nov. 27, 2024 - Equity in the Distribution of Income and Wealth
+
+**equality** - state of being equal with respect to something  
+**equity** - the idea of being fair and just  
+note the difference between the two  
+
+the pursuit of equity normally means reducing significant inequalities in income and wealth  
+
+the problem of income distribution arises because ownership of the **factors of production** that houses own and the **prices** of those
+factors vary greatly (ex: selling labour vs selling labour with special skills)  
+
+people may also not be hired due to lacking skills wanted by firms, or because they are old, sick, etc.  
+there may also be a lack of jobs in the economy  
+some may have **more factors of production than others**, e.g. land, capital, entrepreneurial abilities  
+
+thus, **market based distribution of income** is prone to varying greatly amongst individuals  
+therefore, the free market can not ensure that everyone will have enough income to satisfy basic needs  
+
+**redistribution** - methods used by the government to alter the market-determined distribution of income and output  
+
+**wealth** - money or things of value that people own (ex: savings, stocks, bonds, etc.) minus debt  
+income => savings => wealth  
+however, not necessarily related, as people can have high incomes but save little, leading to little wealth  
+
+despite that, income and wealth are still closely related, and thus income equalities lead to wealth inequalities  
+
+**strictly speaking, the inability for the market to provide enough income for all to satisfy their basic needs is *not* an
+instance of market failure** 
+
+market failure is when the market can not achieve allocative efficiency, which as a result, leads to a loss in social surplus and thus welfare  
+therefore market failure does not imply income or wealth inequality  
+**it is perfectly possible to have allocative efficiency and maximum social surplus whilst either having complete income equality
+or complete income inequality, such as having a large part of the population be starving**  
 
 
