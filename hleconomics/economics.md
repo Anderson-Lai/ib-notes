@@ -1622,8 +1622,52 @@ contracting out does not address **which goods to produce and how much to produc
 
 two problems because of asymmetric information:  
 - **adverse selection** - when one party in a transaction has more information about the quality of the product being sold than the other party  
-- **moral hazard** - when one party takes risks, but does not face the full cost of these risks because the full cost are borne by the other party
 (ex: risks on buying a product, but the consumer does not know the risks)  
+- **moral hazard** - when one party takes risks, but does not face the full cost of these risks because the full cost are borne by the other party
+(ex: people with car insurance may be less prudent in avoiding getting their car stolen)  
+
+moral hazard thus leads to an **underallocation of resources** as firms try to protect themselves against the risky behaviours of consumers  
+(ex: a person with a high-cost health insurance policy with a low deductible will be more willing to take on risks relating to their health)  
+
+### Correcting Asymmetric Information
+
+#### Adverse Selection
+**when the seller knows more than the buyer**:  
+- the government may regulate the quality of products sold by the buyer (ex: food regulations)  
+- the government may directly supply information on the product or mandate that the sellers provide information  
+- the government may require licensing to ensure a certain quality or competence (ex: doctors)  
+
+however, the first two incur a large cost and strain on the government budget due to the cost of monitoring, and thus
+also a large opportunity cost  
+the third option may reduce supply, thus raising the cost of these services (such as increasing income), which is at the expense
+of the consumer  
+
+**private responses include**:  
+- screening (trying to get more information on the product via the internet or other means)  
+- signalling (when the seller willingly gives information to the buyer in order to entice them, ex: providing a warranty, creating 
+a reputable brand name)  
+
+**when buyer knows more than the seller**:  
+- the government may directly provide the service (ex: health insurance and loans, buyer knows more than seller)  
+- seller may attempt to screen buyer (ex: different deductibles for health insurance)  
+
+Ex:  
+a low-cost policy for health insurance with a high deductible aims to target those who do not get sick easy,
+a high-cost policy with a low deductible targets those who do  
+
+a health insurance company may use this to **screen** their buyers  
+
+however, low income individuals will always buy the low-cost policy, thus making screening **ineffective**  
+furthermore, the health insurance companies may refuse to ensure the eldery  
+
+an **inequity** thus arises, as those who need health insurance either do not get it (the eldery) or not enough of it (the poor)  
+
+#### Moral Hazard
+**moral hazard in the financial area is normally corrected through government intervention**  
+Ex:  
+financial crisis of 2008, firms took risky loans thinking the government would bail them out, and the government did  
+
+in order to avoid such a situation again, **regulation** is created by the government  
 
 # Nov. 27, 2024 - Equity in the Distribution of Income and Wealth
 
@@ -1658,5 +1702,4 @@ market failure is when the market can not achieve allocative efficiency, which a
 therefore market failure does not imply income or wealth inequality  
 **it is perfectly possible to have allocative efficiency and maximum social surplus whilst either having complete income equality
 or complete income inequality, such as having a large part of the population be starving**  
-
 
