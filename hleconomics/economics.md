@@ -1703,3 +1703,58 @@ therefore market failure does not imply income or wealth inequality
 **it is perfectly possible to have allocative efficiency and maximum social surplus whilst either having complete income equality
 or complete income inequality, such as having a large part of the population be starving**  
 
+# Dec. 2, 2024 - Firms and Market Structures
+
+## Market Power
+**firm** - an organization that employs factors of production to produce and sell goods or services  
+**industry** - a group of one or more firms (ex: car, shoe, banking industries, etc.)  
+**market structures** - describes characteristics of a market's organization that determines the behaviour of firms  
+
+the main difference between different market structures is the **extent to which each firm in the industry is able to
+control the price at which it sells its products**  
+
+**the greater the market power of a firm, the greater the allocative inefficiency**  
+
+## Market Structures
+**market** - a group of buyers and sellers of a particular good or service  
+
+what determines market structure?  
+- number of firms in the market  
+- product differentiation
+- how easy it is for a firm to enter (barriers to entry) and leave the market  
+
+there are **four** types of market structures  
+
+### Perfect Competition
+- many firms  
+- each sells an identical product (ex: natural resources and agriculture)  
+- many buyers  
+- no barriers to entry  
+- both firms and buyers are well-informed of prices and products of all firms in the industry  
+
+### Monopoly
+**note - no true monopolies exist anymore**  
+
+- one firm produces the entire output of the industry  
+- no close substitutes for the product  
+- barriers to entry exists for new firms, thus protecting the monopolozing firm from competition  
+
+Ex:  
+old microsoft monopolizing operating systems  
+
+### Monopolistic Competition
+the type of market structure **most commonly seen in day-to-day life**  
+
+- many firms  
+- each firm produces a similar but slightly different product (**product differentiation**)  
+- each firm possesses an element of market power  
+- no barriers to entry for new firms  
+
+### Oligopoly
+- **small number** of firms compete  
+- firms produce either almost identical products or differentiated products  
+- barriers to entry exist to limit entry  
+
+Ex:  
+airline industry, pharmaceuticals  
+
