@@ -54,7 +54,7 @@ P - partir
 les verbes qui prennet être, il faut toujours faire les accords avec le sujet  
 
 ## Les verbes transitifs et intransitifs  
-les verbs intransitifs ont un complément circumstanciel  
+les verbes intransitifs ont un complément circumstanciel  
 
 il y a des verbes qui peuvent être transitifs et aussi intransitifs  
 alors, ceux verbes utilisent être et avoir pour le passé composé  
@@ -79,18 +79,18 @@ les verbes réciproques sont les verbes où l'action est fait entre deux où plu
 les verbes pronominaux sont l'autre groupe de verbes qui utilisent être comme verbe auxiliare  
 
 ### Les Accords 
-on fait un accord si l'object direct se trouve avant le verbe  
+on fait un accord si l'objet direct se trouve avant le verbe  
 l'accord est fait avec le pronom, pas le sujet  
 
 Ex:  
 Elle s'est lavée  
 
-on ne fait pas un accord si l'object direct se trouve après le verbe  
+on ne fait pas un accord si l'objet direct se trouve après le verbe  
 
 Ex:  
 Elle s'est lavé les mains  
 
-on ne fait pas un accord s'il y a un object indirect avant ou après le verbe  
+on ne fait pas un accord s'il y a un objet indirect avant ou après le verbe  
 
 Ex:  
 Les amis se sont écrit les lettres  
@@ -169,3 +169,33 @@ donc, le plus-que parfait est plus dans le passé que le passé composé
 l'imparfait n'a pas un temps (there is no "set" time where the imparfait takes place)  
 
 si vous voulez exprimer une action en imparfait qui est plus dans le passé qu'ne autre action en imparfait, les deux verbes seront en **imparfait**  
+
+# Dec. 2, 2024 - Les Verbes Transitif et Intransitif
+
+## Les Verbes Transitif
+les verbes transitif réponds seulement aux cettes questions:  
+- qui?  
+- quoi?  
+- à qui?  
+- à quoi?  
+- de qui?  
+- de quoi?  
+
+il y a deux types des verbes transitif, **transitif direct** et **transitif indirect**  
+
+les verbes transitif direct réponds aux questions **qui?** et **quoi** (ils ont un OD (objet direct))  
+les verbes transitif indirect réponds aux questions qui restent (ils ont un OID (objet indirect))  
+
+## Les Verbes Intransitif
+les verbes intransitif n'ont ni objet direct ni objet indirect  
+
+au lieu de ça, ils ont des compléments de circonstances, comme la manière, lieu, temps, etc.  
+
+Ex: 
+le bébé pleure  
+
+il n'y a ni objet direct ni objet indirect, donc le verbe << pleurer >> est un verbe intransitif  
+
+si le verbe est un verbe intransitif, et le verbe peut prendre les verbes soit << avoir >> soit << être >>, 
+**il prend toujours le verbe auxiliare << être >>**  
+
