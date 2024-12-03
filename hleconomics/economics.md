@@ -1777,4 +1777,4 @@ firms can either control or not control prices based off their market power
 calculate marginal revenue, total revenue, and average revenue based off the given date (units of product sold
 and the price the product is sold at)  
 
-
+**note** - the graph of the marginal revenue is the graph of the derivative of the total revenue
