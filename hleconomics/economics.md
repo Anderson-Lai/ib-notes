@@ -1758,3 +1758,23 @@ the type of market structure **most commonly seen in day-to-day life**
 Ex:  
 airline industry, pharmaceuticals  
 
+# Dec. 3, 2024 - Profit Maximization by a Rational Producer
+
+**revenue** - the income a firm receives from the sale of the goods and services it produces  
+
+there are **3** types of revenue:  
+- total revenue (TR) - multiplying the selling price by the units of good solve (P \* Q)  
+- marginal revenue (MR) - additional revenue from the sale of an additional unit of output (ΔTR / ΔQ)  
+- average revenue (AR) - average revenue per unit of output sold (TR / Q)  
+
+**two situations**:  
+- firms are unable to control price (perfect competition, since all firms produce identical goods, no one will buy at an increased price)  
+- firm has control over their prices (monopolisitic competition, oligopoly, monopoly)  
+
+## Revenue Curves
+firms can either control or not control prices based off their market power  
+
+calculate marginal revenue, total revenue, and average revenue based off the given date (units of product sold
+and the price the product is sold at)  
+
+
