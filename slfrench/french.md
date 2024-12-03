@@ -199,3 +199,8 @@ il n'y a ni objet direct ni objet indirect, donc le verbe << pleurer >> est un v
 si le verbe est un verbe intransitif, et le verbe peut prendre les verbes soit << avoir >> soit << être >>, 
 **il prend toujours le verbe auxiliare << être >>**  
 
+# Dec. 3, 2024 - La Place des Pronoms Compléments
+
+mets les compléments avant le verbe si c'est une verbe au temps simple (même au négation)  
+ne fais pas un accord avec les verbes infinitif  
+
