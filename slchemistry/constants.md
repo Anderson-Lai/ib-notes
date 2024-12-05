@@ -12,7 +12,7 @@ A = 6.022 \* 10^(23) particle / mol
 multiply by 1.66 \* 10^(-24) to convert from amu to g  
 
 ## Molar Volume
-volume constant at STP: 22.7 dm^3 / mol  
+molar volume constant at STP: 22.7 dm^3 / mol  
 
 ## Gas Constant
 R is a gas constant = 8.31 J/(K (kelvin) \* mol)  
