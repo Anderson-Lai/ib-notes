@@ -1788,5 +1788,5 @@ all the cost formulas are **cost / quantity**
 - total cost - the total cost of producing all the current units of output  
 - average cost - the average cost of all the units of output currently produced  
 
-in the short-term, there is at least **one fixed factor of production** which limits efficiency and is a **fixed cost**  
-in the long-term, **all factors of production are available to be reallocated and shifted around**   
+in the short run, there is at least **one fixed factor of production**  
+in the long run, **all factors of production are available to be reallocated and shifted around**   
