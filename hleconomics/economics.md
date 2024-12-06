@@ -1778,3 +1778,15 @@ calculate marginal revenue, total revenue, and average revenue based off the giv
 and the price the product is sold at)  
 
 **note** - the graph of the marginal revenue is the graph of the derivative of the total revenue
+
+# Dec. 5, 2024
+
+**cost** - the cost of the factors of productions to produce output  
+
+all the cost formulas are **cost / quantity**  
+- marginal cost - the cost of producing one more unit of output  
+- total cost - the total cost of producing all the current units of output  
+- average cost - the average cost of all the units of output currently produced  
+
+in the short-term, there is at least **one fixed factor of production** which limits efficiency and is a **fixed cost**  
+in the long-term, **all factors of production are available to be reallocated and shifted around**   
