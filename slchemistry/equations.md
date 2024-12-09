@@ -175,3 +175,21 @@ atom economy = (molar mass of desired product) / (total molar mass of products o
 a balanced chemical reaction is needed as the **coefficients** will be used as well  
 
 actual result is -(10 - 15)% due to real-world factors, inefficient reactions, etc.  
+
+## Calculating Heat 
+Q = mcΔT  
+Q = heat (kJ or J)  
+m = mass (g or kg)  
+c = specific heat capacity (J g^-1 K^-1)  
+ΔT = change in temperature (K)  
+
+## Calculating Enthalpy
+ΔH = -Q / n  
+enthalpy = kJ / mol  
+Q = heat  
+n = moles  
+
+if the answer is negative, it is an **exothermic reaction**  
+if the answer is positive, it is an **endothermic reaction**  
+
+amount of energy **gained / lost** *during* the reaction  

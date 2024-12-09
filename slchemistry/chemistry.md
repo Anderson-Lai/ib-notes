@@ -1173,4 +1173,46 @@ sum = sqrt( ((sum(i = 1 to n) (x\_i (number in dataset) - x (average)) ^ 2) / (n
 
 (max - min) / average is acceptable on a test instead of standard deviation  
 
+# Dec. 9, 2024 - Thermochemistry
 
+**three types of systems**:  
+- open system (ex: beaker with no lid)  
+matter can enter and leave the system  
+heat can be lost  
+- closed system (ex: beaker with a lid)  
+matter is trapped (nothing can leave or enter)  
+however, heat can still be transfered out of the system  
+- isolated system (ex: thermos, calorimeter)    
+matter is trapped  
+heat is trapped  
+
+## Temperature vs. Heat
+- temperature is **only** a measure of kinetic energy of molecules in a given amount of space  
+- heat is a form of **energy** transferred from one area to another (ex: system to surrounding and vice versa)  
+
+heat leads to **enthalpy**  
+**enthalpy change (ΔH)** is the measure of how much heat is **transferred**  
+
+## Exothermic and Endothermic
+exothermic reaction **produces heat**  
+endothermic reaction **loses heat**  
+
+**activation energy** - amount of energy needed to start a reaction (ex: ionization energy)  
+
+## Calculating Heat 
+Q = mcΔT  
+Q = heat (kJ or J)  
+m = mass (g or kg)  
+c = specific heat capacity (J g^-1 K^-1)  
+ΔT = change in temperature (K)  
+
+## Calculating Enthalpy
+ΔH = -Q / n  
+enthalpy = kJ / mol  
+Q = heat  
+n = moles  
+
+if the answer is negative, it is an **exothermic reaction**  
+if the answer is positive, it is an **endothermic reaction**  
+
+amount of energy **gained / lost** *during* the reaction  
