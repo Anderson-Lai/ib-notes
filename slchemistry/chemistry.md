@@ -1216,3 +1216,12 @@ if the answer is negative, it is an **exothermic reaction**
 if the answer is positive, it is an **endothermic reaction**  
 
 amount of energy **gained / lost** *during* the reaction  
+
+# Dec. 10, 2024
+
+## Bond Enthalpy
+ΔH = Σ(bond energy of bonds broken) - Σ(bond energy of bonds formed)  
+
+the coefficient of the specified compound should be **1**, as the bond enthalpy is in reference to one mole  
+
+
