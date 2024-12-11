@@ -1221,7 +1221,36 @@ amount of energy **gained / lost** *during* the reaction
 
 ## Bond Enthalpy
 ΔH = Σ(bond energy of bonds broken) - Σ(bond energy of bonds formed)  
+(reactants - products)  
+remember to **include coefficients**  
 
 the coefficient of the specified compound should be **1**, as the bond enthalpy is in reference to one mole  
 
+# Dec. 11, 2024
 
+## Enthalpy of Formation
+ΔH = ΣΔH\_products - ΣΔH\_reactants  
+(products - reactants)  
+remember to **include coefficients**  
+
+how much energy goes in to the products to make the reactants  
+
+the coefficient of the specified compound should be **1**, as the bond enthalpy is in reference to one mole  
+
+enthalpy of reaction for **elements and diatomic elements** are 0  
+water has different enthalpies depending on its state  
+
+**bond enthalpy will never equal enthalpy of formation** (although they will be close and should be the same type of reaction)  
+
+why?  
+bond enthalpies are an **average** of all possible permutations that the bond can take (ex: there is a difference between
+a ketone and a carbon dioxide, despite both of them being a C=O)  
+enthalpy of formation is **specific** to the element => it is more **accurate than bond enthalpies**  
+
+## Hess's Law
+sum of multiple reactions to obtain the enthalpy of a desired reaction  
+
+a bit more of an applied application of theoretical calculations  
+is used to sum up multiple reactions to get the enthalpy change of **a reaction that can not be measured experimentally**  
+
+**a reactant can not also be a product, thus they can be canceled out**  

@@ -199,4 +199,7 @@ amount of energy **gained / lost** *during* the reaction
 
 the coefficient of the specified compound should be **1**, as the bond enthalpy is in reference to one mole  
 
-
+## Enthalpy of Formation
+ΔH = ΣΔH\_products - ΣΔH\_reactants  
+(products - reactants)  
+remember to **include coefficients**  
