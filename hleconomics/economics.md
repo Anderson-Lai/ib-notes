@@ -1818,6 +1818,9 @@ profit = revenue - economic costs
 which is,  
 profit = total revenue - (explicit costs + implicit costs)  
 
+**explicit cost** - the cost of buying factors of production and resources  
+**implicit cost** - the opportunity cost of using a firm's factors of production and resources  
+
 **profit maximization** - determing the level of output that the firm should produce to make profit as large as possible  
 **loss** - negative profit; the firm is losing money  
 
