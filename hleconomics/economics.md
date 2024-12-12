@@ -1790,3 +1790,71 @@ all the cost formulas are **cost / quantity**
 
 in the short run, there is at least **one fixed factor of production**  
 in the long run, **all factors of production are available to be reallocated and shifted around**   
+
+# Dec. 12, 2024
+
+## The Long-Run
+short-run average cost curves are changed into new SRAC curves as time / output increasing due to firms increasing their **factors of production**  
+all the SRAC curves are connected by a LRAC (long-run average cost) curve that is tangent to each of the infinite SRAC curves  
+
+LRAC is similar to a parbola, with a descending section (**economies of scale**), minimum, and ascending section (**diseconomies of scale**)  
+
+the **descending section** is due to:  
+- specialization of labour => better efficiency of workers  
+- specialization of management => greater efficiency and lower costs  
+- bulk buying of inputs (factors of production) => price per unit of input drops  
+- financing economics => large firms may have lower interest rates  
+- spreading certain costs (ex: marketing) over larger volume of output => certain costs now cost less per unit of output due to increased output
+and constant price of certain costs  
+
+the **ascending section** of the LRAC (increase in long-run average cost) is due to:  
+- coordination and monitoring difficulties => growing inefficiencies  
+- communication difficulties => inefficiencies and higher average costs  
+- poor worker motivation => inefficiency and higher average costs  
+
+## Profit
+profit = revenue - economic costs  
+
+which is,  
+profit = total revenue - (explicit costs + implicit costs)  
+
+**profit maximization** - determing the level of output that the firm should produce to make profit as large as possible  
+**loss** - negative profit; the firm is losing money  
+
+in the case of a loss, before the firm goes out of business, the firm will be interested in producing the quantity of output minimizing the loss  
+
+two methods to analyzing profit maximization:  
+- using **total revenues and total costs** 
+- using **marginal revenues and marginal costs**  
+
+### Using Total Revenues and Total Costs
+profit = TR - TC  
+TC is the firm's economic costs (explicit + implicit)  
+
+**profit maximization is where TR - TC is as large as possible**  
+numerical profit is also = TR - TC  
+
+- positive profit (TR > TC) => **abnormal profit**  
+- zero profit (TR = TC) => **normal profit** 
+- negatie profit (TR < TC) => **loss**  
+
+**normal profit** - the minimum amount of revenue a firm can receive to keep the business running  
+profit is 0, and the revenue covers **all economic costs (explicit and implicit)**  
+
+normal profit also **includes the payment for entrepreneurship**  
+entrepreneurs still **receive a payment** for what they do, thus they are still incentivized to run their business  
+
+Ex: owning a pizza shop  
+despite the pizza shop being in normal profit, as a business owner (entrepreneur), you are still paid for your output (normal
+profit **accounts for the factor of production *entrepreneurship***), and thus you are still incentivized to produce output  
+
+### Using Marginal Revenues and Marginal Costs
+**profit maximization is when MR = MC**  
+the revenue (benefit) from one more unit of output is equal to the cost (drawback) of one more unit of output  
+
+therefore, maximum profit occurs at **MR = MC**  
+
+however, whether this is **profit-maximization or loss-minimization** can **not** be determined without more information  
+numerical amount of profit / loss-minimization can also not be found  
+
+
