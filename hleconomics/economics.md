@@ -1795,7 +1795,7 @@ in the long run, **all factors of production are available to be reallocated and
 
 ## The Long-Run
 short-run average cost curves are changed into new SRAC curves as time / output increasing due to firms increasing their **factors of production**  
-all the SRAC curves are connected by a LRAC (long-run average cost) curve that is tangent to each of the infinite SRAC curves  
+all the SRAC curves are connected by a LRAC (long-run average cost) curve that is tangent to minimum of each of the infinite SRAC curves  
 
 LRAC is similar to a parbola, with a descending section (**economies of scale**), minimum, and ascending section (**diseconomies of scale**)  
 
