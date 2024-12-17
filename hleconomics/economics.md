@@ -1898,8 +1898,8 @@ else:
     economic profit decreases if output changes in either direction => profit is maximized  
 
 ### Steps to Maximize Profit  
-- find where MR = MC  
-- compare AR to AC to determine profit (or loss) per unit of output  
+- find where MR (or price in case of perfect competition) = MC  
+- compare AR to AC to determine type of profit (or loss) per unit of output  
 i.e. abnormal, normal, or negative profit  
 - find total profit (or total loss) - profit = TR - TC  
 
@@ -1909,7 +1909,7 @@ making more than the cost of the factors of production
 profit is distance between P (which is AR) and AC  
 
 ### Normal Profit
-P and AC intersect  
+P and AC intersect at AC's minimum  
 TR = TC  
 
 in the long-run, all firms in perfect competition make a **normal profit**  
