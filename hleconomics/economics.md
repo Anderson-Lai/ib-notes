@@ -1795,7 +1795,14 @@ in the long run, **all factors of production are available to be reallocated and
 
 ## The Long-Run
 short-run average cost curves are changed into new SRAC curves as time / output increasing due to firms increasing their **factors of production**  
+a growth in any factor of production can be viewed as an entire reallocation of factors of production, thus putting the firm in the long-run,
+and thus a new SRAC curve is created  
+
 all the SRAC curves are connected by a LRAC (long-run average cost) curve that is tangent to minimum of each of the infinite SRAC curves  
+
+**constant returns to scale** - output increases in the same proportion as all inputs  
+Ex:  
+doubling input will double output  
 
 LRAC is similar to a parbola, with a descending section (**economies of scale**), minimum, and ascending section (**diseconomies of scale**)  
 
@@ -1859,5 +1866,56 @@ therefore, maximum profit occurs at **MR = MC**
 
 however, whether this is **profit-maximization or loss-minimization** can **not** be determined without more information  
 numerical amount of profit / loss-minimization can also not be found  
+
+# Dec. 17, 2024 - Perfect Competition
+
+to the **producer** of goods with perfect competition, demand is **completely elastic**  
+
+any increase in the price you sell at, will lead to no sales  
+a decrease in price leads to a loss in revenue / profit    
+
+the firm is a **price-taker**  
+
+**P = MR = AR**  
+constant at all levels for perfect competition  
+forms a **linear relationship**  
+
+makes **two** decisions in the short-run:  
+- whether to produce or shut down (based off profit)  
+- if the firm does decide to produce, what quantity to produce?  
+
+## Profit Maximization in the Short-Run
+firm will always try to maximize profit  
+since firms can not change the price, firms rely on **setting a quantity** as the tool to measure total profit  
+
+firm will use **marginal revenue and marginal cost rule**  
+
+if MR > MC:
+    economic profit increases if output increases  
+else if MR < MC:
+    economic profit decreases if output increases  
+else:
+    economic profit decreases if output changes in either direction => profit is maximized  
+
+### Steps to Maximize Profit  
+- find where MR = MC  
+- compare AR to AC to determine profit (or loss) per unit of output  
+i.e. abnormal, normal, or negative profit  
+- find total profit (or total loss) - profit = TR - TC  
+
+### Abnormal Profit
+making more than the cost of the factors of production  
+
+profit is distance between P (which is AR) and AC  
+
+### Normal Profit
+P and AC intersect  
+TR = TC  
+
+in the long-run, all firms in perfect competition make a **normal profit**  
+profits / losses in the short-run lead to entry and exits of firm, leading normal profit on average  
+
+### Loss Minimization
+loss is between AC and P (which is AR)  
 
 
