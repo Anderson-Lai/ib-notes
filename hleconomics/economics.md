@@ -1920,3 +1920,60 @@ profits / losses in the short-run lead to entry and exits of firm, leading norma
 ### Loss Minimization
 loss is difference between AC and AR  
 TR < TC  
+
+# Dec. 18, 2024 - Monopolies (Part 1)
+
+monopolies are the extreme opposite of perfect competition  
+
+## Barriers to Entry
+- economies of scale
+- natural monopolies
+- branding
+- legal barriers
+- control of essential resources
+- aggressive tactics
+
+### Economies of Scale
+steep curve in the economies of scale section of the LRAC curve  
+
+average costs decrease as firm increases in size  
+large startup costs  
+
+### Natural Monopolies
+**natural monopolies** - firms that have economies of scale so large they can produce for an entire market and still not
+exhaust their economies of scale  
+
+### Branding
+**branding** - creation by a firm of a unique image and name of a product  
+
+works through advertising to influence customers to establish customer loyalty => convinces them of product superiority  
+makes it difficult for new firms to enter the market that is dominated by a successful brand  
+
+### Legal Barriers
+given by the government to protect the firm, such as:  
+- copyrights - author has the sole rights to print / publish work  
+- licenses - granted for particular professions or industries  
+- patents - rights given to a firm that has developed a new product 
+- quotas / tariffs / trade restrictions - limit the quantities of a good that can be imported into another country  
+(makes it difficult for foreign firms from entering a domestic market)  
+
+**limits competition and contribution to market power**  
+
+### Control of Essential Resources
+ownership of a natural resources is monopolized by one company, either through geography or contracts  
+
+Ex: De Beers (diamond company that used to have a monopoly)  
+
+## Demand Curve
+monopolies are **price-makers** due to significant **market power**  
+all firms, **except** perfect competition, are price-makers  
+
+allows firms to basically price products at whatever they want  
+
+**market power arises whenever a firm faces a downward-sloping demand curve**  
+
+due to marginal diminishing utility, more output **can only be sold at a lower price**  
+
+**when MR is at 0, TR is at its maximum**  
+proof:  
+since the MR curve is the derivative of the TR curve, when MR is equal to 0, TR is at a maximum  
