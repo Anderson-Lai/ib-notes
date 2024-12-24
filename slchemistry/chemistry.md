@@ -1164,7 +1164,7 @@ for all final answers, uncertainties should be in **absolute** not relative
 averages come from the same tool, and thus the uncertainties do not need to be averaged  
 
 if the average is the median, and the distance to the max and min are the same, the uncertainty becomes the difference between
-max to average or average to min  
+the max and the min
 
 ### Deriving Uncertainty 
 finding the uncertainty of tools that are not given (such as a stopwatch)  
