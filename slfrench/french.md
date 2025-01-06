@@ -196,11 +196,22 @@ le bébé pleure
 
 il n'y a ni objet direct ni objet indirect, donc le verbe << pleurer >> est un verbe intransitif  
 
-si le verbe est un verbe intransitif, et le verbe peut prendre les verbes soit << avoir >> soit << être >>, 
+si le verbe est un verbe intransitif, et le verbe peut prendre les verbes soit << avoir >> soit << être >> en le passé composé, 
 **il prend toujours le verbe auxiliare << être >>**  
 
 # Dec. 3, 2024 - La Place des Pronoms Compléments
 
 mets les compléments avant le verbe si c'est une verbe au temps simple (même au négation)  
 ne fais pas un accord avec les verbes infinitif  
+
+# Jan. 6, 2024 - Les Pronoms Compléments D'objet Indirect - COI
+
+pour trouver un objet indirect dans une phrase on pose la question "à qui?" après le verbe  
+
+les pronoms COI remplace seulement les personnes ou animaux  
+
+on ne fait pas les accords avec le participe passé avec les COIs  
+beaucoup des verbes de communication utilisent le preposition "à"  
+
+
 
