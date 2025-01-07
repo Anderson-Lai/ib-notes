@@ -204,14 +204,38 @@ si le verbe est un verbe intransitif, et le verbe peut prendre les verbes soit <
 mets les compléments avant le verbe si c'est une verbe au temps simple (même au négation)  
 ne fais pas un accord avec les verbes infinitif  
 
-# Jan. 6, 2024 - Les Pronoms Compléments D'objet Indirect - COI
+# Jan. 6, 2025 - Les Pronoms Compléments D'objet Indirect - COI
 
 pour trouver un objet indirect dans une phrase on pose la question "à qui?" après le verbe  
 
 les pronoms COI remplace seulement les personnes ou animaux  
 
 on ne fait pas les accords avec le participe passé avec les COIs  
-beaucoup des verbes de communication utilisent le preposition "à"  
+beaucoup des verbes de communication utilisent le préposition "à"  
 
+# Jan. 7, 2025 - Le Pronom "Y"  et "En"  
+
+## Le Pronom "Y"  
+le pronom "y" est utilisé pour remplacer des lieus  
+il **ne remplace jamais** les personnes  
+
+il peut aussi être utilisé pour remplacer les mots qui suivent la préposition "à"  
+
+**note: le verbe "penser" utilise le préposition "à" quand il est utilisé pour penser à quelque chose (un nom)**  
+
+le pronom "y" est un pronom invariable  
+donc, le pronom "y" ne fait pas un accord en temps composé  
+
+## Le Pronom "En" 
+il remplace:  
+- le quantité - le verbe est suivi par le préposition "de"  
+- si la quantité est défini ou sous-entendu, il faut mentionner la quantité dans la nouvelle phrase  
+Ex: Vous avez des amis? => Oui, j'en ai beaucoup.  (sous-entendu (understood))  
+  - ne mentionnez pas un quantité si le quantité est zéro  
+
+Ex: Il y a un parc près de toi? => Non, il n'y en a pas  
+
+le pronom "en" est aussi utilisé pour remplacer l'expression "de + chose"  
+il est un pronom invariable, ainsi il ne fait jamais les accords avec les verbes en temps composé (comme le pronom "y")  
 
 
