@@ -1943,6 +1943,9 @@ large startup costs
 **natural monopolies** - firms that have economies of scale so large they can produce for an entire market and still not
 exhaust their economies of scale  
 
+economy of scale is so large that the firm can continue to increase quantity supplied whilst lowering average cost  
+single firm can thus produce the entire supply of the industry, driving out competing firms  
+
 ### Branding
 **branding** - creation by a firm of a unique image and name of a product  
 
@@ -2008,3 +2011,67 @@ thus, private monopolies are usually illegal due to the cost towards society
   - high barriers to entry allow firms to enjoy profits from their innovation    
   - product development and technological innovation help maintain abnormal profits by creating another barrier to entry  
 
+# Jan. 14, 2025 - Monopolistic Competition
+
+## Characteristics  
+- large number of firms  
+- no barriers to entry, like perfect competition  
+- product differentiation  
+  - physical differences - shape, size, material, taste, etc.  
+  - quality differences  
+  - location differences  
+  - product images - brand names, celebrity endorsements, attractive packaging, etc.  
+
+## Product Differentiation and the Demand and Revenue Curve  
+downward sloping demand curve  
+somewhat similar to a small monopoly due to the presence of market power  
+
+substitutes **do** exist  
+demand curve is relatively elastic as a result  
+
+an increase in price loses some sales, more than in a monopoly, but less than in perfect competition  
+
+**price competition** - firms lower prices to attract customers from rivals at the expense of competitors  
+**non-price competition** - firms use other methods to attract customers, such as advertising, quality, branding, etc.  
+
+monopolistically competitive firms use **both** methods  
+
+## Profit Maximization  
+short-run equilibrium is identical to monopoly but demand is flatter and more elastic  
+firm can make both loss, normal profit, or abnormal profit  
+
+**free entry and exit** is important in long-run equilibrium  
+in long-run, profit-making industries attract new entrants, whereas loss-making industries forces some firms to close down  
+
+## Allocative Efficiency and Market Failure
+**allocative efficiency is given by P (MB) = MC**  
+
+in monopolistic competition, **P > MC**, thus an underallocation of resources as consumers would gain (MB) from more units of the good
+more than the cost towards the firm (MC)  
+
+## Similarities and Differences to Perfect Competition
+similarities:  
+- large number of firms  
+- no barriers to entry  
+- normal profit in the long-run and abnormal profit / loss in the short-run  
+
+differences for monopolistic competition:  
+- have some market power  
+- allocative inefficiency  
+- product variety (thus competitors)  
+- economies of scale (perfect competition can not achieve an economy of scale due to their small size)  
+
+## Similarities and Differences to a Monopoly
+similarities:  
+- allocative efficiency (P = D = MB > MC)  
+
+differences for monopolistic competition:  
+- more producers  
+- smaller firms  
+- no barriers to entry  
+- normal profit as opposed to abnormal profit for monopolies  
+- higher competition and lower prices (to attract customers)  
+- less market power  
+- less r&d  
+- smaller economies of scale and no natural monopolies  
+- more product variety  
