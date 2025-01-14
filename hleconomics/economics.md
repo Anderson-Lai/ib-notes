@@ -2063,7 +2063,7 @@ differences for monopolistic competition:
 
 ## Similarities and Differences to a Monopoly
 similarities:  
-- allocative efficiency (P = D = MB > MC)  
+- allocative inefficiency (P = D = MB > MC)  
 
 differences for monopolistic competition:  
 - more producers  
