@@ -1977,3 +1977,34 @@ due to marginal diminishing utility, more output **can only be sold at a lower p
 **when MR is at 0, TR is at its maximum**  
 proof:  
 since the MR curve is the derivative of the TR curve, when MR is equal to 0, TR is at a maximum  
+
+# Jan. 13, 2025 - Monopolies (Part 2)
+
+the marginal revenue (MR) curve will always be less than the AR (demand / MB) curve  
+this is due to firms having to lower the price of all previous units of product to increase the quantity sold  
+
+at equilibrium, MB > MC, implying an **underallocation resources**, and thus a welfare loss  
+
+thus, market power is proportional to market failure  
+market power can thus be defined as **a firm's ability to change price (MB) to a price greater than MC**  
+this only occurs in a **downward sloping demand curve**  
+
+thus, private monopolies are usually illegal due to the cost towards society  
+
+## Criticisms of Monopolies
+- welfare loss, allocative inefficiency, market failure  
+- higher price and lower output  
+- loss of consumer surplus that is gained by the monopolizing firm  
+- negative impacts on distribution of income (consumers pay more and firm owners make more)  
+- lack of competition => less concern for maintaining low costs of production => higher costs  
+**X-inefficiency** - the concern in maintaining abnormal profits in the long-run over favouring low costs of production  
+- less innovation - no pressure to innovate due to high barriers to entry unlike monopolistic competition  
+
+## Benefits of Monopolies
+- economies of scale - allow for cheaper costs of production as monopolies grow => possible lower prices for products  
+- natural monopoly - low average costs for firm => cheaper goods for consumers  
+- research and development (r&d) for products and technology  
+  - large abnormal profits allow for financing of r&d projects  
+  - high barriers to entry allow firms to enjoy profits from their innovation    
+  - product development and technological innovation help maintain abnormal profits by creating another barrier to entry  
+
