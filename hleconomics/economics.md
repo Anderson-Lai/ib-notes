@@ -2075,3 +2075,96 @@ differences for monopolistic competition:
 - less r&d  
 - smaller economies of scale and no natural monopolies  
 - more product variety  
+
+# Jan. 15, 2025 - Oligopolies
+
+## Characteristics
+- small number of **large** firms  
+- high barriers to entry  
+- interdependence - firms behave independently from each other  
+
+Ex:  
+cars, aircraft, pharmaceuticals, etc.  
+
+## Interdependence
+**strategic behaviour** - plans that take into account rivals' possible courses of actions  
+actions are based on the expected actions and behaviours of rivals (ex: card game)  
+
+**conflicting incentives** - firms in oligopolies face incentivies that conflict or clash with each other  
+colluding, competing, or cheating  
+
+## Game Theory
+**game theory** - a mathematical technique analysing the behaviour of decision makers who are dependent on each other,
+and who display strategic behaviour  
+
+theory based on **John F. Nash**  
+
+**nash equilibrium** - final position that results  
+
+## Collusive and Non-Collusive Oligopolies
+**collusion** - agreement between firms to limit competition to increase monopolistic power  
+is an **informal** agreement  
+
+leads to an **inefficient allocation of resources**  
+
+may create **price-fixing agreements**  
+- holding price constant  
+- raising prices by some fixed amount  
+- fixing price differences between different products  
+- adopting a formula for calculating prices and others  
+
+collusion is **illegal** in most countries as it limits competition  
+collusion can be **formal (cartel)** or **informal (price-leadership)**  
+
+### Cartels
+a formal agreement between firms in an industry to limit competition and increase profits  
+is a form of **formal collusion (or open collusion)**  
+
+Ex:  
+- fixing the price or quantity produced  
+- fixing the output sold  
+- restrictions on non-price competition  
+- dividing the market  
+- setting up barriers to entry  
+
+leads to **abnormal profit**  
+
+concluding firms either agree on what share of the market each firm will have or
+agreeing to compete with one another based on non-price competition  
+
+Ex:  
+organization of petroleum exporting countries (OPEC)  
+
+**cartels do not last**  
+- incentivized to cheat  
+one cheating member of a cartel will not completely damage profits  
+however, multiple cheating firms will cause the cartel to fall apart, reducing profits and ending the collusive agreement  
+- cheating firms lead to price wars => quickens the end of the cartel    
+- recessions  
+
+### Tacit Collusion
+also known of **informal collusion**  
+
+**price leadership** - where a dominant firm in the industry sets a price and also initiates any price changes  
+**limit pricing** - firms informally agree to set a price lower than profit-maximizing prie to create a barrier to entry for new firms  
+
+### Non-Collusive Oligopolies
+all firms are behaving independently; however, they are still aware of the prices of competitors  
+
+## Concentration Ratio
+**concentration ratio** - percentage of output produced by the largest firms in the industry  
+an industry is considered oligopolistic if the four largest firms control **40%** of the output  
+
+## Criticisms of Oligopolies  
+- welfare loss, allocative inefficiency, and market failure  
+- higher prices and lower quantities of products  
+- loss of consumer surplus  
+- negative impact on distribution of income  
+- possible higher production costs due to lack of price competition  
+- possibly less innovative  
+
+## Benefits of Oligopolies  
+- economies of scales can be effectively utilised  
+- product development and technological innovations can be pursued due to abnormal profits  
+- technological innovations improve efficiency and lower costs of production  
+effects may be passed down to consumers  
