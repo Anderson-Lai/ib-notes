@@ -1170,8 +1170,12 @@ the max and the min
 finding the uncertainty of tools that are not given (such as a stopwatch)  
 
 sum = sqrt( ((sum(i = 1 to n) (x\_i (number in dataset) - x (average)) ^ 2) / (n (total number of measurements) - 1) )    
+standard deviation yields the **absolute** uncertainty  
 
 (max - min) / average is acceptable on a test instead of standard deviation  
+this yields the **relative** uncertainty of the data set  
+
+(max - min) yields the **absolute** uncertainty of the data set  
 
 # Dec. 9, 2024 - Thermochemistry
 
