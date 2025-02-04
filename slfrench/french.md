@@ -238,4 +238,25 @@ Ex: Il y a un parc près de toi? => Non, il n'y en a pas
 le pronom "en" est aussi utilisé pour remplacer l'expression "de + chose"  
 il est un pronom invariable, ainsi il ne fait jamais les accords avec les verbes en temps composé (comme le pronom "y")  
 
+# Feb. 4, 2025 - Le Futur Simple
+
+le futur simple est utilisé après les conjonctions de temps si le verbe principal est au futur simple ou à l'impératif  
+
+exemples:  
+- quand  
+- lorsque    
+- dès que (as soon as)  
+- aussitôt que  
+- après que  
+
+je vous appellerai quand j'arriveria  
+
+## Le Futur Proche Entre Le Futur Simple
+le futur proche est utilisé en langue familier, pas en écriture  
+
+donc pour l'IA, utilise le futur simple  
+
+## Les Exceptions
+le verbe nettoyer est netto**i**er-[terminaison]  
+
 
