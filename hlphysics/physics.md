@@ -52,18 +52,40 @@ however, which direction is positive or negative can be defined by using a **fra
 cartesian coordinate system is used when dealing with vectors  
 
 ## Reading d-t Graph
-**slope** of the line gives the speed / velocity  
+**slope** of the line gives the relative speed / velocity  
 
 **straight line** - uniform / constant speed  
 **curved line** - non-uniform speed / acceleration  
 
 **acceleration** - the rate at which an object changes in **speed or velocity w.r.t time**  
 
-## Instataneous Velocity
+## Instantaneous Velocity
 derivative of position  
 slope of the **tangent line**  
 
 ## Average Velocity 
 slope of the **secant line**  
+
+# Feb. 6, 2025
+
+## Velocity-Time Graphs
+to determine if an object is accelerating, take the **absolute value of the mangitude**  
+negative sign only gives the **direction** as velocity is a vector quantity  
+|v(t)|  
+
+the object is at **rest at the zeroes of the function**  
+v(t) = 0
+
+the total displacement is the **area under the curve** for the given interval of time  
+∫t1,t2 v(t) dt
+
+average velocity is the **area under the curve for the total time period / total time**  
+∫t1,t2 v(t) dt / (t2 - t1)  
+
+## Acceleration
+acceleration = Δv / Δt (acceleration has an arrow over it as it is a **vector quantity**)  
+**note: d/dt p(t) = v(t); d/dt v(t) = a(t)**  
+
+**decelerate does not mean (-) acceleration, just a reduction in acceleration**  
 
 
