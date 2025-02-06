@@ -259,4 +259,27 @@ donc pour l'IA, utilise le futur simple
 ## Les Exceptions
 le verbe nettoyer est netto**i**er-[terminaison]  
 
+# Feb. 6, 2025 - Le Conditionnel Présent
+
+le conditionnel présent est construire avec le radical du futur simple avec les terminaisons de l'imparfait  
+
+## Les Emplois
+en anglais, ces mots traduisent aux "would" ou "should" 
+
+- il est utilisé pour demander quelque chose dans unes façon poli  
+- il est utilisé pour exprimer un souhait  
+- il est utilisé pour des phrases hypothétiques  
+
+les phrases hypothétiques suivent ce structure:  
+Si [phrase avec l'imparfait] + [phrase avec conditionnel]  
+
+**note: cette évenement ne s'est pas passé**  
+
+- le conditionnel présent est utilisé pour exprimer un futur au passé  
+exemple:  
+il a déclaré qu'il vendrait avec nous  
+
+le conditionnel suivent toujours les mots << que >> ou << si >> dans ce structure  
+l'action a le sense d'une action qui **aura lieu**  
+
 
