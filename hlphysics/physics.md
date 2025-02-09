@@ -86,6 +86,6 @@ average velocity is the **area under the curve for the total time period / total
 acceleration = Δv / Δt (acceleration has an arrow over it as it is a **vector quantity**)  
 **note: d/dt p(t) = v(t); d/dt v(t) = a(t)**  
 
-**decelerate does not mean (-) acceleration, just a reduction in acceleration**  
+**decelerate does not mean negative acceleration, just a reduction in velocity**  
 
 
