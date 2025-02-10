@@ -22,6 +22,7 @@ when stating position X is relative to position Y the answer **must** have a **d
 
 **position** - distance and direction of an object with respect to (w.r.t) a reference point; 
 no motion is needed to state position => **vector quantity**  
+positio is denoted by the letter **d** (with an arrow on top)  
 
 **displacement** - a change in position, regardless of how it got there; motion is necessary; has magnitude and direction => **vector quantity**  
 
@@ -88,4 +89,7 @@ acceleration = Δv / Δt (acceleration has an arrow over it as it is a **vector 
 
 **decelerate does not mean (-) acceleration, just a reduction in acceleration**  
 
+# Feb. 10, 2025
 
+for a v-t graph, area under the curve = displacement  
+remember to have curved lines for constant velocity  
