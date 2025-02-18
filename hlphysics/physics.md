@@ -93,3 +93,4 @@ acceleration = Δv / Δt (acceleration has an arrow over it as it is a **vector 
 
 for a v-t graph, area under the curve = displacement  
 remember to have curved lines for constant velocity  
+
