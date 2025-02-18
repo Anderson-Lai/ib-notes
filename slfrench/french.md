@@ -282,4 +282,42 @@ il a déclaré qu'il vendrait avec nous
 le conditionnel suivent toujours les mots << que >> ou << si >> dans ce structure  
 l'action a le sense d'une action qui **aura lieu**  
 
+# Feb. 18, 2025 - Le Subjonctif Présent
+
+le subjonctif est utilisé pour exprimer les sentiments, la nécessité, les doutes, les opinions etc.  
+
+le radical du verbe est le verbe en forme "ils" au présent indicatif  
+enlève le "-ent"  
+
+ajoute ces terminaisons:  
+- e  
+- es  
+- e  
+- ions  
+- iez  
+- ent  
+
+les terminaisons pour "nous" et "vous" sont les terminaisons de l'imparfait de l'indicatif  
+
+le mot **que** introduit le subjonctif  
+ex: que je choisisse  
+
+## Les Verbe Irréguliers  
+il y a des mots irréguliers qui changent pour seulement **nous et vous**  
+ex: boire  
+
+que je boive  
+que nous buvions  
+
+il y a des mots tellement **irréguliers**  
+- aller - aill-  
+- avoir - ai -  
+- faire - fass -  
+- pouvoir - puiss -  
+- savoir - sach -  
+- vouloir - veuill -  
+
+le verbe **être** est aussi irrégulier, mais les conjugaisons sont comme l'impératif  
+pour ceux, les radicals changent pour tous les sujets  
+
 
