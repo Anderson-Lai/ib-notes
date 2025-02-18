@@ -94,3 +94,15 @@ acceleration = Δv / Δt (acceleration has an arrow over it as it is a **vector 
 for a v-t graph, area under the curve = displacement  
 remember to have curved lines for constant velocity  
 
+# Feb. 18, 2025
+
+when objects are in free fall, only **gravity** acts on the object (ignore air resistance)  
+all objects experience approximately the same acceleration due to gravity  
+
+common example of **constant acceleration** => all 5 kinematic equations can be used  
+
+**g = -9.80 m/s^2**  
+note the negative sign  
+or **9.8 m/s^2 [d]**  
+
+
