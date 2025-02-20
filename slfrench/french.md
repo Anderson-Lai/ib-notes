@@ -320,4 +320,44 @@ il y a des mots tellement **irréguliers**
 le verbe **être** est aussi irrégulier, mais les conjugaisons sont comme l'impératif  
 pour ceux, les radicals changent pour tous les sujets  
 
+# Feb. 20, 2025 - Les Emplois Du Subjonctif
+
+le subjonctif est utilisé avec des expressions qui ont des doutes, opinions, sentiments etc.  
+il y a toujours le mot **que** avant la phrase avec le subjonctif  
+
+ces phrases sont dépendant à la phrase principale  
+
+il y a des expressions qui introduit le subjonctif  
+s'il y en a une, il faut utiliser le subjonctif  
+
+pour les phrases avec subjonctif, il faut avoir **deux sujets** différents  
+ex:  
+**il** faut que **vous** soyez en uniforme  
+
+on **ne peut pas utiliser le subjonctif quand on a le même sujet** dans une phrase  
+ex:  
+cette phrase est incorrecte: "je veux que je sois plus intelligent"  
+cette phrase devrait être: "je veux être plus intelligent"  
+
+cependant, cette phrase est correcte: "il faut qu'il aille à l'école"  
+le pronom **il** est un pronom neutre dans ce cas  
+
+après les expressions **croire que, penser que, espérer que etc.** à l'affirmatif, il faut employer le monde indicatif  
+mais quand ces phrases **sont aux négatives ou à l'interrogatif, on doit employer le subjonctif**  
+
+ex:  
+je pense qu'il est beau  
+je ne pense pas qu'il soit beau  
+
+à l'affirmatif, ces phrases sont plus sûr que pas sûr, donc il faut employer l'indicatif à l'affirmatif  
+
+**le ne explétif** n'est pas une form négative  
+**il n'exprime pas la négation**  
+
+cette experssion est pour un accent (it is used to emphasize the tone of the sentence)  
+le << ne explétif >> est seulement employer pour exprimer la peur, le doute etc.  
+
+pour l'expression << il est probable que >> il faut utiliser **l'indicatif**  
+c'est puisque l'expression << il est peu probable que >> existe, et pour cette expression il faut employer **le subjonctif**  
+
 
