@@ -70,7 +70,7 @@ slope of the **secant line**
 # Feb. 6, 2025
 
 ## Velocity-Time Graphs
-to determine if an object is accelerating, take the **absolute value of the mangitude**  
+to determine if an object is accelerating, take the **absolute value of the magnitude**  
 negative sign only gives the **direction** as velocity is a vector quantity  
 |v(t)|  
 
@@ -104,5 +104,20 @@ common example of **constant acceleration** => all 5 kinematic equations can be 
 **g = -9.80 m/s^2**  
 note the negative sign  
 or **9.8 m/s^2 [d]**  
+
+# Feb. 21, 2025 - Motion In 2D
+
+when given a direction say [N 30° E], it means start at **north and turn a heading of 30° to east**  
+
+ex: [N 50° W] = final heading of 310°  
+
+to add two vectors graphically, add the two magnitudes together  
+then connect the **tail of the first vector to the tip of the second vector**  
+
+the final vector is between those two points with a magnitude of the two magnitudes added together  
+
+the **negative of a vector** is a vector with the same magnitude but points in the opposite direction  
+therefore, v2 - v1 is the same as v2 + (-v1)  
+
 
 
