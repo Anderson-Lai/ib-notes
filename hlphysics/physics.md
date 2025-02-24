@@ -119,5 +119,16 @@ the final vector is between those two points with a magnitude of the two magnitu
 the **negative of a vector** is a vector with the same magnitude but points in the opposite direction  
 therefore, v2 - v1 is the same as v2 + (-v1)  
 
+# Feb. 24, 2025 - Algebraic Approach To Vectors
 
+a vector can be broken down to a **x and y component**  
 
+calculate the x component and y component of each vector using sine/cosine  
+
+add up the different components in each vector  
+use the pythagorean theorem on the summed components to calculate the **magnitude** of the final vector  
+
+with the summed components, tangent can be used to find the **direction of the vector**  
+
+ensure the final answer is positive  
+ensure the direction is correct  
