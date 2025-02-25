@@ -132,3 +132,20 @@ with the summed components, tangent can be used to find the **direction of the v
 
 ensure the final answer is positive  
 ensure the direction is correct  
+
+# Feb. 25, 2025 - Projectile Motion (Pt. 1)
+
+any **object** given an **initial thrust** and then alowed to **soar through the air** under the influence
+of **gravity only** is called a **projectile**  
+
+after the projectile is launched, only gravity is acting on it => all objects accelerates downward at 9.8 m/s^2  
+there is **no horizontal acceleration** (a\_x = 0; a\_y = -9.8 m/s^2)  
+as such, **v1 = v2**  
+
+air resistance *does* have an effect, but it is too complex to calculate, and thus will be ignored  
+
+**horizontal and vertical motion** are analyzed **separately** as they are **independent**  
+
+angle of the projectile's launch affects the **range (horizontal displacement)**  
+
+
