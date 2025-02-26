@@ -148,4 +148,14 @@ air resistance *does* have an effect, but it is too complex to calculate, and th
 
 angle of the projectile's launch affects the **range (horizontal displacement)**  
 
+# Feb. 26, 2025 - Projectile Motion
 
+if the object lands at the same height it was thrown, Δd\_y = 0  
+max height is when v\_y = 0  
+
+**always draw a frame of reference, even if there is no diagram**  
+
+example of final velocity:  
+42 m/s [R 32° D]  
+
+use **time** to relate the y component and x component of the projectile  
