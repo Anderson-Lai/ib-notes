@@ -159,3 +159,67 @@ example of final velocity:
 42 m/s [R 32° D]  
 
 use **time** to relate the y component and x component of the projectile  
+
+# Mar. 4, 2025 - Dynamics / Forces
+
+**force** - anything that causes an object to change in **velocity**, i.e., **accelerate**  
+**not** required to keep an object moving  
+
+a force is a **push or a pull**  
+two types of forces:  
+- contact forces - arise from physical contact  
+- action-at-a-distance forces - do not require contact  
+ex: gravity, electrical forces, magnetic forces  
+
+force is a **vector quantity**  
+measured in **newtons (N)**  
+force is measured with a **newton's spring scale**  
+
+most common types of forces:  
+- applied force (F\_a) - one object contacts another object and **pushes/pulls** on the object  
+- tension force (F\_t) - pulling force from a rope or string on an object that **always points toward the rope or string**  
+- normal force (F\_n *or* W) - a **perpendicular** force exerted by a **surface** on an object that is in contact with the surface  
+always points **away from the surface** (keeps you from falling through the floor)  
+- force of friction (F\_fr) - a force that opposes the sliding of two surfaces across one another  
+is always **parallel to the surface**; is always the **opposite direction of the object's motion**  
+- force of gravity (F\_g) - the force of **attraction between *all* objects**  
+force of gravity between Earth and objects at/near the Earth's surface is directed **toward the Earth's surface**  
+is an example of an *action-at-a-distance* force => contact is not needed  
+force of gravity is **proportional to mass**  
+
+F\_g = m \* g  
+m = mass  
+g = acceleration due to gravity  
+
+**mass** - the measure of the amount of matter ("stuff") contained in an object  
+mass **always remains constant**  
+
+however, **weight** is *not* constant  
+it is dependant on the gravitional pull of the planet  
+
+whenever a spring is compressed / extended
+a spring will develop a tension force inside the spring that will bring the length **back to its original value**  
+
+**drag forces** - similar to friction forces; opposes acceleration  
+ex: air resistance  
+
+**upthrust force** - any object in a fluid experiences this force  
+caused by the **pressure the fluid exerts on the body**  
+if upthrust = weight => object will float  
+
+## Free Body Diagrams
+used to show **all** forces acting on an object  
+include a frame of references  
+all forces point **away** from the object  
+only include forces acting **directly on** the object  
+**not** drawn to scale  
+
+to keep an object at a **constant velocity**, there **must** be an applied force (F\_a) in order to oppose **friction / drag forces**  
+
+**net force** (F\_net) - vector sum of all the forces acting on an object  
+separate the **horizontal and veritcal directions**  
+
+when F\_net = 0, the object is said to be in **translational equilibrium**  
+ex: the object is at rest or the object is at a constant velocity (F\_a = F\_fr + F\_d)  
+
+
