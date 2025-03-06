@@ -222,4 +222,16 @@ separate the **horizontal and veritcal directions**
 when F\_net = 0, the object is said to be in **translational equilibrium**  
 ex: the object is at rest or the object is at a constant velocity (F\_a = F\_fr + F\_d)  
 
+# Mar. 6, 2025 - Newton's Laws
+
+**inertia** - the property of matter that causes a body to **resist a change** in its state of motion  
+**mass is proportional to inertia**  
+
+**first law of motion** - if the net external force on an object is zero, the object will remain at rest or continue to move at a constant velocity  
+
+**net force being 0 leads to a object staying at rest or at a constant velocity**  
+
+**second law of motion** - an **unbalanced** force acting on an object causes the object to **accelerate**  
+F\_net = ma  
+
 
