@@ -234,4 +234,11 @@ ex: the object is at rest or the object is at a constant velocity (F\_a = F\_fr 
 **second law of motion** - an **unbalanced** force acting on an object causes the object to **accelerate**  
 F\_net = ma  
 
+# Mar. 18, 2025 - Newton's Third Law
+
+for every **action force** there is an equal and opposite **reaction force**  
+**forces always act in pairs on *different objects***  
+
+normal force and gravity are *not* an example of newton's third law  
+
 
