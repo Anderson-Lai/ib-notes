@@ -303,7 +303,7 @@ the producers of good and services, and how price affects the quantities they pr
 **supply** - explains the behavious of producers and sellers  
 supply is the relationship between the quantity of a good that producers are willing and able to provide
 
-resources and technoogy determine what is possible  
+resources and technology determine what is possible  
 supply reflects a decision about which technologically feasible items to produce  
 
 quantity supplied - amount of goods a producer will make at a given price  
