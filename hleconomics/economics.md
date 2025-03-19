@@ -301,7 +301,7 @@ Factors that can cause a demand curve to shift (not price, as it moves your posi
 the producers of good and services, and how price affects the quantities they produce  
 
 **supply** - explains the behavious of producers and sellers  
-supply is the relationship between the quantity of a good that producersare willing and able to provide
+supply is the relationship between the quantity of a good that producers are willing and able to provide
 
 resources and technoogy determine what is possible  
 supply reflects a decision about which technologically feasible items to produce  
