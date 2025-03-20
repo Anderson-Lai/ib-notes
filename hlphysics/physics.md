@@ -241,4 +241,11 @@ for every **action force** there is an equal and opposite **reaction force**
 
 normal force and gravity are *not* an example of newton's third law  
 
+# Mar. 20, 2025 - Elevator Problems
+
+when calculating the **apparent weight** of someone on a scale in an elevator, find the normal force acting on the person  
+by newton's third law, there is an equal and opposite reaction of that normal force back onto the scale  
+
+the scale measures that force, and can calculate apparent weight with F = ma  
+
 
