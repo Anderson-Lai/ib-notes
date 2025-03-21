@@ -248,4 +248,16 @@ by newton's third law, there is an equal and opposite reaction of that normal fo
 
 the scale measures that force, and can calculate apparent weight with F = ma  
 
+# Mar. 21, 2025 - Acceleration Near the Earth's Surface
+
+**force field** - a region of space surrounding an object that can exert a force on other objects that are placed within
+that region and are able to interact with that force  
+**gravitational field strength (GFS)** - the force per unit mass acting on an object when placed in a gravitational field  
+
+mass stays constant, whereas weight is dependant on the GFS  
+mass is measured in **kg**, weight is measured in **N**  
+
+mass is measured with a balance scale that compares the reading with known masses  
+weight is measured using a normal scale that measures the reaction force of the normal force of the object  
+
 
