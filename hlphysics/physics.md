@@ -260,4 +260,23 @@ mass is measured in **kg**, weight is measured in **N**
 mass is measured with a balance scale that compares the reading with known masses  
 weight is measured using a normal scale that measures the reaction force of the normal force of the object  
 
+# Mar. 25, 2025 - Friction
+
+**static friction** - a force of friction that prevents the sliding of two surfaces relative to one another  
+**kinetic friction** - the force exerted on a moving object by a surface opposite to the direction of motion of the object  
+
+static friction is when an object **is at rest**, kinetic friciton is whilst the object **is in motion**  
+
+as applied force increases, static friction increases **linearly** until the **maximum static friction**  
+once the object begins to move, the static friction **decreases** then remains **relatively constant**  
+
+**the area of contact between the two surfaces does *not* affect the frictional force**  
+
+**dynamic friction (kinetic friction)** (F\_d) = μ\_d \* F\_n (normal force)  
+μ\_d is the **coefficient of dynamic friction**  
+each pair of materials has a different coefficient  
+
+**maximum force of static friction** (F\_s) = μ\_s \* F\_n  
+however, F\_s can be less than μ\_s \* F\_n if the applied force does not reach the maximum static friction
+(recall the linear relationship between applied force and static friction)  
 
