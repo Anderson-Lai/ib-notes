@@ -280,3 +280,24 @@ each pair of materials has a different coefficient
 however, F\_s can be less than μ\_s \* F\_n if the applied force does not reach the maximum static friction
 (recall the linear relationship between applied force and static friction)  
 
+# Mar. 26, 2025
+
+## Problem Solving
+- draw as many free body diagram as required, all with a frame of reference  
+- tension force is the same on both sides of the string  
+- equates two F\_net statements  
+
+## Springs
+springs will always try to restore itself to its original length  
+in the spring equation, **x is the distance the spring is from the equilibrium position**  
+
+there is an **spring force** that makes the spring want to return to its original length  
+**note: when an object is dangling off a spring, since the net force is 0, the spring force = force of gravity**  
+
+**Hooke's law is F = kx, where k is the *spring constant***  
+the relationship of force and distance is **linear** as shown in the equation  
+**k** may be shown as negative as the force is in the opposite direction  
+
+k is in units of **newtons / meter**  
+
+
