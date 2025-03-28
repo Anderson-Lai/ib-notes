@@ -300,4 +300,19 @@ the relationship of force and distance is **linear** as shown in the equation
 
 k is in units of **newtons / meter**  
 
+# Mar. 28, 2025 - Newtonian Gravitation
+
+there is a gravitational attraction between **any two objects**
+F\_g = G \* m1 \* m2 / r^2  
+
+G = 6.673 \* 10^-11 N \* m^2 / kg^2  
+
+where m is the masses of the two objects  
+r is the distance separating the two **centres of the objects**  
+
+thus, force of gravitational attraction is proportional to mass and inversely proportional to distance  
+
+by newton's third law, you pull on Earth with the equal force Earth pulls you on  
+
+the force is **only noticeable if one object is very large (e.g. the Earth)**  
 
