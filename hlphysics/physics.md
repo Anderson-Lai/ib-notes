@@ -325,9 +325,8 @@ uncertainty would then be 0.05 cm
 
 final reading would be xx.x5 +/- 0.05 cm  
 
-
 **uncertainty normally has one significant figure**  
-uncertainty is calculated with **(max - min) / *2***  
+uncertainty is calculated with **(max - min) / *2*** (**differs from chemistry**)   
 
 **final answer then is rounded to the number of decimal digits in the uncertainty**  
 
@@ -335,6 +334,11 @@ systematic errors **bias the measurement in the same direction**
 (consistently produce too large or too small of a measurement)  
 
 if a term is raised to the power of an exponent *n*, the uncertainty becomes **|n| \* relative uncertainty**  
+
+when multiplying measurements, **add the relative uncertainty**  
+when adding measurements, **add the absolute uncertainty**  
+
+when multiply a measurement by a constant, **multiply the absolute uncertainty by the constant as well** (this **differs from chemistry**)  
 
 # Apr. 3, 2025 - Work
 
