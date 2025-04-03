@@ -316,3 +316,22 @@ by newton's third law, you pull on Earth with the equal force Earth pulls you on
 
 the force is **only noticeable if one object is very large (e.g. the Earth)**  
 
+# Apr. 2, 2025 - Uncertainties
+
+**note: this is only for physics; chemistry is different**  
+
+suppose a ruler with 1/10 cm increments  
+uncertainty would then be 0.05 cm  
+
+final reading would be xx.x5 +/- 0.05 cm  
+
+
+**uncertainty normally has one significant figure**  
+uncertainty is calculated with **(max - min) / *2***  
+
+**final answer then is rounded to the number of decimal digits in the uncertainty**  
+
+systematic errors **bias the measurement in the same direction**  
+(consistently produce too large or too small of a measurement)  
+
+if a term is raised to the power of an exponent *n*, the uncertainty becomes **|n| \* relative uncertainty**  
