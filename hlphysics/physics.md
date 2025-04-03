@@ -338,10 +338,16 @@ if a term is raised to the power of an exponent *n*, the uncertainty becomes **|
 
 # Apr. 3, 2025 - Work
 
-work is a **scalar quantity**, it has no units  
+work is a **scalar quantity**, it has no direction  
+the unit for work is the **Joule (J)**  
+the derived units are **N \* m**  
 
 the formula for work is **W = F \* d \* cos(θ)**  
 as such, if there is a force, but no displacement, the **net work done on the object is 0**  
+
+**cos(θ) is used to find the horizontal component of the force**, since the vertical component is not displacing the object
+since the force applied is as the "front" of the object, so it will never displace the object vertically, even if the vertical component
+is greater than the gravity of force  
 
 assuming friction and an applied force, the work done by the applied force is **F_a \* d \* cos(θ)**  
 however, the **net work** is **(F_a - F_fr) \* d \* cos(θ)**  
