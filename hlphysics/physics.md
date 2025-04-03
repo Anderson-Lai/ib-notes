@@ -345,8 +345,8 @@ the derived units are **N \* m**
 the formula for work is **W = F \* d \* cos(θ)**  
 as such, if there is a force, but no displacement, the **net work done on the object is 0**  
 
-**cos(θ) is used to find the horizontal component of the force**, since the vertical component is not displacing the object
-since the force applied is as the "front" of the object, so it will never displace the object vertically, even if the vertical component
+**cos(θ) is used to find the force vector relative to the displacement**; since the perpendicular component is not displacing the object
+since the force applied is as the "front" of the object, so it will never displace the object perpendicularly, even if the perpendicular component
 is greater than the gravity of force  
 
 assuming friction and an applied force, the work done by the applied force is **F_a \* d \* cos(θ)**  
