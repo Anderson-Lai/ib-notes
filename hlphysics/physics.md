@@ -335,3 +335,13 @@ systematic errors **bias the measurement in the same direction**
 (consistently produce too large or too small of a measurement)  
 
 if a term is raised to the power of an exponent *n*, the uncertainty becomes **|n| \* relative uncertainty**  
+
+# Apr. 3, 2025 - Work
+
+work is a **scalar quantity**, it has no units  
+
+the formula for work is **W = F \* d \* cos(θ)**  
+as such, if there is a force, but no displacement, the **net work done on the object is 0**  
+
+assuming friction and an applied force, the work done by the applied force is **F_a \* d \* cos(θ)**  
+however, the **net work** is **(F_a - F_fr) \* d \* cos(θ)**  
