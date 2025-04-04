@@ -355,9 +355,33 @@ je ne pense pas qu'il soit beau
 **il n'exprime pas la négation**  
 
 cette experssion est pour un accent (it is used to emphasize the tone of the sentence)  
-le << ne explétif >> est seulement employer pour exprimer la peur, le doute etc.  
+le << ne explétif >> est seulement employer pour exprimer **la peur, le doute etc.**  
 
 pour l'expression << il est probable que >> il faut utiliser **l'indicatif**  
 c'est puisque l'expression << il est peu probable que >> existe, et pour cette expression il faut employer **le subjonctif**  
 
+# Apr. 4, 2025 - Le Subjonctif Avec Les Conjonctions
 
+il y a certains conjonctions qui introduisent le subjonctif  
+
+exemples:  
+- avant que  
+- bien que  
+- afin que  
+- à moins que (unless)
+- sans que (il est partie avant que je sache)  
+
+comme les autres emploies de subjonctif, le subjonctif sauf s'il y a deux sujets différents  
+quand vous voulez exprimer quelque idée avec ces conjonctions mais avec le même sujet, utilisez la forme **infinitif de ce conjonction**  
+(ex: afin que => afin de; avant que => avant de)  
+
+avec cette forme, il est nécessaire que vous utilisiez **l'indicatif du verbe**  
+
+mais si cette forme n'existe pas pour ce conjonction, vous pouvez utilisez le subjonctif même si les deux sujets sont le même  
+(ex: bien que je le fasse, je doive le refaire)  
+
+le **ne explétif** peut être aussi utilisé, plus courant après ces conjonctions:  
+- avant que  
+- de peur que  
+- de crainte que (je vais apporter mon parapluie de crainte qu'il **ne** pleuve)  
+- à moins que  
