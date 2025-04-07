@@ -342,12 +342,17 @@ when multiply a measurement by a constant, **multiply the absolute uncertainty b
 
 # Apr. 3, 2025 - Work
 
+work is **the transfer of energy**  
+
 work is a **scalar quantity**, it has no direction  
 the unit for work is the **Joule (J)**  
 the derived units are **N \* m**  
 
 the formula for work is **W = F \* d \* cos(θ)**  
+(assumes force is **constant**)  
 as such, if there is a force, but no displacement, the **net work done on the object is 0**  
+
+on a F-d graph, work is the area under the curve (**its antiderivative**)  
 
 **cos(θ) is used to find the force vector relative to the displacement**; since the perpendicular component is not displacing the object
 since the force applied is as the "front" of the object, so it will never displace the object perpendicularly, even if the perpendicular component
@@ -355,3 +360,35 @@ is greater than the gravity of force
 
 assuming friction and an applied force, the work done by the applied force is **F_a \* d \* cos(θ)**  
 however, the **net work** is **(F_a - F_fr) \* d \* cos(θ)**  
+
+positive work leads to an increase in speed of an object (**increase** in kinetic energy)  
+negative work leads to a decrease in speed of an object (**decrease** in kinetic energy)  
+
+since F is proportional to acceleration, this holds as constant force is assumed  
+
+# Apr. 7, 2025 - Energy 
+
+**energy** - the ability to do **work on another object**  
+
+**kinetic energy** - the energy possessed by moving objects by virtue of its speed  
+E\_k = (m \* v^2) / 2  
+
+as such, all moving objects have the ability to do work, i.e., they have energy  
+
+it is a **scalar quantity**  
+v is usually the **final velocity**  
+the unit is a **joule (j)**  
+
+**work-energy principle: the net mechanical work done on an object equals the object's change in kinetic energy**  
+W\_net = ΔE\_k  
+
+**potential energy** - a form of energy an object possesses because of its position in relation to force in its environment
+(ex: elastic potential energy - rubber band)  
+
+**gravitational potential energy** - energy possessed by an object by virtue of its position **relative to the surface of the Earth**  
+must always consider a **reference level**  
+
+E\_g = m \* g \* Δh  
+
+h is the **height above a chosen reference level**  
+also measured in **joules (j)**  
