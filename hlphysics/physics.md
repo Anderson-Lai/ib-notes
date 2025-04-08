@@ -392,3 +392,21 @@ E\_g = m \* g \* Δh
 
 h is the **height above a chosen reference level**  
 also measured in **joules (j)**  
+
+# Apr. 8, 2025 - Power
+
+**no energy can be created or destroyed; it can only be transformed**  
+(ex: going up the stairs => increase of potential energy from kinetic energy => kinetic energy comes from chemical potential energy
+(from food) => from thermal energy => from sun => etc.)  
+
+**power** - **the rate at which energy is transformed or the rate at which work is done**  
+(the **derivative of work**)  
+
+as such, **P = ΔE / Δt**  
+or, **P = W_net / Δt**  
+
+the unit is the **watt (W), the derived units are J/s**  
+
+since W = F \* d \* cos(θ), **P = F \* cos(θ) \* v (velocity)** as well  
+
+
