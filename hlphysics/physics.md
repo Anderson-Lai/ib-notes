@@ -395,7 +395,7 @@ also measured in **joules (j)**
 
 # Apr. 8, 2025 - Power
 
-**no energy can be created or destroyed; it can only be transformed**  
+**law of conservation of mechanical energy - no energy can be created or destroyed; it can only be transformed**  
 (ex: going up the stairs => increase of potential energy from kinetic energy => kinetic energy comes from chemical potential energy
 (from food) => from thermal energy => from sun => etc.)  
 
@@ -408,5 +408,13 @@ or, **P = W_net / Δt**
 the unit is the **watt (W), the derived units are J/s**  
 
 since W = F \* d \* cos(θ), **P = F \* cos(θ) \* v (velocity)** as well  
+
+# Apr. 9, 2025 - Mechanical Energy
+
+**mechanical energy (E_t) - the sum of kinetic and gravitational potential energy at a certain point**  
+thus, E\_t = E\_k + E\_g  
+thus, E\_t = (mv^2) / 2 + mgh  
+
+due to the law of conservation of mechanical energy, in a closed mechanical system, **total energy at one point = total energy at another point**  
 
 
