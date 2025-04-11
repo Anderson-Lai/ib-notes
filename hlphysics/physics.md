@@ -417,4 +417,8 @@ thus, E\_t = (mv^2) / 2 + mgh
 
 due to the law of conservation of mechanical energy, in a closed mechanical system, **total energy at one point = total energy at another point**  
 
+# Apr. 11, 2025 - Efficiency
+
+**efficiency = E_out / E_in \* 100%** (same formula as percentage yield in chemistry)  
+
 
