@@ -421,4 +421,17 @@ due to the law of conservation of mechanical energy, in a closed mechanical syst
 
 **efficiency = E_out / E_in \* 100%** (same formula as percentage yield in chemistry)  
 
+# Apr. 14, 2025 - Total Mechanical Energy
+
+graphing the spring force against the distance traveled by the spring allows for the work done to be found
+by finding the area **under the curve**  
+
+**note: spring energy may be referred to as elastic energy**  
+**note: this graph will be a linear relationship, as the y-axis has been substituted for kx, a linear function**    
+
+as such **W = 0.5 \* k \* ((x_2)^2 - (x_1)^2)**  
+where x\_2 is the final position of the spring and x\_1 the initial  
+
+thus **total mechanical energy = kinetic + potential + spring energy**  
+(and work done by friction is applicable)  
 
