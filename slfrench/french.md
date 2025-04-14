@@ -249,7 +249,7 @@ exemples:
 - aussitôt que  
 - après que  
 
-je vous appellerai quand j'arriveria  
+je vous appellerai quand j'arriverai    
 
 ## Le Futur Proche Entre Le Futur Simple
 le futur proche est utilisé en langue familier, pas en écriture  
@@ -371,7 +371,7 @@ exemples:
 - à moins que (unless)
 - sans que (il est partie avant que je sache)  
 
-comme les autres emploies de subjonctif, le subjonctif sauf s'il y a deux sujets différents  
+comme les autres emplois de subjonctif, le subjonctif sauf s'il y a deux sujets différents  
 quand vous voulez exprimer quelque idée avec ces conjonctions mais avec le même sujet, utilisez la forme **infinitif de ce conjonction**  
 (ex: afin que => afin de; avant que => avant de)  
 
@@ -385,3 +385,12 @@ le **ne explétif** peut être aussi utilisé, plus courant après ces conjoncti
 - de peur que  
 - de crainte que (je vais apporter mon parapluie de crainte qu'il **ne** pleuve)  
 - à moins que  
+
+# Apr. 14, 2025 - Le Subjonctif Passé
+
+les emplois sont le même que le subjonctif présent  
+la forme est le même que le passé composé en présent  
+
+ex: je suis heureux qu'il l'ait gagné  
+
+
