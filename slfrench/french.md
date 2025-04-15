@@ -183,8 +183,8 @@ les verbes transitif réponds seulement aux cettes questions:
 
 il y a deux types des verbes transitif, **transitif direct** et **transitif indirect**  
 
-les verbes transitif direct réponds aux questions **qui?** et **quoi** (ils ont un OD (objet direct))  
-les verbes transitif indirect réponds aux questions qui restent (ils ont un OID (objet indirect))  
+les verbes transitif direct répondent aux questions **qui?** et **quoi** (ils ont un OD (objet direct))  
+les verbes transitif indirect répondent aux questions qui restent (ils ont un OID (objet indirect))  
 
 ## Les Verbes Intransitif
 les verbes intransitif n'ont ni objet direct ni objet indirect  
@@ -392,5 +392,19 @@ les emplois sont le même que le subjonctif présent
 la forme est le même que le passé composé en présent  
 
 ex: je suis heureux qu'il l'ait gagné  
+
+# Apr. 15, 2025 - L'Infinitif Passé
+
+il n'y a pas un sujet avec le vebe  
+c'est un temps impersonnel  
+
+il n'y a qu'un sujet dans la phrase  
+
+**la partie de la phrase où se trouve l'infinitif passé est la première action qui se passe**  
+
+Ex:  
+après avoir ouvert le journal, mon père a lu les nouvelles  
+merci, d'**avoir lu** ma lettre  
+il veut avoir terminé avant midi  
 
 
