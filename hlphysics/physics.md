@@ -435,3 +435,4 @@ where x\_2 is the final position of the spring and x\_1 the initial
 thus **total mechanical energy = kinetic + potential + spring energy**  
 (and work done by friction is applicable)  
 
+
