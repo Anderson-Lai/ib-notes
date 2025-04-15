@@ -1,6 +1,6 @@
 # Sept. 11, 2024 - Le Passé Composé
 
-avoir ou être avec le participé passé  
+avoir ou être avec le participe passé  
 avoir et être sont les verbes auxiliares  
 
 les verbes auxiliares sont utilisés pour contruire un ton verbale  
@@ -12,7 +12,7 @@ les verbes auxiliares sont utilisés pour contruire un ton verbale
 - une action qui peut être répétée, mais il y a un fin  
 
 ## La Forme
-une verbe auxiliare + un participé passé  
+une verbe auxiliare + un participe passé  
 enlève le er et ajoute un é  
 
 prendre -> pris  
@@ -25,7 +25,7 @@ il faut faire l'accord avec le genre ou le nombre
 
 Ex: Elle a fini ses devoirs -> Elle les a finis  
 
-un COI ne fait pas l'accord avec le participé passé  
+un COI ne fait pas l'accord avec le participe passé  
 s'il y a un COD et un COI, il faut faire l'accord  
 
 # Sept. 24, 2024 - Le Passé Composé avec Être
@@ -407,4 +407,5 @@ après avoir ouvert le journal, mon père a lu les nouvelles
 merci, d'**avoir lu** ma lettre  
 il veut avoir terminé avant midi  
 
-
+si le participe passé aurait eu un accord s'il y aurait eu un sujet, faites l'accord avec le participe passé même s'il n'y a pas un sujet 
+en l'infinitif passé  
