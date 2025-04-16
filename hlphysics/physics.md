@@ -391,7 +391,7 @@ must always consider a **reference level**
 E\_g = m \* g \* Δh  
 
 h is the **height above a chosen reference level**  
-also measured in **joules (j)**  
+also measured in **joules (J)**  
 
 # Apr. 8, 2025 - Power
 
@@ -433,6 +433,35 @@ as such **W = 0.5 \* k \* ((x_2)^2 - (x_1)^2)**
 where x\_2 is the final position of the spring and x\_1 the initial  
 
 thus **total mechanical energy = kinetic + potential + spring energy**  
-(and work done by friction is applicable)  
+(and work done by friction if applicable)  
+
+# Apr. 16, 2025 - Heat Capacity
+
+**thermal energy** - the **total** kinetic and potential energy of an object at the molecular or atomic level  
+thus, gases normally have more thermal energy than solids  
+
+**temperature** - indicates the **average kinetic energy** in a given volume  
+
+**heat** - the amount of energy **transferred** from a warmer to a cooler object  
+denoted by ΔE\_h or Q  
+
+units are either **joule (J) or calories**  
+**1 calorie = 4.1841 J**  
+
+**specific heat capacity (c)** - amoutn of heat that a kilogram of substance can gain or lose in order ot change its **temperature**
+by one degree  
+units are **J / (kg \* C)** (note that the mass is in kg not g like in chemistry)  
+
+therefore, all heat capacities are 1000 times larger in physics  
+ex: c\_water = 4180 J / (kg \* C)  
+
+Q = mcΔT (same as chemistry except m is measured in kg in physics)  
+
+## The Principle of Thermal Energy Exchange
+**thermal equilibrium** - no more thermal energy flows between two objects  
+thus, at thermal equilibrium, the two objects are at the same **temperature**  
+
+by the law of the conservation of energy, total amount of **thermal energy** must be constant so long as none of it is lost to its surroundings  
+thus, **Q_released + Q_absorbed = 0**  
 
 
