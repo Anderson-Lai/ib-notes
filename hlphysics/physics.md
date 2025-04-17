@@ -464,4 +464,34 @@ thus, at thermal equilibrium, the two objects are at the same **temperature**
 by the law of the conservation of energy, total amount of **thermal energy** must be constant so long as none of it is lost to its surroundings  
 thus, **Q_released + Q_absorbed = 0**  
 
+# Apr. 17, 2025 
+
+## Calorimetry
+used to solve for heat capacity in certain solids  
+
+## States of Matter and Changes of State
+internal energy = thermal energy  
+
+while a matter is changing state, thermal energy absorbed increases, but temperature does not as inter-molecular bonds are being broken
+to allow the change in state  
+
+**latent heat** - the amount of thermal energy absorbed or released when a substance changes states and **does not change the temperature**  
+**released** during condensation and freezing  
+**stored** when thermal energy is added during melting and vapourization  
+
+latent means "hidden"  
+
+two types of latent heat:  
+- latent heat of fusion  
+- latent heat of vapourization  
+
+fusion: the amount of thermal energy needed to **melt or freeze** 1 kg of a substance  
+thus, more mass => more energy  
+**L_f = E_h / m**  
+or **Q = L_f \* m**  
+L\_f is a constant in **J / kg**  
+
+vapourization: thermal energy needed to **evaporate or condense** 1 kg of a substance  
+same formula, just different constant (latent heat of vapourization)  
+
 
