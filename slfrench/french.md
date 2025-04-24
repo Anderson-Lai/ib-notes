@@ -409,3 +409,44 @@ il veut avoir terminé avant midi
 
 si le participe passé aurait eu un accord s'il y aurait eu un sujet, faites l'accord avec le participe passé même s'il n'y a pas un sujet 
 en l'infinitif passé  
+
+# Apr. 24, 2025 - Les Phrases Hypothetiques
+
+il y a trois catégories:  
+- probable  
+- peu probable  
+- impossible  
+
+## Probable
+il y a plusieurs structures  
+
+si + le présent, le présent  
+Ex:  
+si tu aimes le chocolate, tu dois visiter Bruxelles  
+
+si + le présent, le futur  
+Ex:  
+si mon père a le temps, il le fera  
+
+si + le présent, l'impératif  
+Ex:  
+si tu as le etemps cet après-midi, passe me voir  
+
+## Peu Probable**
+si + l'imparfait, le conditionnel présent  
+Ex:  
+si elle avait le temps, elle viendrait  
+
+## Impossible
+si + le plus-que parfait, le conditionnel passé  
+Ex:  
+s'ils avaient étudié, ils auraient réussi à leurs examens  
+
+## Les Phrases Avec Deux Conditions
+quand une deuxième condition a été ajouté, il faut utiliser la conjonction que + le **subjonctif**  
+Ex:  
+si tu étudies beaucoup et que tu **fasses** toujours tes devoirs, tu réussiras dans ton cours de maths  
+
+**note: le temps d'autre phrase sera soit présent, soit futur soit impératif**  
+
+
