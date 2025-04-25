@@ -494,4 +494,63 @@ L\_f is a constant in **J / kg**
 vapourization: thermal energy needed to **evaporate or condense** 1 kg of a substance  
 same formula, just different constant (latent heat of vapourization)  
 
+# Apr. 25, 2025 - Nuclear Physics
 
+**nucleon** = proton + neutron  
+
+charge of a nucleus equals **number of protons \* e**  
+e is the elementary charge = 1.6 \* 10 ^ -19 C (coulomb)  
+
+alpha particles are the same as **helium**  
+notation for nucleon number / proton number can be applied to other particles (e.g. neutrinos, alpha particles, photons, protons, positrons, etc.)  
+
+**isotopes** - same number of protons, but different neutron number  
+identical chemical properties but different physical properties  
+
+an unstable nucleus is one that randomly emits particles that carry **energy away from the nucleus (radioactivity)**  
+
+all types of decay have a **conservation of electric charge and mass**  
+(nucleon numbers of products and proton number of products should add up to the reactant's)  
+
+## Types of Decay
+3 types:  
+- alpha (original nucleus turns into other nucleus + alpha particle (helium))  
+the new chemical is called the **daughter atom**, and the original is called the **parent atom**  
+
+- beta 
+**beta minus decay** - neutron in decaying nucleus turns into a proton, emitting an **electron and an anti-neutrino**  
+beta-minus particle = **electron**  
+
+a bar on top of the variable means it is the **anti-particle**  
+
+**beta positive decay** - emits a **positron and a neutrino (denoted with the letter *v*)**  
+=> **beta positive particle** = **positron**  
+
+- gamma  
+emits a **gamma ray**, a photon (denoted with **gamma**) with high-frequency electromagnetic radiation  
+
+## Radioactive Decay
+**radioactive decay is spontaneous and random, and may undergo multiple types of decay to become stable**  
+
+**law of radioactive decay** -
+the number of nuclei tha twill decay per second is **proportional to the number of nuclei in the sample that have not yet decayed**  
+ΔN / Δt ∝ N  
+
+**half-life** - the time it takes for the number of radioative nuclei to be reduced by a factor of 2  
+A = A\_0 \* (1/2) ^ (t / h)  
+
+A\_0 is the initial amount of the sample  
+h is the **half-life (in seconds)**  
+
+**activity** - the number of decays per second, measured by the **becquerel (bq), which is 1 decay per second**  
+
+## Fundamental Forces
+**4 fundamental fources**  
+- electromagnetic - acts on any particle with an electric charge, given by **Coulomb's law**  
+has **infinite range**  
+- weak nuclear interaction - acts on **protons, neutrons, electrons, and neutrinos** in order to cause beta decay  
+short range of 10^-18 meters  
+- strong nuclear interaction - mainly **attractive force** between protons and neutrons to keep them bound to each other inside the nucleus  
+has a short range of 10^-15 meters  
+- gravitational interaction - force of attraction between masses; is irrelevant in atomic particles due to extremely small masses  
+has an infinite range  
