@@ -449,4 +449,27 @@ si tu étudies beaucoup et que tu **fasses** toujours tes devoirs, tu réussiras
 
 **note: le temps d'autre phrase sera soit présent, soit futur soit impératif**  
 
+# Apr. 28, 2025 - Le Participe Présent
+
+- mettez le verbe à forme de **nous** au présent de l'indicatif  
+- enlevez le "-ons"  
+- ajoutez la terminaison **"-ant"**  
+
+ex: faire => faisant  
+
+il y a trois verbes irréguliers:  
+- être - étant  
+- avoir - ayant  
+- savoir - sachant  
+
+## Les Emplois
+- étant adjectif  
+ex: la classe était très ennuyante  
+- étant verbe pour exprimer une action qui a lieu au même temps ou juste avant l'action du verbe principale  
+ex: Étant pressé, elle a oublié de fermer la porte clé  
+- le gérondif est utilisé pour exprimer **quand et comment** on fait quelque chose  
+ces actions devrait se passer au même temps  
+ex: En lisant ma mère est entrée  
+le message est le même que << pendant que je lisais, ma mère est entrée >>  
+
 
