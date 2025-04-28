@@ -533,7 +533,7 @@ emits a **gamma ray**, a photon (denoted with **gamma**) with high-frequency ele
 **radioactive decay is spontaneous and random, and may undergo multiple types of decay to become stable**  
 
 **law of radioactive decay** -
-the number of nuclei tha twill decay per second is **proportional to the number of nuclei in the sample that have not yet decayed**  
+the number of nuclei that will decay per second is **proportional to the number of nuclei in the sample that have not yet decayed**  
 ΔN / Δt ∝ N  
 
 **half-life** - the time it takes for the number of radioative nuclei to be reduced by a factor of 2  
@@ -554,3 +554,55 @@ short range of 10^-18 meters
 has a short range of 10^-15 meters  
 - gravitational interaction - force of attraction between masses; is irrelevant in atomic particles due to extremely small masses  
 has an infinite range  
+
+# Apr. 28, 2025 - Mass Defect and Binding Energy
+
+atomic mass unit (**amu / u**) - 1/12 the mass of an atom of carbon-12  
+1 u = 1.66 \* 10^-27 **kg** (note the unit; it is not grams like in chemistry)  
+
+energy is released when nucleons are brought together to form a nucleus, equivalent to a loss of mass  
+**mass of nucleons is greater when far paart than mass of nucleus**  
+
+E = mc^2  
+
+**note: 1 amu = 931.5 MeV / c^2**  
+(refer to nuclear physics images for the derivation)  
+
+the mass of the protons plus the mass of the neutrons is larger than the mass of the nucleus  
+this is the **mass defect (δ)**  
+
+δ = mass of nucleons - mass of nucleus  
+δ = (number of protons \* mass of proton (amu)) + (nucleon number - atomic number) \* (mass of neutron) - (mass of nucleus)  
+
+**note: nucleon number - atomic number = number of neutrons**  
+
+**the binding energy of a nucleus is the energy required to completely separate the nucleons of that nucleus**  
+binding energy = δc^2  
+
+1 eV (electron-volt) = 1.602 \* 10^-19 J  
+
+MeV (mega electron-volt) = 10^6 eV  
+
+## Nuclear Fission
+heavy nucleus => lighter nuclei  
+
+when a neutron is absorbed by uranium-235, it turns into u-236, which then splits into lighter nuclei + neutrons  
+these neutrons can then be absorbed by other u-235, creating a **chain reaction**  
+
+thus, a certain amount of u-235 must already be present, the **critical mass**  
+
+recall: E = mc^2  
+subtract LHS mass from RHS mass => negative mass  
+=> negative energy, an exothermic reaction => energy is **released**  
+
+this energy appears as **kinetic energy in the products**  
+
+this process is an **induced process**, i.e., a neutron must be shot into the u-235  
+spontaneous fission, i.e., a nucleus splitting without neutron absorption, is possible for some heavy elements but rare  
+
+## Nuclear Fusion
+two lighter nuclei => heavier one + energy  
+
+deuterium + deterium -> helium-3 + neutron  
+
+find the change in mass, and use E = Δmc^2 to find the energy released  
