@@ -606,3 +606,39 @@ two lighter nuclei => heavier one + energy
 deuterium + deterium -> helium-3 + neutron  
 
 find the change in mass, and use E = Δmc^2 to find the energy released  
+
+after fusion and fission, the products are more stable than the reactants (they have a higher **average binding energy per nucleon**)  
+the difference in energy between products and reactants is the energy emitted; this energy is emitted through a loss in mass (the **mass defect**)  
+
+# Apr. 29, 2025 - Electricity and Its Production
+
+**static electricity** - an imbalance of electric charge on the **surface** of an object  
+**current electricity** - charge (electrons) flow  
+
+**electric current** - electrons flow *freely* through a conductor to **transfer their energy (the ability to do work)**  
+**current** - the number of charges moving through **a point** every **second**  
+
+as such, I = Q/Δt  
+
+I is **current** in **amperes** (A)  
+
+Q is the amount of charge in **coulombs** (C)  
+1 C = **6.2 * 10^18 electrons**  
+
+1 A = **1 C/s  (one coulomb per second)**  
+
+Δt is the time in seconds  
+
+two types of current flow:  
+- direct current (DC): movement of electrons in **one direction**  
+- alternating current (AC): electrons move **back and forth in *different* directions**  
+
+**conventional current flow** - positive charges flow from positive to negative terminal of energy source  
+**electron current flow** - negative charges flow from the negative to the positive terminal of the energy source  
+
+**electrical power** - the **rate** at which electrical energy is **produced or consumed or transformed** in a given time  
+
+P = ΔE / Δt  
+(same formula as in the energy unit)  
+
+
