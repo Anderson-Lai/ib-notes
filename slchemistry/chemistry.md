@@ -203,7 +203,7 @@ it is *generally* non-polar, although certain factors could change that
 
 BCL2F could be polar, as it is no longer symmetrical (as opposed to BCL3)  
 
-#### Subgroup (molecular geoemtry is bent, electron domain remains the same)
+#### Subgroup (molecular geometry is bent, electron domain remains the same)
 AX2E -> has a 117 degree spread  
 E is a **lone pair**  
 it is no longer symmetrical  
@@ -232,7 +232,7 @@ draw the dipoles from positive to negative
 
 # Sept. 12, 2024 
 
-#### Subgroup 2 of Tetrahdedral (molecular geoemetry is bent, electron domain is still Tetrahedral)  
+#### Subgroup 2 of Tetrahdedral (molecular geometry is bent, electron domain is still Tetrahedral)  
 formula = AX2E2 -> spread of 105 degrees   
 
 Ex: H2O  
