@@ -641,4 +641,29 @@ two types of current flow:
 P = ΔE / Δt  
 (same formula as in the energy unit)  
 
+## Apr. 30, 2025 - Electric Potential Energy
+
+since electrons repel one another, energy must be transferred to overcome this force and to keep electrons close together  
+this increases the electrons' **electric potential energy**  
+
+therefore, the movement of electrons require a change in energy  
+
+**electric potential** - the amount of **electric potential energy** associated with a charge (an electron)  
+
+electric potential measures the amount of **electrical energy and the quantity of electrons**  
+thus, the unit is Joule / Coulomb (recall, a coulomb is just a number of electrons)  
+the J/C is known as the **volt (V)**  
+
+it is often more useful to measure the **change in electric potential between two points in a circuit**  
+this is the **electric potential difference, or *voltage***  
+
+V = ΔE/Q  
+
+V = electrical potential difference (in volts)  
+ΔE = change in electric potential energy (in joules)  
+Q = amount of charge (electrons, measured in **coulombs**)  
+
+a **voltmeter** measure the electrical potential difference  
+it is only accurate when connected in **parallel with the circuit**  
+
 
