@@ -641,7 +641,7 @@ two types of current flow:
 P = ΔE / Δt  
 (same formula as in the energy unit)  
 
-## Apr. 30, 2025 - Electric Potential Energy
+# Apr. 30, 2025 - Electric Potential Energy
 
 since electrons repel one another, energy must be transferred to overcome this force and to keep electrons close together  
 this increases the electrons' **electric potential energy**  
@@ -650,12 +650,19 @@ therefore, the movement of electrons require a change in energy
 
 **electric potential** - the amount of **electric potential energy** associated with a charge (an electron)  
 
-electric potential measures the amount of **electrical energy and the quantity of electrons**  
+current flows **through an object** when there is a **potential difference across an object**  
+a battery provides this difference  
+
+electric potential measures the amount of **electrical energy per quantity of electrons**  
 thus, the unit is Joule / Coulomb (recall, a coulomb is just a number of electrons)  
 the J/C is known as the **volt (V)**  
 
 it is often more useful to measure the **change in electric potential between two points in a circuit**  
 this is the **electric potential difference, or *voltage***  
+
+**potential difference (voltage)** - the difference in electrical potential energy per unit charge between two different points  
+
+there is always a **drop in voltage** across a load (anything that transforms electrical energy => any other form of energy)  
 
 V = ΔE/Q  
 
@@ -665,5 +672,44 @@ Q = amount of charge (electrons, measured in **coulombs**)
 
 a **voltmeter** measure the electrical potential difference  
 it is only accurate when connected in **parallel with the circuit**  
+
+V = E/Q => E = VQ  
+I = Q/t => Q = It  
+
+=> E = VIt  
+
+# May 2, 2025 - Electrical Resistance
+
+resistance induces **heat**, due to **friction between electrons and the material they are traveling in**  
+the meausre of the opposition to electrical flow is **electrical resistance**  
+
+four factors that affect resistance:  
+- type of material  
+measured by **resistivity in *ohm \* meter***, the measure of the resistance of a substance  
+- cross-sectional area (inversely proportional)  
+- length (proportional)  
+- temperature (proportional)  
+
+at a fixed temperature:  
+R = p \* L / A  
+
+where:  
+R = electrical resistance  
+L = length  
+A = cross-sectional area  
+
+the constant **_p_ depends on material and temperature**  
+
+**Ohm's law:**  
+R = V/I  
+
+where:  
+R = electrical resistance  
+V = voltage (electrical potential difference)  
+I = current  
+
+there is a resistance of 1 ohm (denoted with omega: **Ω**) when 1A of current flows with a potential difference of 1V across a resistor  
+
+P = IV = RI^2 = V^2 / R  
 
 
