@@ -712,4 +712,18 @@ there is a resistance of 1 ohm (denoted with omega: **Ω**) when 1A of current f
 
 P = IV = RI^2 = V^2 / R  
 
+# May 6, 2025 - Kirchoff's Laws
+
+**kirchoff's voltage law** - any complete path in a circuit, the increase in voltage at the source is the same as the voltage decrease
+throughout the rest of the circuit  
+
+V\_series = V\_1 + V\_2 + V\_3 + ...  
+V\_parallel = V\_1 = V\_2 = V\_3 = ...  
+
+**kirchoff's current law** - in a closed circuit, the amount of current entering the junction is equal to the amount of current
+exiting the junction  
+
+I\_series = I\_1 = I\_2 = I\_3 = ...  
+I\_parallel = I\_1 + I\_2 + I\_3 + ...  
+
 
