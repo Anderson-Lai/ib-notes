@@ -712,7 +712,7 @@ there is a resistance of 1 ohm (denoted with omega: **Ω**) when 1A of current f
 
 P = IV = RI^2 = V^2 / R  
 
-# May 6, 2025 - Kirchoff's Laws
+# May 6, 2025 - Kirchoff's Laws and Resistors In Circuits
 
 **kirchoff's voltage law** - any complete path in a circuit, the increase in voltage at the source is the same as the voltage decrease
 throughout the rest of the circuit  
@@ -727,5 +727,23 @@ thus, the current in a series circuit is always the same, even **across the load
 
 I\_series = I\_1 = I\_2 = I\_3 = ...  
 I\_parallel = I\_1 + I\_2 + I\_3 + ...  
+
+## Resistors
+
+recall ohm's law and kirchoff's voltage law in a series circuit  
+V\_series = V\_1 + V\_2 + V\_3 + ...  = I\_series \* R\_series = I\_1 \* R\_1 + I\_2 \* R\_2 + ...  
+
+since current is constant in a series circuit => R\_series = R\_1 + R\_2 + ...  
+
+for a parallel circuit  
+I\_parallel = I\_1 + I\_2 + I\_3 + ...  
+
+by ohm's law  
+V\_parralel / R\_parralel = V\_1 / R\_1 + V\_2 / R\_2 + ...  
+
+by kirchoff's voltage law, voltage remains the same throughout a series circuit  
+thus,  
+
+1/R\_parralel = 1/R\_1 + 1/R\_2 + ...  
 
 
