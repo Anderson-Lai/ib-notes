@@ -746,4 +746,9 @@ thus,
 
 1/R\_parralel = 1/R\_1 + 1/R\_2 + ...  
 
+# May 7, 2025
+
+an **ideal ammeter** has **zero resistance**  
+an **ideal voltmeter** has **infinite resistance**  
+
 
