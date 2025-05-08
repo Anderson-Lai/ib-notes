@@ -751,4 +751,11 @@ thus,
 an **ideal ammeter** has **zero resistance**  
 an **ideal voltmeter** has **infinite resistance**  
 
+# May 8, 2025
 
+by KVL, there is a voltage **drop** when the **conventional current** goes from **high to low**  
+thus, there is a voltage **gain** when the conventional current goes from **low to high**  
+
+a battery may have a **voltage drop** if it is being **charged**  
+
+the side of the battery with the longer line is the **positive side**  
