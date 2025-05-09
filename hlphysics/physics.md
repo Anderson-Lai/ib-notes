@@ -759,3 +759,25 @@ thus, there is a voltage **gain** when the conventional current goes from **low 
 a battery may have a **voltage drop** if it is being **charged**  
 
 the side of the battery with the longer line is the **positive side**  
+
+# May 9, 2025 - Internal Resistance and EMF
+
+**emf (electromotive force) - work done per unit charge in moving charge across the battery terminals**  
+measured in **volts**  
+
+hence, ε = emf = W/Q = P/I  
+
+where W = work and Q = coulombs  
+
+**emf = voltage if there is *no internal resitance***  
+
+inside real batteries, there is resistance (that changes over time)  
+it is connected in **series inside the battery**  
+
+V = ε - Ir, where **r** is the internal resistance of the battery  
+
+if the voltage changes across the circuit are summed up and the resistance of the battery is also accounted for, the emf is obtained  
+
+given V = ε - Ir, as r is constant, it resembles the equation of a linear function, y = mx + b, where r = m  
+
+
