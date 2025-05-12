@@ -780,4 +780,4 @@ if the voltage changes across the circuit are summed up and the resistance of th
 
 given V = ε - Ir, as r is constant, it resembles the equation of a linear function, y = mx + b, where r = m  
 
-
+**capacity** - the amount of charge a battery can deliver to an external circuit in it lifetime  
