@@ -781,3 +781,59 @@ if the voltage changes across the circuit are summed up and the resistance of th
 given V = ε - Ir, as r is constant, it resembles the equation of a linear function, y = mx + b, where r = m  
 
 **capacity** - the amount of charge a battery can deliver to an external circuit in it lifetime  
+
+# May 12, 2025 - Magnetism
+
+**magnetism** - force of **attraction or repulsion** that surrounds the earths and affects a compass  
+
+two types of magnets:  
+- permanent  
+- temporary  
+
+a magnetic field is a **force at a distance**  
+a magnetic creates a magnetic field which is a **distribution of magnetic force**  
+
+magnets always have a **north and south pole**  
+dissimilar poles **attract**  
+
+**magnetic south is at geographical north**  
+
+**field maps shows the strength and direction of a force in a magnetic field**  
+direction of arrows = diretion that the north pole of the compass would point to  
+
+characteristics of magnetic field lines:  
+- always leave the north pole, travel to space, and end at the south pole  
+- their concentration is at the poles  
+- never intersect   
+
+a magnetic force exists either by allowing a **charge through the material or due to the material itself**  
+
+**oersted's principle** - **positive charge** moving through a straight conductor produces a **circular magnetic field** around the conductor  
+uses **conventional current**  
+
+**right-hand rule 1** for **straight conductors (wires)**:  
+- grasp the conductor with your right hand  
+- point your thumb in the direction of **conventional current**  
+- curled fingers will indicate the **direciton of the magnetic field**  
+
+**left-hand rule 1** is used for the flow of **electrons, not conventional current**  
+
+straight conductors give a **weak and circular magnetic field**  
+**curved conductors** make the field **stronger and straighter**  
+(looks like a spring / coil)  
+
+**right handle rule 2** for **curved conductors / *solenoids***  
+- grasp the helix with your right hand  
+- point the fingers in the direction of **conventional current**  
+- **thumb** indicates the **direction of the magnetic field (towards north)**  
+
+strengthening magnetic fields:  
+- increase number of loops  
+- increase the amount of current  
+- including a **soft iron core**  
+
+an x in the wire means it goes **into the page**  
+"x marks the spot" => into the ground  
+or envision an arrow and what you would see if the arrow was in the middle of traveling out of hte wire  
+
+
