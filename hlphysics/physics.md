@@ -834,6 +834,6 @@ strengthening magnetic fields:
 
 an x in the wire means it goes **into the page**  
 "x marks the spot" => into the ground  
-or envision an arrow and what you would see if the arrow was in the middle of traveling out of hte wire  
+or envision an arrow and what you would see if the arrow was in the middle of traveling out of the wire  
 
 
