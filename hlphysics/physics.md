@@ -799,6 +799,8 @@ dissimilar poles **attract**
 **magnetic south is at geographical north**  
 
 **field maps shows the strength and direction of a force in a magnetic field**  
+
+lines **originate from the north pole and go to the south pole**  
 direction of arrows = diretion that the north pole of the compass would point to  
 
 characteristics of magnetic field lines:  
@@ -835,5 +837,27 @@ strengthening magnetic fields:
 an x in the wire means it goes **into the page**  
 "x marks the spot" => into the ground  
 or envision an arrow and what you would see if the arrow was in the middle of traveling out of the wire  
+
+# May 15, 2025 - Motor Principle
+
+## Right Hand Rule 3
+two magnetic fields **interact with one another** to produce a **force**  
+
+the force is **perpendicular to both the conductor's charge flow and the external magnetic field**  
+force's strength depends on the **strength of the external magnetic field and the current through the conductor**  
+
+field lines in the same direction repel, opposite direction attract  
+
+**right-hand rule 3** (palm rule):  
+- fingers point in the direction of the **external magnetic field from north to south**  
+- thumb point in the direction of **conventional current**  
+- palm indicates **direction of force produced**  
+
+all directions are **perpendicular**  
+
+## Direct Current Motor
+two permanent magnets with different polarity  
+
+temporary **electromagnet** rotates in between the two magnets, a **motor**  
 
 
