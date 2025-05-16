@@ -860,4 +860,33 @@ two permanent magnets with different polarity
 
 temporary **electromagnet** rotates in between the two magnets, a **motor**  
 
+# May 16, 2025
+
+an electric charge moving in a region of magnetic field experiences a new type of force called the **magnetic force**  
+
+there is no magnetic force if **current is parallel to the magnetic field**  
+
+the magnitude of the magnetic field is known as the **magnetic flux density**  
+it is given by:  
+
+B = F/(qvsinθ)  
+given in **tesla (T)**  
+
+v is the velocity of the charge (which is normally **conventional current**)  
+q is coulombs  
+f is force  
+
+these **beta fields** are the same as **magnetic fields**  
+
+in the other right-hand rule, the beta field is the index finger  
+the velocity of conventional current is the thumb  
+resultant force is the middle finger  
+
+two parallel wires with the same direction of current will **attract**  
+(can be explained using magnetic fields and opposing direction of the field lines)  
+
+thus, the same wires with opposite direction of current will **repel**  
+
+
+
 
