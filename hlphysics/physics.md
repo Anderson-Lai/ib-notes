@@ -887,6 +887,17 @@ two parallel wires with the same direction of current will **attract**
 
 thus, the same wires with opposite direction of current will **repel**  
 
+# May 22, 2025
 
+**law of electromagnetic induction (generator effect)** - an electric current is induced in a conductor whenever the magnetic field in
+the region of the conductor changes  
 
+repeatedly switching the power on and off generates AC current since the current swaps back and forth between the two coils  
 
+**lenz's law** - when a conductor interacts with a magnetic field, there must be an induced current that **opposes the interaction**
+because of the law of the **conservation of energy**  
+
+the **coil opposes whatever the magnet is trying to do**  
+ex: a north pole of a magnet approaching a coil will lead to that end of the coil being the **north pole of the coil's magnetic field**  
+
+removal of KE requries a force opposite to the direction of motion  
