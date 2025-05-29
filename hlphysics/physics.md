@@ -901,3 +901,116 @@ the **coil opposes whatever the magnet is trying to do**
 ex: a north pole of a magnet approaching a coil will lead to that end of the coil being the **north pole of the coil's magnetic field**  
 
 removal of KE requries a force opposite to the direction of motion  
+
+# May 29, 2025 - Waves
+
+## Vibrations
+**vibration** - the *cyclical motion* about an **equilibrium point**  
+**equilibrium point** - the middle point in the cyclical motion  
+
+the equilibrium point is located in the middle of the maximum distance between the left and the right  
+
+**mechanical wave** - the transfer of energy via **particle vibration**  
+ex: beating a drum  
+
+the mechanical wave is propogated through a **medium**  
+
+***net motion*** of a particle causes vibration  
+**net motion** - displacement of a particle over a time interval  
+
+an ideal particle has **0 net motion** after vibrating  
+hence, **no work** was done on the particle by the wave, thus the wave can **continue indefinitely**  
+
+however, **thermal energy does *not* cause the transfer of energy via a mechanical wave due to the *random* movement of particles
+that thermal energy instigates**  
+
+as atoms in a solid are held together in a lattice structure, the disturbance of a mechanical wave only vibrates each particle slightly  
+
+if a medium returns to its original state after being disturbed, it is said to be **elastic**  
+(most solids are elastic)  
+
+as such, mechanical waves **travel further in rigid media** than in non-rigid media  
+
+recall: liquids and gases are both fluids as they can flow  
+
+due to gases being the **least dense state of matter**, they rely on **translational molecular motion (straight-line motion)** to
+transfer vibrations  
+
+## Types of Mechanical Waves
+**transverse wave** - particles vibrate **perpendicular** to the direction of the flow of energy  
+ex: water waves  
+
+the origin of vibration is known as the **stimulus**  
+
+**longitudinal wave** - particles vibrate in the same direction (**parallel**) to the direction of the flow of energy  
+ex: a spring with multiple masses  
+
+in a gas, a longitudinal wave results in regions of **compressions and rarefactions**  
+**compressions** - pressure is higher than ambient pressure  
+**rarefaction** - pressure is **lower** than ambient pressure  
+
+ambient pressure - average pressure of the entire gas  
+
+a vibrating object may produce a longitudinal wave in the medium that surrounds the object  
+if these waves are detectable to the human ear, the waves are **sound**  
+
+the **compressions and rarefactions of the wave are interpreted by the brain as sound**  
+
+sound is also transmitted as a longitudinal wave in a liquid  
+however, in a solid, sound is transmitted as **either** a longitudinal wave or transverse wave  
+
+in many cases, these basic wave types **combine to make a more complex wave**  
+
+ex: wind imparting energy on water, hammer hitting a surface  
+produces both **a longitudinal wave and one or more transverse waves**  
+
+## Wave Characteristics
+descriptions used to describe waves are similar to those used to describe **sine waves in math**  
+
+**amplitude** - maximum displacement of a vibrating particle in a wave from its equilibrium point  
+hence, 2 \* amplitude = range of wave  
+
+**waveform** - shape of the wave when graphed  
+
+**crest** - maximum point of a transverse wave  
+**trough** - minimum point of a transverse wave  
+
+**wavelength (ƛ)** - distance between two similar points in successive **identical cycles in a wave**  
+**note: wavelength = period (in math) = 2π / k**  
+
+normally measured in **metres**  
+
+**phase (unique to physics)** - x-coordinate of any unique point on the wave  
+as such, phase is measured in the same units as wavelength  
+
+phase can be measured as a decimal percentage => **halfway point of a period (in math) / wavelength has a phase of 0.5**  
+
+**phase shift** - shifts entire wave along the x-axis  
+a phase shift of ƛ/2 for one wave makes that wave's trough at the other wave's crest  
+the waves are thus said to be **totally out of phase**  
+
+**in phase** - identical waves with identical phase shifts  
+**out of phase** - identical waves with **non-identical phase shifts**  
+
+**frequency** - number of cycles per unit time  
+normally measured in **hertz (Hz)**, which is one cycle **per second**  
+
+**period (T)** - time for vibrating particles in a wave to complete one cycle  
+**note: this is different from periods in math**  
+
+frequency = cycles / unit time  
+period = time / 1 cycle  
+
+thus, **frequency \* period = 1, as f = 1/T and T = 1/f**  
+
+**wave speed (v)** - measure of the speed of the wave, consequently it is also the **speed of energy in the wave**  
+
+since speed = distance / time, **wave speed = wavelength / period**  
+as such, the unit of wave speed is **metres / second**  
+
+wave speed is affected by the material and temperature of the medium  
+
+**simple harmonic motion** - any motion that repeats itself at regular intervals **about an equilibrium point** 
+with the same amplitude, period, and frequency for each oscillation  
+
+ex: particles in a solid, a pendulum, wave machines  
