@@ -1014,3 +1014,21 @@ wave speed is affected by the material and temperature of the medium
 with the same amplitude, period, and frequency for each oscillation  
 
 ex: particles in a solid, a pendulum, wave machines  
+
+# Jun. 2, 2025
+
+from v = ƛ/T, we can derive **v = ƛf** since T = 1/f  
+where T = period and f = frequency  
+
+the speed of sound depends on the **density and temperature**  
+
+v = 331.4 m/s + 0.606 \* T  
+where T is the **temperature**  
+where v is the **local speed of sound**  
+
+**sonic boom** - when objects move faster than the speed of sound  
+
+**mach number** = airspeed of object / **local speed** of sound  
+
+
+
