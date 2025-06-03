@@ -1020,6 +1020,8 @@ ex: particles in a solid, a pendulum, wave machines
 from v = ƛ/T, we can derive **v = ƛf** since T = 1/f  
 where T = period and f = frequency  
 
+this is the **universal wave equation**  
+
 the speed of sound depends on the **density and temperature**  
 
 v = 331.4 m/s + 0.606 \* T  
@@ -1030,5 +1032,33 @@ where v is the **local speed of sound**
 
 **mach number** = airspeed of object / **local speed** of sound  
 
+# Jun. 3, 2025
+
+**total constructive interference** - when two waves of the same amplitude and same sign come together  
+amplitude is added together  
+
+**total destructive interference** - two waves of the same amplitude but different signs come together  
+amplitude cancels out to be **0**  
+
+**interference** - the *resultant wave* when two or more waves meet each other at a **particular point** at the **same time**  
+
+hearing is simply sampling the **sound waves at a particular point** in space from all sound sources  
+
+**principle of superposition** - the *net wave* has an amplitude equal to the **vector sum** of all wave amplitudes that meet 
+at a particular point  
+
+**fixed end reflection** - wave reaches the end of a fixed point, then reflects in opposite direction, but inverted  
+ex: rope to a pole  
+
+the **speed of the reflected pulse** is the **same** as the **incident pulse**  
+**wavelength and amplitude** also **remains the same**  
+
+**free end reflection** - reflects in opposite direction but is **not inverted** as the **end is not secured**  
+
+**beats** - periodic and repeating fluctuations heard in the intensity of a sound when two sound waves of very similar frequencies
+interfere with one another  
+
+**beat frequency** - rate at which the volume is heard to be oscillating from high volume to low volume  
+beat frequency = | f\_1 - f\_2 |  
 
 
