@@ -1061,4 +1061,43 @@ interfere with one another
 **beat frequency** - rate at which the volume is heard to be oscillating from high volume to low volume  
 beat frequency = | f\_1 - f\_2 |  
 
+# Jun. 6, 2025 - Resonance and Standing Waves
+
+**standing wave** - produced when waves with **same frequency, amplitude, and wavelength** travel in **opposite** directions and
+interfere with each other  
+
+the two waves are also **in phase**  
+
+it is a special case of interference  
+
+creates a wave that is **larger in amplitude**  
+creates **nodes and antinode**  
+
+**antinode** - places of constructive interference (displacement of particles alter between max and min amplitude)   
+**node** - places of destructive interference (displacement remains 0)  
+
+distance between each **node is half a wavelength**  
+
+the movement of the two waves in opposite directions make the resultant wave appear to be **stationary (standing)** and having its
+amplitude periodically shift from maximum displacement to zero to minimum displacement  
+
+**harmonic** - when standing wave's frequency is an **integer multiple** of the two opposing waves (the **fundamental frequency**)    
+harmonic = nodes - 1  
+
+**overtones** - the resulting modes of vibration when a string vibrates in more than one segment  
+overtone = harmonic - 1  
+
+standing waves can be produced in **pipes with open ends**  
+ex: a flute  
+
+in a scenario with **one end closed and another end open, there are only *odd* harmonics**  
+
+string of length L:  
+- both ends fixed or both free: wavelength = 2L / n, where n is a positive integer  
+- one end fixed, other is free: wavelength = 4L / n, where n is a positive odd integer   
+
+pipe of length L:  
+- both ends open or both closed: wavelength = 2L / n, where n is a positive integer  
+- one end closed, other open: wavelength = 4L / n, where n is a positive odd integer   
+
 
