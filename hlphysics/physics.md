@@ -1129,3 +1129,5 @@ f' = f(v / (v **+** u))
 ƛ' = ƛ(1 + u/v)  
 
 where **v** is the **speed of sound**  
+and **u** is the **speed of the object**  
+
