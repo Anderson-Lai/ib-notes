@@ -1100,4 +1100,32 @@ pipe of length L:
 - both ends open or both closed: wavelength = 2L / n, where n is a positive integer  
 - one end closed, other open: wavelength = 4L / n, where n is a positive odd integer   
 
+# Jun. 9, 2025
 
+oscillating waves undergo **simple harmonic motion**, which produce a sine wave when graphed  
+amplitude of the wave can be increased by matching the **natural frequency**  
+
+**mechanical resonance** - **natural frequency** at which an object will vibrate  
+a vibrating source forces an object to vibrate at the same frequency as the object's natural frequency  
+
+**standing waves** are produced at **resonance**  
+
+## The Doppler Effect
+**wavefronts** emitted by a stationary source are **concentric**  
+
+**doppler effect** - **change in the observed frequency** of a wave which happens whenever there is **relative motion** between the
+source and the observer  
+
+ƛ' = (v - u) / f  
+f' = v/ƛ'  
+
+f' = f(v / (v - u))  
+ƛ' = ƛ(1 - u/v)  
+
+where the source is moving **towards the observer**  
+
+when the source is moving **away from the observer**:  
+f' = f(v / (v **+** u))  
+ƛ' = ƛ(1 + u/v)  
+
+where **v** is the **speed of sound**  
